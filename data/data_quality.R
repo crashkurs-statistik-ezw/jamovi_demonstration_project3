@@ -12,11 +12,13 @@ view(erasmus)
 
 # Data Quality Checks ausführen -------------------------------------------
 erasmus |> 
-  verify(has_only_names("id", "")) |>
-  verify(SuS >= 0) |> 
-  assert(in_set("1", "2", "3", "4", "GST"), Klasse) |> 
-  assert(in_set("GS", "SBBZ"), Schultyp) |> 
-  assert(in_set("oe", "p"), ST) |> 
-  assert(in_set(schulen_abk_alle), Schule) |>
-  verify(has_class("Jahr", class = "integer"))
+  verify(has_only_names("id", "mobility_start_month",
+                        "mobility_end_month", "mobility_duration",
+                        "gender", "gender_transformed", 
+                        "age", "sending_city")) |>
+  assert(in_set("Female", "Male"), gender_transformed) |>
+  assert(within_bounds(10, 25), age) |> 
+  assert(is_uniq, id) |> 
+  assert(in_set("Wien", inverse = TRUE), sending_city)
+
 
