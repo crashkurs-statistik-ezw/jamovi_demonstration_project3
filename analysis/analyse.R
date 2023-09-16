@@ -1,6 +1,6 @@
 library(tidyverse)
 
-data <- read_csv("data/clean/erasmus_cleaned.csv")
+data <- read_csv("data/clean/erasmus_cleaned_r.csv")
 
 
 # Deskriptive Statistik ---------------------------------------------------

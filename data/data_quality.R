@@ -2,7 +2,7 @@ library(assertr)
 
 
 # Gereinigter Datensatz laden ---------------------------------------------
-erasmus <- read_csv("data/clean/erasmus_cleaned.csv")
+erasmus <- read_csv("data/clean/erasmus_cleaned_r.csv")
 
 
 # Daten einsehen ----------------------------------------------------------
@@ -14,9 +14,9 @@ view(erasmus)
 erasmus |> 
   verify(has_only_names("id", "mobility_start_month",
                         "mobility_end_month", "mobility_duration",
-                        "gender", "gender_transformed", 
+                        "gender", 
                         "age", "sending_city")) |>
-  assert(in_set("Female", "Male"), gender_transformed) |>
+  assert(in_set("Female", "Male"), gender) |>
   assert(within_bounds(10, 25), age) |> 
   assert(is_uniq, id) |> 
   assert(in_set("Wien", inverse = TRUE), sending_city)

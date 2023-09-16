@@ -1,0 +1,3499 @@
+id,mobility_start_month,mobility_end_month,mobility_duration,gender,age,sending_city
+1,2014-11,2014-11,1,Female,13,Dornbirn
+2,2014-11,2014-11,1,Female,14,Dornbirn
+3,2014-11,2014-11,1,Female,15,Dornbirn
+4,2014-11,2014-11,1,Male,14,Dornbirn
+5,2014-11,2014-11,1,Male,15,Dornbirn
+18,2014-12,2014-12,2,Female,15,St.P�lten
+19,2014-12,2014-12,2,Female,19,St.P�lten
+20,2014-12,2014-12,2,Female,23,St.P�lten
+21,2014-12,2014-12,2,Female,25,St.P�lten
+22,2014-12,2014-12,2,Female,25,St.P�lten
+23,2014-12,2014-12,2,Male,13,St.P�lten
+25,2014-12,2014-12,2,Male,15,St.P�lten
+27,2014-12,2014-12,2,Male,22,St.P�lten
+144,2014-11,2014-11,1,Female,24,Vienna
+145,2014-11,2014-11,1,Female,25,Gaschurn
+146,2014-11,2014-11,1,Female,25,Vienna
+158,2014-12,2014-12,1,Female,16,9560 Feldkirchen
+159,2014-12,2014-12,1,Female,19,6020 Innsbruck
+160,2014-12,2014-12,1,Female,23,8983 Bad Mitterndorf
+161,2014-12,2014-12,1,Female,24,8010 Graz
+177,2014-12,2014-12,1,Male,18,1100 Wien
+178,2014-12,2014-12,1,Male,19,"8130, Frohnleiten"
+179,2014-12,2014-12,1,Male,21,1110 Wien
+180,2014-12,2014-12,1,Male,21,"5020, Salzburg"
+181,2014-12,2014-12,1,Male,24,"1170, Wien"
+182,2014-12,2014-12,1,Male,24,"8750, Judenburg"
+183,2014-12,2014-12,1,Male,25,5585 Unternberg
+184,2014-12,2014-12,1,Male,25,8010 Graz
+185,2014-12,2014-12,1,Male,25,8052 Graz
+622,2014-12,2014-12,2,Female,18,�����
+623,2014-12,2014-12,2,Female,19,�������
+624,2014-12,2014-12,2,Female,22,�����
+625,2014-12,2014-12,2,Female,25,�������
+635,2014-12,2014-12,2,Female,18,�������
+636,2014-12,2014-12,2,Female,18,Sofia
+637,2014-12,2014-12,2,Female,20,�����
+638,2014-12,2014-12,2,Female,21,�����
+639,2014-12,2014-12,2,Female,22,�����
+640,2014-12,2014-12,2,Female,22,������
+641,2014-12,2014-12,2,Female,23,�����
+642,2014-12,2014-12,2,Female,23,�����������
+643,2014-12,2014-12,2,Female,24,�����
+644,2014-12,2014-12,2,Female,25,��������
+649,2014-12,2014-12,2,Male,18,�����
+650,2014-12,2014-12,2,Male,19,�����
+651,2014-12,2014-12,2,Male,23,�������
+652,2014-12,2014-12,2,Male,23,�����������
+658,2014-12,2014-12,2,Male,17,����������
+659,2014-12,2014-12,2,Male,21,�����
+660,2014-12,2014-12,2,Male,21,�������
+661,2014-12,2014-12,2,Male,21,Sofia
+662,2014-12,2014-12,2,Male,24,�����
+663,2014-12,2014-12,2,Male,25,������
+665,2014-11,2014-11,5,Female,18,Sofia
+666,2014-11,2014-11,5,Female,22,Sofia
+667,2014-11,2014-11,5,Female,22,Valencia
+668,2014-11,2014-11,5,Female,23,Sofia
+669,2014-11,2014-11,5,Female,24,Sofia
+670,2014-11,2014-11,5,Male,20,Sofia
+671,2014-11,2014-11,5,Male,21,Sofia
+672,2014-11,2014-11,5,Male,23,Sofia
+673,2014-11,2014-11,5,Male,24,Sofia
+674,2014-11,2014-11,5,Male,25,Sofia
+675,2014-11,2014-11,5,Female,20,Sofia
+676,2014-11,2014-11,5,Female,19,Thessaloniki
+677,2014-11,2014-11,5,Female,22,Komotini
+678,2014-11,2014-11,5,Female,23,Larisa
+680,2014-11,2014-11,5,Male,19,Athens
+681,2014-11,2014-11,5,Male,20,Thessaloniki
+682,2014-11,2014-11,5,Male,21,Komotini
+683,2014-11,2014-11,5,Male,22,Komotini
+684,2014-11,2014-11,5,Female,21,Madrid
+685,2014-11,2014-11,5,Female,25,Vigo
+686,2014-11,2014-11,5,Male,20,Bilbao
+687,2014-11,2014-11,5,Male,22,Bilbao
+688,2014-11,2014-11,5,Male,24,Granada
+689,2014-11,2014-11,5,Male,24,Huelva
+690,2014-11,2014-11,5,Male,24,Valencia
+691,2014-11,2014-11,5,Male,25,Sofia
+692,2014-11,2014-11,5,Female,21,Zagreb
+693,2014-11,2014-11,5,Female,22,Imotski
+694,2014-11,2014-11,5,Female,24,Zagreb
+695,2014-11,2014-11,5,Male,23,Zagreb
+696,2014-11,2014-11,5,Male,24,Zagreb
+697,2014-11,2014-11,5,Male,25,Zagreb
+699,2014-11,2014-11,5,Male,21,Sevilla
+700,2014-11,2014-11,5,Female,24,Sofia
+701,2014-11,2014-11,5,Female,20,Belgrade
+702,2014-11,2014-11,5,Female,23,Belgrade
+703,2014-11,2014-11,5,Female,24,Belgrade
+704,2014-11,2014-11,5,Female,25,Belgrade
+706,2014-11,2014-11,5,Male,18,Belgrade
+707,2014-11,2014-11,5,Male,19,Thesaloniki
+708,2014-11,2014-11,5,Male,22,Leskovac
+709,2014-11,2014-11,5,Male,23,Leskovac
+710,2014-11,2014-11,5,Female,19,Sofia
+712,2014-11,2014-11,6,Male,23,Osijek
+713,2014-11,2014-11,6,Male,24,Zagreb
+714,2014-11,2014-11,6,Female,22,Belgrade
+715,2014-11,2014-11,6,Male,20,Belgrade
+716,2014-11,2014-11,7,Female,21,Sofia
+717,2014-11,2014-11,7,Male,19,Sofia
+719,2014-11,2014-11,7,Male,21,Athens
+721,2014-11,2014-11,6,Female,18,Sliven
+722,2014-11,2014-11,6,Female,20,Gabrovo
+723,2014-11,2014-11,6,Female,20,Veliko Tarnovo
+724,2014-11,2014-11,6,Female,22,Pleven
+725,2014-11,2014-11,6,Female,22,Sliven
+726,2014-11,2014-11,6,Female,23,Gabrovo
+727,2014-11,2014-11,6,Female,23,Pazardzik
+728,2014-11,2014-11,6,Female,24,Gorna Oriahovitsa
+729,2014-11,2014-11,6,Female,25,Dobrich
+730,2014-11,2014-11,6,Female,25,Targovishte
+749,2014-11,2014-11,6,Female,18,Gabrovo
+750,2014-11,2014-11,6,Male,18,Sliven
+751,2014-11,2014-11,6,Male,19,Plovdiv
+752,2014-11,2014-11,6,Male,21,Kiustendil
+753,2014-11,2014-11,6,Male,21,Sliven
+754,2014-11,2014-11,6,Male,21,Sofia
+755,2014-11,2014-11,6,Male,22,Pernik
+756,2014-11,2014-11,6,Male,22,Popova
+757,2014-11,2014-11,6,Male,23,Blagoevgrad
+758,2014-11,2014-11,6,Male,23,Panagiurishte
+759,2014-11,2014-11,6,Male,23,Sliven
+760,2014-11,2014-11,6,Male,23,Sofia
+761,2014-11,2014-11,6,Male,25,Nikolaevo
+776,2014-11,2014-11,2,Female,16,LEFKOSIA
+777,2014-11,2014-11,2,Female,19,LEFKOSIA
+778,2014-11,2014-11,2,Female,21,LEFKOSIA
+779,2014-11,2014-11,2,Female,22,LEFKOSIA
+780,2014-11,2014-11,2,Female,23,LEFKOSIA
+781,2014-11,2014-11,2,Female,24,LEFKOSIA
+782,2014-11,2014-11,2,Female,25,LEFKOSIA
+788,2014-11,2014-11,2,Male,23,LEFKOSIA
+789,2014-11,2014-11,2,Male,25,LEFKOSIA
+795,2014-10,2014-10,3,Female,22,Brno
+796,2014-10,2014-10,3,Male,20,Brno
+798,2014-10,2014-10,3,Female,18,Brno
+799,2014-10,2014-10,3,Female,19,Brno
+800,2014-10,2014-10,3,Female,22,Brno
+801,2014-10,2014-10,3,Male,23,Brno
+802,2014-10,2014-11,3,Male,20,Brno
+805,2014-10,2014-11,3,Female,19,Brno
+806,2014-10,2014-11,3,Male,23,Brno
+848,2014-10,2014-10,1,Female,13,Praha 10
+849,2014-10,2014-10,1,Female,14,Praha 10
+850,2014-10,2014-10,1,Female,15,Praha 10
+851,2014-10,2014-10,1,Female,23,Praha 10
+853,2014-10,2014-10,1,Male,13,Praha 10
+854,2014-10,2014-10,1,Male,14,Praha 10
+855,2014-10,2014-10,1,Male,15,Praha 10
+856,2014-10,2014-10,1,Male,16,Praha 10
+857,2014-10,2014-10,1,Male,20,Praha 10
+858,2014-10,2014-10,1,Male,21,Praha 10
+860,2014-11,2014-11,1,Female,13,Praha 10
+861,2014-11,2014-11,1,Female,14,Praha 10
+862,2014-11,2014-11,1,Female,15,Praha 10
+863,2014-11,2014-11,1,Female,16,Praha 10
+864,2014-11,2014-11,1,Female,23,Praha 10
+866,2014-11,2014-11,1,Male,13,Praha 10
+867,2014-11,2014-11,1,Male,14,Praha 10
+868,2014-11,2014-11,1,Male,15,Praha 10
+869,2014-11,2014-11,1,Male,16,Praha 10
+870,2014-11,2014-11,1,Male,20,Praha 10
+871,2014-11,2014-11,1,Male,21,Praha 10
+875,2014-12,2014-12,1,Female,13,Praha 10
+876,2014-12,2014-12,1,Female,14,Praha 10
+877,2014-12,2014-12,1,Female,15,Praha 10
+878,2014-12,2014-12,1,Female,16,Praha 10
+879,2014-12,2014-12,1,Male,13,Praha 10
+880,2014-12,2014-12,1,Male,14,Praha 10
+881,2014-12,2014-12,1,Male,15,Praha 10
+882,2014-12,2014-12,1,Male,16,Praha 10
+883,2014-12,2014-12,1,Male,20,Praha 10
+884,2014-12,2014-12,1,Male,21,Praha 10
+1333,2014-10,2014-10,1,Female,13,Jindřichův Hradec
+1334,2014-10,2014-10,1,Female,14,Jindřichův Hradec
+1335,2014-10,2014-10,1,Female,15,Jindřichův Hradec
+1336,2014-10,2014-10,1,Female,16,Jindřichův Hradec
+1337,2014-10,2014-10,1,Female,17,Jindřichův Hradec
+1338,2014-10,2014-10,1,Female,18,Jindřichův Hradec
+1342,2014-10,2014-10,1,Female,14,Jindřichův Hradec
+1343,2014-10,2014-10,1,Female,17,Jindřichův Hradec
+1344,2014-10,2014-10,1,Female,19,Jindřichův Hradec
+1345,2014-10,2014-10,1,Male,14,Jindřichův Hradec
+1346,2014-10,2014-10,1,Male,15,Jindřichův Hradec
+1347,2014-10,2014-10,1,Male,16,Jindřichův Hradec
+1348,2014-10,2014-10,1,Male,17,Jindřichův Hradec
+1349,2014-10,2014-10,1,Male,19,Jindřichův Hradec
+1350,2014-10,2014-10,1,Male,14,Jindřichův Hradec
+1351,2014-10,2014-10,1,Male,15,Jindřichův Hradec
+1352,2014-11,2014-11,1,Female,13,Jindřichův Hradec
+1353,2014-11,2014-11,1,Female,14,Jindřichův Hradec
+1354,2014-11,2014-11,1,Female,15,Jindřichův Hradec
+1355,2014-11,2014-11,1,Female,16,Jindřichův Hradec
+1356,2014-11,2014-11,1,Female,17,Jindřichův Hradec
+1357,2014-11,2014-11,1,Female,18,Jindřichův Hradec
+1361,2014-11,2014-11,1,Female,14,Jindřichův Hradec
+1362,2014-11,2014-11,1,Female,19,Jindřichův Hradec
+1363,2014-11,2014-11,1,Male,13,Jindřichův Hradec
+1364,2014-11,2014-11,1,Male,14,Jindřichův Hradec
+1365,2014-11,2014-11,1,Male,15,Jindřichův Hradec
+1366,2014-11,2014-11,1,Male,17,Jindřichův Hradec
+1367,2014-11,2014-11,1,Male,18,Jindřichův Hradec
+1368,2014-11,2014-11,1,Male,19,Jindřichův Hradec
+1370,2014-11,2014-11,1,Male,13,Jindřichův Hradec
+1371,2014-11,2014-11,1,Male,14,Jindřichův Hradec
+1372,2014-11,2014-11,1,Male,15,Jindřichův Hradec
+1373,2014-12,2014-12,1,Female,13,Jindřichův Hradec
+1374,2014-12,2014-12,1,Female,14,Jindřichův Hradec
+1375,2014-12,2014-12,1,Female,15,Jindřichův Hradec
+1376,2014-12,2014-12,1,Female,16,Jindřichův Hradec
+1377,2014-12,2014-12,1,Female,17,Jindřichův Hradec
+1381,2014-12,2014-12,1,Female,14,Jindřichův Hradec
+1382,2014-12,2014-12,1,Female,19,Jindřichův Hradec
+1383,2014-12,2014-12,1,Male,13,Jindřichův Hradec
+1384,2014-12,2014-12,1,Male,14,Jindřichův Hradec
+1385,2014-12,2014-12,1,Male,15,Jindřichův Hradec
+1386,2014-12,2014-12,1,Male,17,Jindřichův Hradec
+1387,2014-12,2014-12,1,Male,19,Jindřichův Hradec
+1388,2014-12,2014-12,1,Male,20,Jindřichův Hradec
+1389,2014-12,2014-12,1,Male,14,Jindřichův Hradec
+1390,2014-12,2014-12,1,Male,15,Jindřichův Hradec
+1612,2014-09,2014-09,3,Male,18,HAMBURG
+1613,2014-09,2014-09,3,Male,23,HAMBURG
+1614,2014-09,2014-09,3,Female,20,HAMBURG
+1615,2014-09,2014-09,3,Female,14,Kiel
+1616,2014-09,2014-09,3,Female,15,Kiel
+1617,2014-09,2014-09,3,Female,16,Bremen
+1618,2014-09,2014-09,3,Female,16,HAMBURG
+1619,2014-09,2014-09,3,Female,16,Schwerin
+1620,2014-09,2014-09,3,Female,16,Schwerin / Ludwigslust
+1621,2014-09,2014-09,3,Female,16,Schwerin /Ludwigslust
+1622,2014-09,2014-09,3,Female,17,Bremen
+1623,2014-09,2014-09,3,Female,17,Kiel
+1624,2014-09,2014-09,3,Female,17,Schwerin
+1625,2014-09,2014-09,3,Female,18,HAMBURG
+1626,2014-09,2014-09,3,Female,18,Schwerin
+1627,2014-09,2014-09,3,Female,19,Bremen
+1628,2014-09,2014-09,3,Female,19,HAMBURG
+1629,2014-09,2014-09,3,Female,19,Kiel
+1630,2014-09,2014-09,3,Female,20,HAMBURG
+1631,2014-09,2014-09,3,Female,21,Bremen
+1632,2014-09,2014-09,3,Female,21,Schwerin
+1635,2014-09,2014-09,3,Male,15,Kiel
+1636,2014-09,2014-09,3,Male,16,Kiel
+1637,2014-09,2014-09,3,Male,16,Neubrandenburg
+1638,2014-09,2014-09,3,Male,16,Schwerin
+1639,2014-09,2014-09,3,Male,17,Kiel
+1640,2014-09,2014-09,3,Male,17,Schwerin
+1641,2014-09,2014-09,3,Male,18,Kiel
+1642,2014-09,2014-09,3,Male,19,Kiel
+1643,2014-09,2014-09,3,Male,20,HAMBURG
+1644,2014-09,2014-09,3,Male,20,Kiel
+1645,2014-09,2014-09,3,Male,22,Kiel
+1646,2014-09,2014-09,3,Male,22,Schwerin
+1647,2014-09,2014-09,3,Male,23,Schwerin
+1648,2014-09,2014-09,3,Male,24,HAMBURG
+1651,2014-09,2014-09,3,Male,19,HAMBURG
+1652,2014-09,2014-09,3,Female,18,HAMBURG
+1653,2014-09,2014-09,3,Male,18,HAMBURG
+1654,2014-09,2014-09,3,Male,18,HAMBURG
+1655,2014-09,2014-09,3,Male,22,HAMBURG
+1657,2014-09,2014-09,3,Female,22,HAMBURG
+1658,2014-09,2014-09,3,Male,19,HAMBURG
+1659,2014-09,2014-09,3,Female,17,HAMBURG
+1660,2014-09,2014-09,3,Male,17,HAMBURG
+1661,2014-12,2014-12,4,Male,22,Bonn
+1662,2014-12,2014-12,5,Female,20,Bonn
+1663,2014-12,2014-12,5,Female,24,Bonn
+1667,2014-12,2014-12,6,Female,20,Bonn
+1668,2014-12,2014-12,6,Male,24,Bonn
+1669,2014-12,2014-12,6,Female,16,Bonn
+1670,2014-12,2014-12,6,Female,19,Bonn
+1671,2014-12,2014-12,6,Female,20,Bonn
+1672,2014-12,2014-12,6,Female,21,Bonn
+1673,2014-12,2014-12,6,Female,22,Bonn
+1674,2014-12,2014-12,6,Female,23,Bonn
+1675,2014-12,2014-12,6,Female,24,Bonn
+1677,2014-12,2014-12,6,Male,18,Bonn
+1678,2014-12,2014-12,6,Male,19,Bonn
+1679,2014-12,2014-12,6,Male,20,Bonn
+1680,2014-12,2014-12,6,Male,21,Bonn
+1681,2014-12,2014-12,6,Male,22,Bonn
+1682,2014-12,2014-12,6,Male,23,Bonn
+1683,2014-12,2014-12,6,Male,24,Bonn
+1684,2014-12,2014-12,6,Male,25,Bonn
+1687,2014-12,2014-12,6,Female,21,Bonn
+1688,2014-12,2014-12,7,Female,22,Bonn
+1689,2014-12,2014-12,7,Female,18,Bonn
+1690,2014-12,2014-12,7,Female,19,Bonn
+1691,2014-12,2014-12,7,Female,20,Bonn
+1692,2014-12,2014-12,7,Female,21,Bonn
+1693,2014-12,2014-12,7,Female,22,Bonn
+1694,2014-12,2014-12,7,Female,23,Bonn
+1695,2014-12,2014-12,7,Female,24,Bonn
+1696,2014-12,2014-12,7,Female,25,Bonn
+1700,2014-12,2014-12,7,Male,18,Bonn
+1701,2014-12,2014-12,7,Male,19,Bonn
+1702,2014-12,2014-12,7,Male,20,Bonn
+1703,2014-12,2014-12,7,Male,21,Bonn
+1704,2014-12,2014-12,7,Male,22,Bonn
+1705,2014-12,2014-12,7,Male,23,Bonn
+1706,2014-12,2014-12,7,Male,24,Bonn
+1707,2014-12,2014-12,7,Male,25,Bonn
+1710,2014-12,2014-12,7,Female,20,Bonn
+1711,2014-12,2014-12,7,Female,23,Bonn
+1712,2014-12,2014-12,7,Male,22,Bonn
+1713,2014-08,2014-09,7,Female,14,"Schleiermacherstra??e 23, 10961 Berlin"
+1714,2014-08,2014-09,7,Female,16,koppenstra??e 76 10243 berlin
+1715,2014-08,2014-09,7,Female,17,"Adalbertstr. 92, 10999 Berlin"
+1716,2014-08,2014-09,7,Female,17,"Barutherstra??e 21, 10961 Berlin"
+1717,2014-08,2014-09,7,Female,18,"Karl-Kunger-Str. 14, 12435 Berlin"
+1718,2014-08,2014-09,7,Male,14,"Schleiermacherstra??e 23, 10961 Berlin"
+1719,2014-08,2014-09,7,Male,15,Berlinkoppenstra??e 76 10243 berlin
+1720,2014-08,2014-09,7,Male,16,"Helmstr. 10, 10827 Berlin"
+1721,2014-08,2014-09,7,Male,16,koppenstra??e 76 10243 berlin
+1722,2014-08,2014-09,7,Male,16,"Lausitzer Platz 10, 10997 Berlin"
+1723,2014-08,2014-09,7,Male,16,"Schleiermacherstra??e 23, 10961 Berlin"
+1724,2014-08,2014-09,7,Male,17,Hedwigstr. 2 12159 Berlin
+1725,2014-08,2014-09,7,Male,17,"Schleiermacherstra??e 23, 10961 Berlin"
+1726,2014-08,2014-09,7,Male,18,Berlin
+1727,2014-08,2014-09,7,Male,22,"Auguststra??e 71, 10117 Berlin"
+1729,2014-08,2014-09,7,Female,15,koppenstra??e 76 10243 berlin
+1730,2014-10,2014-10,3,Female,12,koppinstra??e 76 10243 berlin
+1731,2014-10,2014-10,3,Female,13,"Koppenstra??e 76, 10243 Berlin"
+1732,2014-10,2014-10,3,Female,13,koppinstra??e 76 10243 berlin
+1733,2014-10,2014-10,3,Female,14,"Koppenstra??e 76, 10243 Berlin"
+1734,2014-10,2014-10,3,Female,14,koppinstra??e 76 10243 berlin
+1735,2014-10,2014-10,3,Female,15,koppinstra??e 76 10243 berlin
+1736,2014-10,2014-10,3,Female,16,"Koppenstra??e 76, 10243 Berlin"
+1737,2014-10,2014-10,3,Female,16,koppinstra??e 76 10243 berlin
+1738,2014-10,2014-10,3,Female,17,"Koppenstra??e 76, 10243 Berlin"
+1739,2014-10,2014-10,3,Female,18,"Koppenstra??e 76, 10243 Berlin"
+1740,2014-10,2014-10,3,Female,21,Schleiermacherstra??e 23 10961 Berlin
+1741,2014-10,2014-10,3,Male,12,koppinstra??e 76 10243 berlin
+1742,2014-10,2014-10,3,Male,13,"Koppenstra??e 76, 10243 Berlin"
+1743,2014-10,2014-10,3,Male,13,koppinstra??e 76 10243 berlin
+1744,2014-10,2014-10,3,Male,15,"Koppenstra??e 76, 10243 Berlin"
+1745,2014-10,2014-10,3,Male,15,koppinstra??e 76 10243 berlin
+1746,2014-10,2014-10,3,Male,16,"Koppenstra??e 76, 10243 Berlin"
+1747,2014-10,2014-10,3,Male,17,"Koppenstra??e 76, 10243 Berlin"
+1748,2014-10,2014-10,3,Male,18,"Koppenstra??e 76, 10243 Berlin"
+1749,2014-10,2014-10,3,Male,19,koppinstra??e 76 10243 berlin
+1750,2014-10,2014-10,3,Male,22,"Auguststra??e 71, 10117 Berlin"
+1754,2014-11,2014-11,3,Female,13,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1755,2014-11,2014-11,3,Female,13,El??holzstra??e 34-37 10781 Berlin
+1756,2014-11,2014-11,3,Female,13,"El??holzstra??e 34-37, 10781 Berlin"
+1757,2014-11,2014-11,3,Female,13,"Emmentaler Str. 67, 13407 Berlin"
+1758,2014-11,2014-11,3,Female,13,"Koppenstra??e 76, 10243 Berlin"
+1759,2014-11,2014-11,3,Female,13,"Neues Ufer 6, 10553 Berlin"
+1760,2014-11,2014-11,3,Female,13,Schleiermacherstra??e 23 10961 Berlin
+1761,2014-11,2014-11,3,Female,13,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1762,2014-11,2014-11,3,Female,14,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1763,2014-11,2014-11,3,Female,14,El??holzstra??e 34-37 10781 Berlin
+1764,2014-11,2014-11,3,Female,14,"El??holzstra??e 34-37, 10781 Berlin"
+1765,2014-11,2014-11,3,Female,14,"Emmentaler Str. 67, 13407 Berlin"
+1766,2014-11,2014-11,3,Female,14,"Neues Ufer 6, 10553 Berlin"
+1767,2014-11,2014-11,3,Female,14,Schleiermacherstra??e 23 10961 Berlin
+1768,2014-11,2014-11,3,Female,14,Schleiermacherstra??e 23 10961 Berlin
+1769,2014-11,2014-11,3,Female,14,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1770,2014-11,2014-11,3,Female,15,El??holzstra??e 34-37 10781 Berlin
+1771,2014-11,2014-11,3,Female,15,"El??holzstra??e 34-37, 10781 Berlin"
+1772,2014-11,2014-11,3,Female,15,"Emmentaler Str. 67, 13407 Berlin"
+1773,2014-11,2014-11,3,Female,15,"Koppenstra??e 76, 10243 Berlin"
+1774,2014-11,2014-11,3,Female,15,"Neues Ufer 6, 10553 Berlin"
+1775,2014-11,2014-11,3,Female,15,Schleiermacherstra??e 23 10961 Berlin
+1776,2014-11,2014-11,3,Female,15,Schleiermacherstra??e 23 10961 Berlin
+1777,2014-11,2014-11,3,Female,15,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1778,2014-11,2014-11,3,Female,16,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1779,2014-11,2014-11,3,Female,16,El??holzstra??e 34-37 10781 Berlin
+1780,2014-11,2014-11,3,Female,16,"El??holzstra??e 34-37, 10781 Berlin"
+1781,2014-11,2014-11,3,Female,16,"Emmentaler Str. 67, 13407 Berlin"
+1782,2014-11,2014-11,3,Female,16,"Neues Ufer 6, 10553 Berlin"
+1783,2014-11,2014-11,3,Female,16,Schleiermacherstra??e 23 10961 Berlin
+1784,2014-11,2014-11,3,Female,16,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1785,2014-11,2014-11,3,Female,17,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1786,2014-11,2014-11,3,Female,17,El??holzstra??e 34-37 10781 Berlin
+1787,2014-11,2014-11,3,Female,17,"El??holzstra??e 34-37, 10781 Berlin"
+1788,2014-11,2014-11,3,Female,17,"El??holzstra??e 34-37, 10781 Berlin"
+1789,2014-11,2014-11,3,Female,17,Schleiermacherstra??e 23 10961 Berlin
+1790,2014-11,2014-11,3,Female,18,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1791,2014-11,2014-11,3,Female,18,El??holzstra??e 34-37 10781 Berlin
+1792,2014-11,2014-11,3,Female,18,"El??holzstra??e 34-37, 10781 Berlin"
+1793,2014-11,2014-11,3,Female,18,"El??holzstra??e 34-37, 10781 Berlin"
+1794,2014-11,2014-11,3,Female,18,"Karl-Kunger-Str. 14, 12435 Berlin"
+1795,2014-11,2014-11,3,Female,18,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1796,2014-11,2014-11,3,Female,19,"El??holzstra??e 34-37, 10781 Berlin"
+1797,2014-11,2014-11,3,Female,19,"Emmentaler Str. 67, 13407 Berlin"
+1798,2014-11,2014-11,3,Female,19,"Koppenstra??e 76, 10243 Berlin"
+1799,2014-11,2014-11,3,Female,20,"Auguststra??e 71, 10117 Berlin"
+1800,2014-11,2014-11,3,Female,20,"El??holzstra??e 34-37, 10781 Berlin"
+1801,2014-11,2014-11,3,Female,21,"Auguststra??e 71, 10117 Berlin"
+1802,2014-11,2014-11,3,Female,22,Schleiermacherstra??e 23 10961 Berlin
+1807,2014-11,2014-11,3,Male,12,"El??holzstra??e 34-37, 10781 Berlin"
+1808,2014-11,2014-11,3,Male,13,El??holzstra??e 34-37 10781 Berlin
+1809,2014-11,2014-11,3,Male,13,"El??holzstra??e 34-37, 10781 Berlin"
+1810,2014-11,2014-11,3,Male,13,"Koppenstra??e 76, 10243 Berlin"
+1811,2014-11,2014-11,3,Male,13,"Neues Ufer 6, 10553 Berlin"
+1812,2014-11,2014-11,3,Male,13,Schleiermacherstra??e 23 10961 Berlin
+1813,2014-11,2014-11,3,Male,13,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1814,2014-11,2014-11,3,Male,14,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1815,2014-11,2014-11,3,Male,14,Berlin
+1816,2014-11,2014-11,3,Male,14,El??holzstra??e 34-37 10781 Berlin
+1817,2014-11,2014-11,3,Male,14,"El??holzstra??e 34-37, 10781 Berlin"
+1818,2014-11,2014-11,3,Male,14,"Neues Ufer 6, 10553 Berlin"
+1819,2014-11,2014-11,3,Male,14,Schleiermacherstra??e 23 10961 Berlin
+1820,2014-11,2014-11,3,Male,14,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1821,2014-11,2014-11,3,Male,15,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1822,2014-11,2014-11,3,Male,15,"Auguststra??e 71, 10117 Berlin"
+1823,2014-11,2014-11,3,Male,15,El??holzstra??e 34-37 10781 Berlin
+1824,2014-11,2014-11,3,Male,15,"El??holzstra??e 34-37, 10781 Berlin"
+1825,2014-11,2014-11,3,Male,15,"Koppenstra??e 76, 10243 Berlin"
+1826,2014-11,2014-11,3,Male,15,"Neues Ufer 6, 10553 Berlin"
+1827,2014-11,2014-11,3,Male,15,Schleiermacherstra??e 23 10961 Berlin
+1828,2014-11,2014-11,3,Male,16,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1829,2014-11,2014-11,3,Male,16,Berlin
+1830,2014-11,2014-11,3,Male,16,El??holzstra??e 34-37 10781 Berlin
+1831,2014-11,2014-11,3,Male,16,"El??holzstra??e 34-37, 10781 Berlin"
+1832,2014-11,2014-11,3,Male,16,"El??holzstra??e 34-37, 10781 Berlin"
+1833,2014-11,2014-11,3,Male,16,"Emmentaler Str. 67, 13407 Berlin"
+1834,2014-11,2014-11,3,Male,16,"Helmstr. 10, 10827 Berlin"
+1835,2014-11,2014-11,3,Male,16,"Neues Ufer 6, 10553 Berlin"
+1836,2014-11,2014-11,3,Male,16,Schleiermacherstra??e 23 10961 Berlin
+1837,2014-11,2014-11,3,Male,16,Schleiermacherstra??e 23 10961 Berlin
+1838,2014-11,2014-11,3,Male,16,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1839,2014-11,2014-11,3,Male,16,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1840,2014-11,2014-11,3,Male,17,"Andreas Gymnasium Koppenstra??e 76, 10243 Berlin"
+1841,2014-11,2014-11,3,Male,17,El??holzstra??e 34-37 10781 Berlin
+1842,2014-11,2014-11,3,Male,17,"El??holzstra??e 34-37, 10781 Berlin"
+1843,2014-11,2014-11,3,Male,17,"El??holzstra??e 34-37, 10781 Berlin"
+1844,2014-11,2014-11,3,Male,17,"Emmentaler Str. 67, 13407 Berlin"
+1845,2014-11,2014-11,3,Male,17,Schleiermacherstra??e 23 10961 Berlin
+1846,2014-11,2014-11,3,Male,17,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1847,2014-11,2014-11,3,Male,18,El??holzstra??e 34-37 10781 Berlin
+1848,2014-11,2014-11,3,Male,18,"El??holzstra??e 34-37, 10781 Berlin"
+1849,2014-11,2014-11,3,Male,18,"Emmentaler Str. 67, 13407 Berlin"
+1850,2014-11,2014-11,3,Male,18,"Koppenstra??e 76, 10243 Berlin"
+1851,2014-11,2014-11,3,Male,18,Schleiermacherstra??e 23 10961 Berlin
+1852,2014-11,2014-11,3,Male,18,Sophie-Charlotte-Gymnasium  Sybelstra??e 2 10629 Berlin
+1853,2014-11,2014-11,3,Male,19,"El??holzstra??e 34-37, 10781 Berlin"
+1854,2014-11,2014-11,3,Male,22,"Auguststra??e 71, 10117 Berlin"
+1855,2014-11,2014-11,3,Male,22,"Auguststra??e 71, 10117 Berlin"
+1860,2014-11,2014-11,4,Female,13,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1861,2014-11,2014-11,4,Female,15,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1862,2014-11,2014-11,4,Female,16,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1863,2014-11,2014-11,4,Female,18,Schleiermacherstra??e 23 10961 Berlin
+1864,2014-11,2014-11,4,Female,21,"Auguststra??e 71, 10117 Berlin"
+1866,2014-11,2014-11,4,Male,12,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1867,2014-11,2014-11,4,Male,13,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1868,2014-11,2014-11,4,Male,13,"Rathenaustra??e 43, 16761 Hennigsdorf"
+1869,2014-11,2014-11,4,Male,14,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1870,2014-11,2014-11,4,Male,15,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1871,2014-11,2014-11,4,Male,16,"Alexander S. Puschkin Gymnasium Rathenaustra??e 43, 16761 Hennigsdorf"
+1872,2014-11,2014-11,4,Male,23,Schleiermacherstra??e 23 10961 Berlin
+1875,2014-12,2014-12,3,Female,13,"Kissingenstra??e 12, 13189 Berlin"
+1876,2014-12,2014-12,3,Female,13,"Rothenburgstra??e 18, 12165 Berlin"
+1877,2014-12,2014-12,3,Female,14,"Rothenburgstra??e 18, 12165 Berlin"
+1878,2014-12,2014-12,3,Female,15,"Kissingenstra??e 12, 13189 Berlin"
+1879,2014-12,2014-12,3,Female,15,"Rothenburgstra??e 18, 12165 Berlin"
+1880,2014-12,2014-12,3,Female,16,"Kissingenstra??e 12, 13189 Berlin"
+1881,2014-12,2014-12,3,Female,16,"Rothenburgstra??e 18, 12165 Berlin"
+1882,2014-12,2014-12,3,Female,17,"Kissingenstra??e 12, 13189 Berlin"
+1883,2014-12,2014-12,3,Female,17,"Rothenburgstra??e 18, 12165 Berlin"
+1884,2014-12,2014-12,3,Female,18,"Kissingenstra??e 12, 13189 Berlin"
+1885,2014-12,2014-12,3,Male,11,"Kissingenstra??e 12, 13189 Berlin"
+1886,2014-12,2014-12,3,Male,13,"Kissingenstra??e 12, 13189 Berlin"
+1887,2014-12,2014-12,3,Male,13,"Rothenburgstra??e 18, 12165 Berlin"
+1888,2014-12,2014-12,3,Male,14,"Kissingenstra??e 12, 13189 Berlin"
+1889,2014-12,2014-12,3,Male,15,"Rothenburgstra??e 18, 12165 Berlin"
+1890,2014-12,2014-12,3,Male,16,"Kissingenstra??e 12, 13189 Berlin"
+1891,2014-12,2014-12,3,Male,16,"Rothenburgstra??e 18, 12165 Berlin"
+1892,2014-12,2014-12,3,Male,18,"Kissingenstra??e 12, 13189 Berlin"
+1893,2014-12,2014-12,3,Male,19,"Kissingenstra??e 12, 13189 Berlin"
+1894,2014-12,2014-12,3,Male,20,"Kissingenstra??e 12, 13189 Berlin"
+1895,2014-12,2014-12,4,Female,14,"Schleiermacherstra??e 23, 10961 Berlin"
+1896,2014-12,2014-12,4,Female,15,"Schleiermacherstra??e 23, 10961 Berlin"
+1897,2014-12,2014-12,4,Female,16,"Schleiermacherstra??e 23, 10961 Berlin"
+1898,2014-12,2014-12,4,Female,17,"Schleiermacherstra??e 23, 10961 Berlin"
+1899,2014-12,2014-12,4,Female,18,"Schleiermacherstra??e 23, 10961 Berlin"
+1900,2014-12,2014-12,4,Female,20,"Auguststra??e 71, 10117 Berlin"
+1901,2014-12,2014-12,4,Female,22,"Auguststra??e 71, 10117 Berlin"
+1902,2014-12,2014-12,4,Male,14,"Schleiermacherstra??e 23, 10961 Berlin"
+1903,2014-12,2014-12,4,Male,15,"Schleiermacherstra??e 23, 10961 Berlin"
+1904,2014-12,2014-12,4,Male,16,"Schleiermacherstra??e 23, 10961 Berlin"
+1905,2014-12,2014-12,4,Male,17,"Schleiermacherstra??e 23, 10961 Berlin"
+1906,2014-12,2014-12,4,Male,18,"Schleiermacherstra??e 23, 10961 Berlin"
+1907,2014-12,2014-12,4,Male,22,"Auguststra??e 71, 10117 Berlin"
+1908,2014-12,2014-12,4,Male,23,"Auguststra??e 71, 10117 Berlin"
+1910,2014-11,2014-11,3,Female,17,Berlin
+1911,2014-11,2014-11,3,Female,18,Glienicke
+1912,2014-11,2014-11,3,Female,19,Berlin
+1913,2014-11,2014-11,3,Female,19,Halberstadt
+1914,2014-11,2014-11,3,Female,19,Leiferde
+1915,2014-11,2014-11,3,Female,20,Bayreuth
+1916,2014-11,2014-11,3,Female,20,Berlin
+1917,2014-11,2014-11,3,Female,20,Potsdam
+1918,2014-11,2014-11,3,Female,21,Bergkamen
+1919,2014-11,2014-11,3,Female,21,Dresden
+1920,2014-11,2014-11,3,Female,21,Erfurt
+1921,2014-11,2014-11,3,Female,21,Iserlohn
+1922,2014-11,2014-11,3,Female,22,Berlin
+1923,2014-11,2014-11,3,Female,22,Bielefeld
+1924,2014-11,2014-11,3,Female,22,M�nchen
+1925,2014-11,2014-11,3,Female,23,Berlin
+1926,2014-11,2014-11,3,Female,23,Bielefeld
+1927,2014-11,2014-11,3,Female,23,Greifswald
+1928,2014-11,2014-11,3,Female,24,Berlin
+1929,2014-11,2014-11,3,Female,24,Cambridge
+1930,2014-11,2014-11,3,Female,24,Frankfurt a.M.
+1931,2014-11,2014-11,3,Female,24,Nordendorf
+1932,2014-11,2014-11,3,Female,25,Aachen
+1933,2014-11,2014-11,3,Female,25,Berlin
+1934,2014-11,2014-11,3,Female,25,Halberstadt
+1935,2014-11,2014-11,3,Female,25,M�nchen
+1952,2014-11,2014-11,3,Male,17,Berlin
+1953,2014-11,2014-11,3,Male,18,Berlin
+1954,2014-11,2014-11,3,Male,19,Bayreuth
+1955,2014-11,2014-11,3,Male,19,Berlin
+1956,2014-11,2014-11,3,Male,19,Butzbach
+1957,2014-11,2014-11,3,Male,19,Erfurt
+1958,2014-11,2014-11,3,Male,19,M�nchengladbach
+1959,2014-11,2014-11,3,Male,19,Niederviehbach
+1960,2014-11,2014-11,3,Male,19,Weinheim
+1961,2014-11,2014-11,3,Male,20,Bayreuth
+1962,2014-11,2014-11,3,Male,20,Erfurt
+1963,2014-11,2014-11,3,Male,20,K�ln
+1964,2014-11,2014-11,3,Male,21,Kiel
+1965,2014-11,2014-11,3,Male,21,Konstanz
+1966,2014-11,2014-11,3,Male,22,Bayreuth
+1967,2014-11,2014-11,3,Male,22,Berlin
+1968,2014-11,2014-11,3,Male,22,Bielefeld
+1969,2014-11,2014-11,3,Male,22,Meersburg
+1970,2014-11,2014-11,3,Male,22,Wei�enohe
+1971,2014-11,2014-11,3,Male,23,Berlin
+1972,2014-11,2014-11,3,Male,23,G�ttingen
+1973,2014-11,2014-11,3,Male,23,Kiel
+1974,2014-11,2014-11,3,Male,23,Konstanz
+1975,2014-11,2014-11,3,Male,23,Neetze
+1976,2014-11,2014-11,3,Male,24,Berlin
+1977,2014-11,2014-11,3,Male,24,Bielefeld
+1978,2014-11,2014-11,3,Male,24,Bonn
+1979,2014-11,2014-11,3,Male,25,Altenstadt
+1980,2014-11,2014-11,3,Male,25,Berlin
+1981,2014-11,2014-11,3,Male,25,Essen
+1982,2014-11,2014-11,3,Male,25,Kleinmachnow
+1983,2014-11,2014-11,3,Male,25,Leipzig
+1984,2014-11,2014-11,3,Male,25,M�nster
+2060,2014-10,2014-10,1,Female,16,Iserlohn
+2061,2014-10,2014-10,1,Female,19,Iserlohn
+2062,2014-10,2014-10,1,Female,22,Hagen
+2063,2014-10,2014-10,1,Female,16,Iserlohn
+2064,2014-10,2014-10,1,Female,17,Hagen
+2065,2014-10,2014-10,1,Female,19,Hagen
+2066,2014-10,2014-10,1,Female,21,Hagen
+2067,2014-10,2014-10,1,Female,22,Hagen
+2068,2014-10,2014-10,1,Female,22,Iserlohn
+2069,2014-10,2014-10,1,Female,25,Hagen
+2075,2014-10,2014-10,1,Male,17,Iserlohn
+2076,2014-10,2014-10,1,Male,18,Iserlohn
+2077,2014-10,2014-10,1,Male,19,Hagen
+2078,2014-10,2014-10,1,Male,21,Hagen
+2079,2014-10,2014-10,1,Male,21,Iserlohn
+2081,2014-10,2014-10,1,Female,24,Iserlohn
+2082,2014-10,2014-10,1,Male,18,Iserlohn
+2083,2014-10,2014-10,1,Male,21,Iserlohn
+2084,2014-11,2014-11,1,Male,19,Marl
+2086,2014-11,2014-11,1,Female,16,Marl
+2087,2014-11,2014-11,1,Female,17,Iserlohn
+2088,2014-11,2014-11,1,Female,18,Hagen
+2089,2014-11,2014-11,1,Female,19,Hagen
+2090,2014-11,2014-11,1,Female,19,Hagen
+2091,2014-11,2014-11,1,Female,19,Iserlohn
+2092,2014-11,2014-11,1,Female,20,Bochum
+2093,2014-11,2014-11,1,Female,20,Hagen
+2094,2014-11,2014-11,1,Female,20,Iserlohn
+2095,2014-11,2014-11,1,Female,22,Hagen
+2096,2014-11,2014-11,1,Female,24,Hagen
+2099,2014-11,2014-11,1,Female,13,Iserlohn
+2100,2014-11,2014-11,1,Female,15,Hagen
+2101,2014-11,2014-11,1,Female,15,Marl
+2102,2014-11,2014-11,1,Female,16,Bochum
+2103,2014-11,2014-11,1,Female,16,Hagen
+2104,2014-11,2014-11,1,Female,16,Marl
+2105,2014-11,2014-11,1,Female,16,Marl
+2106,2014-11,2014-11,1,Female,17,Hagen
+2107,2014-11,2014-11,1,Female,17,Iserlohn
+2108,2014-11,2014-11,1,Female,17,Marl
+2109,2014-11,2014-11,1,Female,18,Hagen
+2110,2014-11,2014-11,1,Female,19,Hagen
+2111,2014-11,2014-11,1,Female,19,Marl
+2112,2014-11,2014-11,1,Female,21,Hagen
+2113,2014-11,2014-11,1,Female,21,Iserlohn
+2114,2014-11,2014-11,1,Female,22,Iserlohn
+2119,2014-11,2014-11,1,Male,15,Hagen
+2120,2014-11,2014-11,1,Male,18,Hagen
+2121,2014-11,2014-11,1,Male,19,Hagen
+2122,2014-11,2014-11,1,Male,20,Hagen
+2123,2014-11,2014-11,1,Male,21,Hagen
+2130,2014-11,2014-11,1,Male,15,Hagen
+2131,2014-11,2014-11,1,Male,15,Marl
+2132,2014-11,2014-11,1,Male,16,Hagen
+2133,2014-11,2014-11,1,Male,16,Marl
+2134,2014-11,2014-11,1,Male,17,Hagen
+2135,2014-11,2014-11,1,Male,17,Iserlohn
+2136,2014-11,2014-11,1,Male,17,Marl
+2137,2014-11,2014-11,1,Male,17,Marl
+2138,2014-11,2014-11,1,Male,18,Hagen
+2139,2014-11,2014-11,1,Male,18,Iserlohn
+2140,2014-11,2014-11,1,Male,18,Marl
+2141,2014-11,2014-11,1,Male,19,Hagen
+2142,2014-11,2014-11,1,Male,19,Iserlohn
+2143,2014-11,2014-11,1,Male,20,Hagen
+2144,2014-11,2014-11,1,Male,20,Iserlohn
+2145,2014-11,2014-11,1,Male,21,Hagen
+2146,2014-11,2014-11,1,Male,23,Marl
+2149,2014-11,2014-11,1,Female,19,Hagen
+2150,2014-11,2014-11,1,Male,18,Iserlohn
+2151,2014-11,2014-11,1,Male,19,Iserlohn
+2152,2014-11,2014-11,1,Female,24,Hagen
+2154,2014-11,2014-11,1,Male,18,Iserlohn
+2156,2014-12,2014-12,1,Male,18,Marl
+2157,2014-12,2014-12,1,Male,19,Marl
+2158,2014-12,2014-12,1,Female,16,Marl
+2159,2014-12,2014-12,1,Female,17,Iserlohn
+2160,2014-12,2014-12,1,Female,19,Hagen
+2161,2014-12,2014-12,1,Female,19,Hagen
+2162,2014-12,2014-12,1,Female,20,Bochum
+2163,2014-12,2014-12,1,Female,20,Iserlohn
+2167,2014-12,2014-12,1,Female,16,Hagen
+2168,2014-12,2014-12,1,Female,16,Marl
+2169,2014-12,2014-12,1,Female,17,Hagen
+2170,2014-12,2014-12,1,Female,17,Marl
+2171,2014-12,2014-12,1,Female,19,Hagen
+2172,2014-12,2014-12,1,Female,19,Marl
+2173,2014-12,2014-12,1,Female,21,Hagen
+2176,2014-12,2014-12,1,Male,17,Hagen
+2177,2014-12,2014-12,1,Male,21,Hagen
+2182,2014-12,2014-12,1,Male,15,Bochum
+2183,2014-12,2014-12,1,Male,15,Hagen
+2184,2014-12,2014-12,1,Male,16,Hagen
+2185,2014-12,2014-12,1,Male,17,Hagen
+2186,2014-12,2014-12,1,Male,17,Marl
+2187,2014-12,2014-12,1,Male,18,Iserlohn
+2188,2014-12,2014-12,1,Male,18,Marl
+2189,2014-12,2014-12,1,Male,19,Hagen
+2190,2014-12,2014-12,1,Male,20,Iserlohn
+2191,2014-12,2014-12,1,Male,21,Hagen
+2192,2014-12,2014-12,1,Male,21,Hagen
+2193,2014-12,2014-12,1,Male,21,Iserlohn
+2194,2014-12,2014-12,1,Male,23,Marl
+2196,2014-12,2014-12,1,Male,18,Iserlohn
+2197,2014-12,2014-12,1,Male,19,Iserlohn
+2198,2014-12,2014-12,1,Male,17,Iserlohn
+2199,2014-12,2014-12,1,Male,18,Iserlohn
+2200,2014-12,2014-12,1,Female,16,Marl
+2201,2014-12,2014-12,1,Female,17,Marl
+2202,2014-12,2014-12,1,Male,17,Marl
+2203,2014-12,2014-12,3,Female,17,Iserlohn
+2204,2014-12,2014-12,3,Female,17,Marl
+2205,2014-12,2014-12,3,Female,19,Hagen
+2206,2014-12,2014-12,3,Female,20,Iserlohn
+2209,2014-12,2014-12,3,Female,13,Bochum
+2210,2014-12,2014-12,3,Female,15,Bochum
+2211,2014-12,2014-12,3,Female,15,Marl
+2212,2014-12,2014-12,3,Female,16,Marl
+2213,2014-12,2014-12,3,Female,18,Bochum
+2214,2014-12,2014-12,3,Female,18,Hagen
+2215,2014-12,2014-12,3,Female,20,Hagen
+2216,2014-12,2014-12,3,Female,21,Iserlohn
+2217,2014-12,2014-12,3,Male,20,Hagen
+2218,2014-12,2014-12,3,Male,22,Hagen
+2222,2014-12,2014-12,3,Male,13,Bochum
+2223,2014-12,2014-12,3,Male,14,Bochum
+2224,2014-12,2014-12,3,Male,15,Bochum
+2225,2014-12,2014-12,3,Male,16,Bochum
+2226,2014-12,2014-12,3,Male,16,Hagen
+2227,2014-12,2014-12,3,Male,16,Iserlohn
+2228,2014-12,2014-12,3,Male,16,Marl
+2229,2014-12,2014-12,3,Male,17,Bochum
+2230,2014-12,2014-12,3,Male,17,Hagen
+2231,2014-12,2014-12,3,Male,17,Marl
+2232,2014-12,2014-12,3,Male,18,Hagen
+2233,2014-12,2014-12,3,Male,18,Iserlohn
+2234,2014-12,2014-12,3,Male,18,Marl
+2235,2014-12,2014-12,3,Male,19,Hagen
+2236,2014-12,2014-12,3,Male,19,Iserlohn
+2237,2014-12,2014-12,3,Male,20,Bochum
+2238,2014-12,2014-12,3,Male,21,Hagen
+2239,2014-12,2014-12,3,Male,21,Hohenlimburg
+2240,2014-12,2014-12,3,Male,23,Marl
+2241,2014-12,2014-12,3,Female,19,Hagen
+2242,2014-12,2014-12,3,Male,18,Iserlohn
+2243,2014-12,2014-12,3,Female,16,Marl
+2244,2014-12,2014-12,3,Female,17,Marl
+2245,2014-12,2014-12,3,Female,19,Marl
+2246,2014-12,2014-12,3,Male,16,Marl
+2247,2014-12,2014-12,3,Male,17,Marl
+2762,2014-09,2014-09,1,Female,14,Aalborg
+2763,2014-09,2014-09,1,Male,14,Aalborg
+2764,2014-09,2014-09,1,Female,18,Tartu
+2765,2014-09,2014-09,1,Female,22,Tartu
+2767,2014-09,2014-09,1,Male,18,V�nnu
+2769,2014-09,2014-09,2,Female,16,Tartu
+2770,2014-09,2014-09,2,Female,22,Tartu
+2771,2014-09,2014-09,2,Female,25,K�rvek�la
+2772,2014-09,2014-09,2,Male,15,Puhja
+2773,2014-09,2014-09,3,Female,10,Puhja
+2774,2014-09,2014-09,3,Female,12,Puhja
+2775,2014-09,2014-09,3,Female,13,Laeva
+2776,2014-09,2014-09,3,Female,13,Puhja
+2777,2014-09,2014-09,3,Female,14,Laeva
+2778,2014-09,2014-09,3,Female,14,Puhja
+2779,2014-09,2014-09,3,Female,14,Rannu
+2780,2014-09,2014-09,3,Female,15,Puhja
+2781,2014-09,2014-09,3,Female,15,R�ngu
+2782,2014-09,2014-09,3,Female,15,Rannu
+2783,2014-09,2014-09,3,Female,16,Palupera
+2784,2014-09,2014-09,3,Female,17,�lenurme
+2785,2014-09,2014-09,3,Female,21,Viljandi
+2786,2014-09,2014-09,3,Female,23,Puhja
+2787,2014-09,2014-09,3,Female,23,Tartu
+2788,2014-09,2014-09,3,Male,13,�lenurme
+2789,2014-09,2014-09,3,Male,13,Puhja
+2790,2014-09,2014-09,3,Male,14,Rannu
+2791,2014-09,2014-09,3,Male,15,Puhja
+2792,2014-09,2014-09,3,Male,15,Tartu
+2793,2014-09,2014-09,3,Male,16,Puhja
+2794,2014-09,2014-09,3,Male,20,Tartu
+2796,2014-09,2014-09,3,Male,14,Puhja
+2797,2014-10,2014-10,1,Female,13,Alatskivi
+2798,2014-10,2014-10,1,Female,14,Rannu
+2799,2014-10,2014-10,1,Female,15,Ilmatsalu
+2800,2014-10,2014-10,1,Female,16,Vorbuse
+2801,2014-10,2014-10,1,Female,17,Tartu
+2802,2014-10,2014-10,1,Female,18,Tartu
+2803,2014-10,2014-10,1,Female,20,Tartu
+2804,2014-10,2014-10,1,Female,21,Viljandi
+2805,2014-10,2014-10,1,Female,22,Tartu
+2807,2014-10,2014-10,1,Male,13,Alatskivi
+2808,2014-10,2014-10,1,Male,15,Puhja
+2809,2014-10,2014-10,1,Male,18,Rookse
+2810,2014-10,2014-10,1,Male,20,Tartu
+2813,2014-08,2014-08,1,Male,17,Laiuse
+2814,2014-08,2014-08,2,Female,20,J?geva
+2815,2014-08,2014-08,3,Female,13,J?geva
+2816,2014-08,2014-08,3,Female,14,J?geva
+2817,2014-08,2014-08,3,Female,14,Siimusti
+2818,2014-08,2014-08,3,Female,15,J?geva
+2819,2014-08,2014-08,3,Female,15,Kuremaa
+2820,2014-08,2014-08,3,Female,16,J?geva
+2821,2014-08,2014-08,3,Female,16,Laiuse
+2822,2014-08,2014-08,3,Female,16,Siimusti
+2823,2014-08,2014-08,3,Female,16,Torma
+2824,2014-08,2014-08,3,Female,17,J?geva
+2825,2014-08,2014-08,3,Female,17,Mustvee
+2826,2014-08,2014-08,3,Female,18,J?geva
+2830,2014-08,2014-08,3,Male,14,J?geva
+2831,2014-08,2014-08,3,Male,15,J?geva
+2832,2014-08,2014-08,3,Male,15,Pajusi
+2833,2014-08,2014-08,3,Male,16,J?geva
+2834,2014-08,2014-08,3,Male,17,J?geva
+2835,2014-08,2014-08,3,Male,17,Siimusti
+2836,2014-08,2014-08,3,Male,19,J?geva
+2837,2014-08,2014-08,3,Male,20,J?geva
+2838,2014-08,2014-08,3,Male,22,J?geva
+2839,2014-08,2014-08,3,Male,23,J?geva
+2840,2014-08,2014-08,3,Male,24,Sadala
+2842,2014-08,2014-08,1,Female,19,Tallinn
+2843,2014-08,2014-08,1,Female,24,Tallinn
+2845,2014-08,2014-08,1,Male,25,Tallinn
+2846,2014-09,2014-09,1,Female,16,j�hvi
+2847,2014-09,2014-09,1,Female,16,kloogaranna
+2848,2014-09,2014-09,1,Female,16,kloogaranna
+2849,2014-09,2014-09,1,Female,17,j�hvi
+2850,2014-09,2014-09,1,Female,17,kloogaranna
+2851,2014-09,2014-09,1,Female,18,j�hvi
+2852,2014-09,2014-09,1,Female,18,kloogaranna
+2853,2014-09,2014-09,1,Female,19,kloogaranna
+2854,2014-09,2014-09,1,Female,19,Tallinn
+2855,2014-09,2014-09,1,Female,20,kloogaranna
+2856,2014-09,2014-09,1,Female,20,Tallinn
+2857,2014-09,2014-09,1,Female,20,Tallinn
+2858,2014-09,2014-09,1,Female,21,kloogaranna
+2859,2014-09,2014-09,1,Female,23,TALLINN
+2860,2014-09,2014-09,1,Female,24,kloogaranna
+2861,2014-09,2014-09,1,Female,24,Tallinn
+2862,2014-09,2014-09,1,Female,24,Tallinn
+2867,2014-09,2014-09,1,Male,16,kloogaranna
+2868,2014-09,2014-09,1,Male,17,kloogaranna
+2869,2014-09,2014-09,1,Male,18,kloogaranna
+2870,2014-09,2014-09,1,Male,19,kloogaranna
+2871,2014-09,2014-09,1,Male,19,kloogaranna
+2872,2014-09,2014-09,1,Male,22,kloogaranna
+2875,2014-10,2014-10,1,Female,21,viljandi
+2876,2014-10,2014-10,1,Female,24,Tallinn
+2877,2014-10,2014-10,1,Female,25,Tallinn
+2888,2014-12,2014-12,1,Female,13,Tallinn
+2889,2014-12,2014-12,1,Female,14,j�rvakandi
+2890,2014-12,2014-12,1,Female,14,r�uge
+2891,2014-12,2014-12,1,Female,14,Tallinn
+2892,2014-12,2014-12,1,Female,15,Kuressaare
+2893,2014-12,2014-12,1,Female,15,Roosna-Alliku
+2894,2014-12,2014-12,1,Female,15,Tallinn
+2895,2014-12,2014-12,1,Female,15,v�ru
+2896,2014-12,2014-12,1,Female,15,Valga
+2897,2014-12,2014-12,1,Female,16,P�ltsamaa
+2898,2014-12,2014-12,1,Female,16,p�rnu
+2899,2014-12,2014-12,1,Female,16,R�pina
+2900,2014-12,2014-12,1,Female,16,Rapla
+2901,2014-12,2014-12,1,Female,16,Tallinn
+2902,2014-12,2014-12,1,Female,16,Tallinn
+2903,2014-12,2014-12,1,Female,16,Tartu
+2904,2014-12,2014-12,1,Female,16,viljandi
+2905,2014-12,2014-12,1,Female,17,J�geva
+2906,2014-12,2014-12,1,Female,17,Lihula
+2907,2014-12,2014-12,1,Female,17,narva
+2908,2014-12,2014-12,1,Female,17,paide
+2909,2014-12,2014-12,1,Female,17,TALLINN
+2910,2014-12,2014-12,1,Female,17,Tallinn
+2911,2014-12,2014-12,1,Female,17,Tartu
+2912,2014-12,2014-12,1,Female,18,j�geva
+2913,2014-12,2014-12,1,Female,18,Narva
+2914,2014-12,2014-12,1,Female,18,P�rnu
+2915,2014-12,2014-12,1,Female,18,Paide
+2916,2014-12,2014-12,1,Female,18,Tallinn
+2917,2014-12,2014-12,1,Female,18,Tallinn
+2918,2014-12,2014-12,1,Female,18,Tartu
+2919,2014-12,2014-12,1,Female,19,kivi�li
+2920,2014-12,2014-12,1,Female,19,Tallinn
+2921,2014-12,2014-12,1,Female,19,Tallinn
+2922,2014-12,2014-12,1,Female,19,Tartu
+2923,2014-12,2014-12,1,Female,20,Narva
+2924,2014-12,2014-12,1,Female,20,Tallinn
+2925,2014-12,2014-12,1,Female,21,Tallinn
+2926,2014-12,2014-12,1,Female,21,Tartu
+2927,2014-12,2014-12,1,Female,21,Tsigurliina
+2928,2014-12,2014-12,1,Female,22,Tallinn
+2929,2014-12,2014-12,1,Female,22,viljandi
+2930,2014-12,2014-12,1,Female,23,TALLINN
+2931,2014-12,2014-12,1,Female,24,Tallinn
+2932,2014-12,2014-12,1,Female,25,Tallinn
+2933,2014-12,2014-12,1,Female,25,v�ru
+2939,2014-12,2014-12,1,Female,14,Viljandi
+2940,2014-12,2014-12,1,Female,18,Tallinn
+2941,2014-12,2014-12,1,Male,14,Sangaste
+2942,2014-12,2014-12,1,Male,14,Tallinn
+2943,2014-12,2014-12,1,Male,15,K�rdla
+2944,2014-12,2014-12,1,Male,15,Rapla
+2945,2014-12,2014-12,1,Male,15,Tallinn
+2946,2014-12,2014-12,1,Male,16,koeru
+2947,2014-12,2014-12,1,Male,16,p�rnu
+2948,2014-12,2014-12,1,Male,16,Tallinn
+2949,2014-12,2014-12,1,Male,17,R�pina
+2950,2014-12,2014-12,1,Male,17,Tallinn
+2951,2014-12,2014-12,1,Male,17,Tartu
+2952,2014-12,2014-12,1,Male,17,Valga
+2953,2014-12,2014-12,1,Male,18,haapsalu
+2954,2014-12,2014-12,1,Male,18,Lihula
+2955,2014-12,2014-12,1,Male,18,P�rnu
+2956,2014-12,2014-12,1,Male,18,paide
+2957,2014-12,2014-12,1,Male,18,Tallinn
+2958,2014-12,2014-12,1,Male,18,Tallinn
+2959,2014-12,2014-12,1,Male,18,Tartu
+2960,2014-12,2014-12,1,Male,19,TALLINN
+2961,2014-12,2014-12,1,Male,19,Tallinn
+2962,2014-12,2014-12,1,Male,20,Tallinn
+2963,2014-12,2014-12,1,Male,21,TALLINN
+2964,2014-12,2014-12,1,Male,23,Tartu
+2965,2014-12,2014-12,1,Male,25,TALLINN
+2966,2014-12,2014-12,1,Male,25,Tallinn
+2977,2014-12,2014-12,1,Male,15,viljandi
+2978,2014-12,2014-12,1,Female,24,Tallinn
+3342,2014-11,2014-11,1,Female,22,Tallinn
+3343,2014-11,2014-11,1,Female,23,Tallinn
+3344,2014-11,2014-11,1,Male,24,Tallinn
+3345,2014-11,2014-11,1,Female,21,Tallinn
+3346,2014-11,2014-11,1,Female,23,Tallinn
+3349,2014-11,2014-11,1,Male,24,Tallinn
+3350,2014-11,2014-11,1,Female,23,Tallinn
+3354,2014-11,2014-11,1,Female,21,Tallinn
+3355,2014-11,2014-11,1,Male,22,Tallinn
+3356,2014-11,2014-11,1,Male,25,Tallinn
+3357,2014-11,2014-11,1,Female,25,Tallinn
+3359,2014-11,2014-11,1,Female,18,Tallinn
+3360,2014-11,2014-11,1,Female,20,Tallinn
+3361,2014-11,2014-11,1,Female,21,Tallinn
+3363,2014-11,2014-11,1,Male,21,Tallinn
+3364,2014-11,2014-11,1,Male,22,Tallinn
+3365,2014-11,2014-11,1,Male,24,Tallinn
+3369,2014-11,2014-11,1,Female,24,Tallinn
+3370,2014-11,2014-11,1,Female,21,Tallinn
+3372,2014-11,2014-11,1,Female,17,Tallinn
+3373,2014-11,2014-11,1,Female,17,Tallinn
+3374,2014-11,2014-11,1,Female,20,Tallinn
+3375,2014-11,2014-11,1,Female,19,Tallinn
+3376,2014-11,2014-11,1,Female,21,Tallinn
+3378,2014-11,2014-11,1,Female,24,Tallinn
+3379,2014-11,2014-11,1,Male,21,Tallinn
+3380,2014-11,2014-11,1,Male,23,Tallinn
+3381,2014-11,2014-11,3,Female,23,Tallinn
+3384,2014-11,2014-11,3,Male,25,Tallinn
+3385,2014-11,2014-11,3,Female,25,Tallinn
+3386,2014-11,2014-11,3,Female,20,Tallinn
+3387,2014-11,2014-11,3,Female,24,Tallinn
+3391,2014-11,2014-11,3,Male,21,Tallinn
+3392,2014-11,2014-11,3,Male,24,Tallinn
+3394,2014-11,2014-11,3,Female,17,Tallinn
+3395,2014-11,2014-11,3,Female,20,Tallinn
+3396,2014-11,2014-11,3,Female,19,Tallinn
+3397,2014-11,2014-11,3,Female,24,Tallinn
+3398,2014-11,2014-11,4,Female,21,Tallinn
+3400,2014-11,2014-11,4,Female,23,Tallinn
+3405,2014-12,2014-12,1,Female,21,Tallinn
+3407,2014-12,2014-12,1,Female,16,Tallinn
+3408,2014-12,2014-12,1,Female,21,Tallinn
+3409,2014-12,2014-12,1,Female,23,Tallinn
+3410,2014-12,2014-12,1,Female,24,Tallinn
+3411,2014-12,2014-12,1,Female,25,Tallinn
+3418,2014-12,2014-12,1,Female,21,Tallinn
+3419,2014-12,2014-12,1,Male,22,Tallinn
+3420,2014-12,2014-12,1,Male,25,Tallinn
+3424,2014-12,2014-12,1,Male,25,Tallinn
+3426,2014-12,2014-12,1,Female,21,Tallinn
+3427,2014-12,2014-12,1,Female,22,Tallinn
+3428,2014-12,2014-12,1,Female,24,Tallinn
+3430,2014-12,2014-12,1,Male,22,Tallinn
+3432,2014-12,2014-12,1,Male,20,Tallinn
+3434,2014-12,2014-12,1,Female,24,Tallinn
+3436,2014-12,2014-12,1,Male,24,Tallinn
+3437,2014-12,2014-12,1,Male,22,Tallinn
+3542,2014-10,2014-10,3,Male,23,Vienna
+3543,2014-10,2014-10,3,Female,21,Sofia
+3545,2014-10,2014-10,3,Female,19,Prague
+3546,2014-10,2014-10,3,Female,22,Athens
+3547,2014-10,2014-10,3,Female,22,Madrid
+3549,2014-10,2014-10,3,Male,23,Rome
+3550,2014-10,2014-10,3,Male,24,Komárom
+3551,2014-10,2014-10,4,Male,19,Athens
+3552,2014-10,2014-10,4,Female,21,Athens
+3553,2014-10,2014-10,4,Female,24,Athens
+3554,2014-10,2014-10,4,Male,25,Freiburg
+3555,2014-10,2014-10,4,Female,21,Berlin
+3556,2014-10,2014-10,4,Male,23,Casablanca
+3558,2014-10,2014-10,4,Female,21,Amsterdam
+3559,2014-10,2014-10,4,Female,19,Mannheim
+3560,2014-10,2014-10,4,Female,18,Thessaloniki
+3561,2014-10,2014-10,4,Female,19,Thessaloniki
+3562,2014-10,2014-10,4,Female,20,Heraklion
+3563,2014-10,2014-10,4,Female,20,Thessaloniki
+3564,2014-10,2014-10,4,Female,22,Athens
+3565,2014-10,2014-10,4,Female,23,Athens
+3566,2014-10,2014-10,4,Female,23,Heraklion
+3567,2014-10,2014-10,4,Female,25,Heraklion
+3574,2014-10,2014-10,4,Male,19,Athens
+3575,2014-10,2014-10,4,Male,20,Athens
+3576,2014-10,2014-10,4,Male,20,Heraklion
+3577,2014-10,2014-10,4,Male,21,Thessaloniki
+3578,2014-10,2014-10,4,Male,22,Athens
+3580,2014-10,2014-10,4,Male,24,Madrid
+3583,2014-10,2014-10,4,Female,22,Tel Aviv
+3584,2014-10,2014-10,4,Female,22,Edinburgh
+3585,2014-10,2014-10,4,Female,19,Helsinki
+3586,2014-10,2014-10,4,Female,18,Amsterdam
+3589,2014-10,2014-10,4,Female,24,Bratislava
+3590,2014-10,2014-10,4,Male,22,Bratislava
+3591,2014-10,2014-10,5,Female,18,Tirana
+3592,2014-10,2014-10,5,Female,22,Bologna
+3594,2014-10,2014-10,5,Female,22,Frankfurt
+3599,2014-10,2014-10,5,Male,24,Aalborg
+3600,2014-10,2014-10,5,Female,20,Athens
+3601,2014-10,2014-10,5,Female,21,Athens
+3602,2014-10,2014-10,5,Female,21,Thessaloniki
+3603,2014-10,2014-10,5,Female,22,Athens
+3604,2014-10,2014-10,5,Female,23,Athens
+3607,2014-10,2014-10,5,Male,18,Athens
+3608,2014-10,2014-10,5,Male,19,Athens
+3611,2014-10,2014-10,5,Female,25,Cagliari
+3612,2014-10,2014-10,5,Male,22,Brussels
+3613,2014-10,2014-10,5,Male,23,Rome
+3615,2014-10,2014-10,5,Male,25,Vilnius
+3619,2014-10,2014-10,5,Male,25,Billund
+3621,2014-10,2014-10,5,Female,22,Vienna
+3622,2014-10,2014-10,5,Male,25,Vrutky
+3623,2014-10,2014-10,5,Female,23,Istanbul
+3694,2014-09,2014-09,1,Female,19,Vitoria-Gasteiz
+3695,2014-09,2014-09,1,Female,21,Vitoria-Gasteiz
+3696,2014-09,2014-09,1,Female,25,Bilbao
+3697,2014-09,2014-09,1,Female,25,Bilbao
+3713,2014-09,2014-09,1,Male,24,Vitoria-Gasteiz
+3722,2014-10,2014-10,1,Female,13,Vitoria-Gasteiz
+3723,2014-10,2014-10,1,Female,14,Vitoria-Gasteiz
+3724,2014-10,2014-10,1,Female,19,Vitoria-Gasteiz
+3725,2014-10,2014-10,1,Female,20,Vitoria-Gasteiz
+3726,2014-10,2014-10,1,Female,21,Vitoria-Gasteiz
+3727,2014-10,2014-10,1,Female,22,Vitoria-Gasteiz
+3728,2014-10,2014-10,1,Female,23,Vitoria-Gasteiz
+3729,2014-10,2014-10,1,Female,24,Vitoria-Gasteiz
+3730,2014-10,2014-10,1,Female,25,Bilbao
+3731,2014-10,2014-10,1,Female,25,Tarragona
+3761,2014-10,2014-10,1,Male,20,Donostia
+3762,2014-10,2014-10,1,Male,20,Vitoria-Gasteiz
+3763,2014-10,2014-10,1,Male,21,Vitoria-Gasteiz
+3764,2014-10,2014-10,1,Male,22,Vitoria-Gasteiz
+3765,2014-10,2014-10,1,Male,24,Tolosa
+3766,2014-10,2014-10,1,Male,24,Vitoria-Gasteiz
+3767,2014-10,2014-10,1,Male,25,Vitoria-Gasteiz
+3791,2014-10,2014-10,1,Female,23,Vitoria-Gasteiz
+3793,2014-11,2014-11,1,Female,14,Vitoria-Gasteiz
+3794,2014-11,2014-11,1,Female,17,Vitoria-Gasteiz
+3795,2014-11,2014-11,1,Female,20,Vitoria-Gasteiz
+3796,2014-11,2014-11,1,Female,21,Vitoria-Gasteiz
+3797,2014-11,2014-11,1,Female,24,Vitoria-Gasteiz
+3798,2014-11,2014-11,1,Female,25,Bilbao
+3805,2014-11,2014-11,1,Male,19,Vitoria-Gasteiz
+3806,2014-11,2014-11,1,Male,21,Vitoria-Gasteiz
+3807,2014-11,2014-11,1,Male,24,Vitoria-Gasteiz
+3816,2014-12,2014-12,1,Female,18,Vitoria-Gasteiz
+3817,2014-12,2014-12,1,Female,25,Bilbao
+3825,2014-12,2014-12,1,Male,17,Alegr?a-Dulantzi
+3927,2014-11,2014-11,3,Female,19,M�rida
+3928,2014-11,2014-11,3,Female,21,Almendralejo
+3929,2014-11,2014-11,3,Female,21,Madrid
+3930,2014-11,2014-11,3,Female,23,Almendralejo
+3931,2014-11,2014-11,3,Female,23,Zafra
+3932,2014-11,2014-11,3,Female,25,Almendralejo
+3933,2014-11,2014-11,3,Female,25,Guare�a
+3938,2014-11,2014-11,3,Male,19,Talavera la Real
+3939,2014-11,2014-11,3,Male,22,M�rida
+3940,2014-11,2014-11,3,Male,24,M�rida
+3941,2014-11,2014-11,3,Male,24,Solana de Caba�as
+3942,2014-11,2014-11,3,Male,25,Puebla del Prior
+3950,2014-11,2014-11,3,Female,18,Kajaani
+3951,2014-11,2014-11,3,Female,21,Kajaani
+3954,2014-11,2014-11,3,Male,18,Kajaani
+3955,2014-11,2014-11,3,Male,19,Kajaani
+3957,2014-11,2014-11,4,Female,23,Madrid
+3958,2014-11,2014-11,4,Male,22,C�ceres
+3960,2014-12,2014-12,2,Male,20,M�rida
+3961,2014-12,2014-12,3,Female,23,DRESDEN
+3967,2014-12,2014-12,3,Female,19,Medina de las Torres
+3968,2014-12,2014-12,3,Female,20,Almendralejo
+3969,2014-12,2014-12,3,Female,20,Medina de las Torres
+3970,2014-12,2014-12,3,Female,21,Almendralejo
+3971,2014-12,2014-12,3,Female,21,Sevilla
+3972,2014-12,2014-12,3,Female,22,C�ceres
+3973,2014-12,2014-12,3,Female,23,Zafra
+3974,2014-12,2014-12,3,Female,24,Talavera la Real
+3978,2014-12,2014-12,3,Male,17,Medina de las Torres
+3979,2014-12,2014-12,3,Male,18,Badajoz
+3980,2014-12,2014-12,3,Male,18,Medina de las Torres
+3981,2014-12,2014-12,3,Male,18,Talavera la Real
+3982,2014-12,2014-12,3,Male,21,C�ceres
+3983,2014-12,2014-12,3,Male,24,Puebla de Obando
+3984,2014-12,2014-12,3,Male,25,C�ceres
+3992,2014-12,2014-12,3,Female,18,C�ceres
+3993,2014-12,2014-12,4,Male,18,C�ceres
+4029,2014-11,2014-11,1,Female,15,Mislata
+4030,2014-11,2014-11,1,Female,16,Mislata
+4031,2014-11,2014-11,1,Female,17,Mislata
+4032,2014-11,2014-11,1,Female,19,Mislata
+4033,2014-11,2014-11,1,Female,20,Mislata
+4034,2014-11,2014-11,1,Female,22,Mislata
+4035,2014-11,2014-11,1,Female,23,Mislata
+4043,2014-11,2014-11,1,Male,14,Mislata
+4044,2014-11,2014-11,1,Male,15,Mislata
+4045,2014-11,2014-11,1,Male,16,Mislata
+4046,2014-11,2014-11,1,Male,19,Mislata
+4047,2014-11,2014-11,1,Male,22,Mislata
+4048,2014-11,2014-11,1,Male,23,Mislata
+4054,2014-12,2014-12,1,Female,13,Mislata
+4055,2014-12,2014-12,1,Female,14,Mislata
+4056,2014-12,2014-12,1,Female,15,Mislata
+4057,2014-12,2014-12,1,Female,18,Mislata
+4058,2014-12,2014-12,1,Female,19,Mislata
+4059,2014-12,2014-12,1,Female,20,Mislata
+4060,2014-12,2014-12,1,Female,21,Mislata
+4061,2014-12,2014-12,1,Female,22,Mislata
+4062,2014-12,2014-12,1,Female,23,Mislata
+4063,2014-12,2014-12,1,Female,25,Mislata
+4072,2014-12,2014-12,1,Male,13,Mislata
+4073,2014-12,2014-12,1,Male,14,Mislata
+4074,2014-12,2014-12,1,Male,17,Mislata
+4075,2014-12,2014-12,1,Male,19,Mislata
+4076,2014-12,2014-12,1,Male,23,Mislata
+4077,2014-12,2014-12,1,Male,24,Mislata
+4154,2014-09,2014-09,2,Male,20,Le�n
+4155,2014-09,2014-09,2,Female,16,Villamuriel de Cerrato (Palencia)
+4156,2014-09,2014-09,2,Female,17,Villamuriel de Cerrato (Palencia)
+4157,2014-09,2014-09,2,Female,20,Le�n
+4158,2014-09,2014-09,2,Female,21,Valladolid
+4159,2014-09,2014-09,2,Female,23,Le�n
+4169,2014-11,2014-11,2,Male,21,Le�n
+4170,2014-11,2014-11,2,Female,16,Villamuriel de Cerrato (Palencia)
+4171,2014-11,2014-11,2,Female,18,Villamuriel de Cerrato (Palencia)
+4172,2014-11,2014-11,2,Female,20,Le�n
+4173,2014-11,2014-11,2,Female,21,Valladolid
+4174,2014-11,2014-11,2,Female,23,Le�n
+4469,2014-09,2014-09,1,Female,18,Nancy
+4470,2014-09,2014-09,1,Female,22,Nancy
+4471,2014-09,2014-09,1,Female,23,Metz
+4472,2014-09,2014-09,1,Female,24,Epinal
+4473,2014-09,2014-09,1,Female,24,Nancy
+4474,2014-09,2014-09,1,Female,25,Metz
+4481,2014-09,2014-09,1,Male,23,Nancy
+4482,2014-09,2014-09,1,Male,24,Bar le Duc
+4496,2014-10,2014-10,1,Female,19,Nancy
+4497,2014-10,2014-10,1,Female,22,Nancy
+4498,2014-10,2014-10,1,Female,23,Nancy
+4499,2014-10,2014-10,1,Female,24,Metz
+4500,2014-10,2014-10,1,Female,24,Nancy
+4504,2014-10,2014-10,1,Male,18,Metz
+4505,2014-10,2014-10,1,Male,23,Nancy
+4506,2014-10,2014-10,1,Male,25,Forbach
+4507,2014-10,2014-10,1,Male,25,Metz
+4516,2014-11,2014-11,1,Female,18,Metz
+4517,2014-11,2014-11,1,Female,21,Nancy
+4518,2014-11,2014-11,1,Female,22,Nancy
+4519,2014-11,2014-11,1,Female,23,Metz
+4520,2014-11,2014-11,1,Female,24,Metz
+4521,2014-11,2014-11,1,Female,25,Nancy
+4526,2014-11,2014-11,1,Male,18,Metz
+4527,2014-11,2014-11,1,Male,22,Nancy
+4528,2014-11,2014-11,1,Male,23,Nancy
+4529,2014-11,2014-11,1,Male,24,Metz
+4530,2014-11,2014-11,1,Male,24,Thionville
+4531,2014-11,2014-11,1,Male,25,Forbach
+4532,2014-11,2014-11,1,Male,25,Metz
+4540,2014-12,2014-12,1,Female,22,Metz
+4541,2014-12,2014-12,1,Male,19,Marly
+4542,2014-12,2014-12,1,Female,16,Longuyon
+4543,2014-12,2014-12,1,Female,17,Metz
+4544,2014-12,2014-12,1,Female,17,Nancy
+4545,2014-12,2014-12,1,Female,18,Lun�ville
+4546,2014-12,2014-12,1,Female,18,Metz
+4547,2014-12,2014-12,1,Female,18,Nancy
+4548,2014-12,2014-12,1,Female,19,Fameck
+4549,2014-12,2014-12,1,Female,19,Metz
+4550,2014-12,2014-12,1,Female,19,Nancy
+4551,2014-12,2014-12,1,Female,19,Saint Mihiel
+4552,2014-12,2014-12,1,Female,19,Thionville
+4553,2014-12,2014-12,1,Female,20,Arnaville
+4554,2014-12,2014-12,1,Female,20,Metz
+4555,2014-12,2014-12,1,Female,20,Nancy
+4556,2014-12,2014-12,1,Female,20,Villerupt
+4557,2014-12,2014-12,1,Female,21,Fameck
+4558,2014-12,2014-12,1,Female,21,Metz
+4559,2014-12,2014-12,1,Female,21,Nancy
+4560,2014-12,2014-12,1,Female,22,Nancy
+4561,2014-12,2014-12,1,Female,22,Saint Mihiel
+4562,2014-12,2014-12,1,Female,23,Metz
+4563,2014-12,2014-12,1,Female,23,Nancy
+4564,2014-12,2014-12,1,Female,23,Saint Mihiel
+4565,2014-12,2014-12,1,Female,23,Thionville
+4566,2014-12,2014-12,1,Female,24,Epinal
+4567,2014-12,2014-12,1,Female,24,Marseille
+4568,2014-12,2014-12,1,Female,24,Metz
+4569,2014-12,2014-12,1,Female,24,Nancy
+4570,2014-12,2014-12,1,Female,24,Pexx
+4571,2014-12,2014-12,1,Female,24,Pomm�rieux
+4572,2014-12,2014-12,1,Female,24,Verdun
+4573,2014-12,2014-12,1,Female,25,Bar le Duc
+4574,2014-12,2014-12,1,Female,25,Corny sur Moselle
+4575,2014-12,2014-12,1,Female,25,Freyming Merlebach
+4576,2014-12,2014-12,1,Female,25,Lun�ville
+4577,2014-12,2014-12,1,Female,25,Metz
+4578,2014-12,2014-12,1,Female,25,Nancy
+4579,2014-12,2014-12,1,Female,25,Saint Avold
+4580,2014-12,2014-12,1,Female,25,Thionville
+4608,2014-12,2014-12,1,Female,22,Nancy
+4609,2014-12,2014-12,1,Male,16,Silvange
+4610,2014-12,2014-12,1,Male,17,Metz
+4611,2014-12,2014-12,1,Male,17,Woippy
+4612,2014-12,2014-12,1,Male,18,Gerardmer
+4613,2014-12,2014-12,1,Male,18,Metz
+4614,2014-12,2014-12,1,Male,19,Forbach
+4615,2014-12,2014-12,1,Male,19,Metz
+4616,2014-12,2014-12,1,Male,19,Nancy
+4617,2014-12,2014-12,1,Male,20,Metz
+4618,2014-12,2014-12,1,Male,20,Nancy
+4619,2014-12,2014-12,1,Male,21,Metz
+4620,2014-12,2014-12,1,Male,21,Nancy
+4621,2014-12,2014-12,1,Male,21,Sarreguemines
+4622,2014-12,2014-12,1,Male,22,Nancy
+4623,2014-12,2014-12,1,Male,23,L'Hopital
+4624,2014-12,2014-12,1,Male,23,Metz
+4625,2014-12,2014-12,1,Male,23,Nancy
+4626,2014-12,2014-12,1,Male,23,Yutz
+4627,2014-12,2014-12,1,Male,24,Metz
+4628,2014-12,2014-12,1,Male,24,Nancy
+4629,2014-12,2014-12,1,Male,24,Paris
+4630,2014-12,2014-12,1,Male,25,Forbach
+4631,2014-12,2014-12,1,Male,25,Metz
+4632,2014-12,2014-12,1,Male,25,Nancy
+4633,2014-12,2014-12,1,Male,25,Thionville
+4673,2014-09,2014-09,1,Female,14,Paris
+4674,2014-09,2014-09,1,Female,15,Paris
+4675,2014-09,2014-09,1,Female,16,Paris
+4676,2014-09,2014-09,1,Female,18,Paris
+4677,2014-09,2014-09,1,Female,19,Paris
+4678,2014-09,2014-09,1,Female,20,Paris
+4679,2014-09,2014-09,1,Female,21,Paris
+4680,2014-09,2014-09,1,Female,22,Paris
+4681,2014-09,2014-09,1,Female,23,Paris
+4682,2014-09,2014-09,1,Female,24,Paris
+4683,2014-09,2014-09,1,Female,25,Paris
+4699,2014-09,2014-09,1,Male,14,Paris
+4700,2014-09,2014-09,1,Male,15,Paris
+4701,2014-09,2014-09,1,Male,16,Paris
+4702,2014-09,2014-09,1,Male,17,Paris
+4703,2014-09,2014-09,1,Male,18,Paris
+4704,2014-09,2014-09,1,Male,19,Paris
+4705,2014-09,2014-09,1,Male,20,Paris
+4706,2014-09,2014-09,1,Male,21,Paris
+4707,2014-09,2014-09,1,Male,22,Paris
+4708,2014-09,2014-09,1,Male,23,Paris
+4709,2014-09,2014-09,1,Male,24,Paris
+4710,2014-09,2014-09,1,Male,25,Paris
+4727,2014-09,2014-09,15,Female,19,Paris
+4728,2014-09,2014-09,15,Female,21,Paris
+4729,2014-09,2014-09,15,Female,25,Paris
+4737,2014-09,2014-09,15,Male,17,Paris
+4738,2014-09,2014-09,15,Male,19,Paris
+4739,2014-09,2014-09,15,Male,23,Paris
+4840,2014-08,2014-08,4,Female,13,thionville
+4841,2014-08,2014-08,4,Female,16,thionville
+4842,2014-08,2014-08,4,Female,17,thionville
+4843,2014-08,2014-08,4,Female,19,thionville
+4844,2014-08,2014-08,4,Female,20,thionville
+4845,2014-08,2014-08,4,Female,21,thionville
+4846,2014-08,2014-08,4,Female,22,thionville
+4849,2014-08,2014-08,4,Male,13,thionville
+4850,2014-08,2014-08,4,Male,14,thionville
+4851,2014-08,2014-08,4,Male,15,thionville
+4852,2014-08,2014-08,4,Male,17,thionville
+4853,2014-08,2014-08,5,Female,13,thionville
+4854,2014-08,2014-08,5,Female,17,thionville
+4857,2014-08,2014-08,5,Male,13,thionville
+4858,2014-08,2014-08,5,Male,14,thionville
+4864,2014-10,2014-10,5,Female,13,thionville
+4865,2014-10,2014-10,5,Female,14,thionville
+4866,2014-10,2014-10,5,Female,16,thionville
+4867,2014-10,2014-10,5,Female,17,thionville
+4870,2014-10,2014-10,5,Female,13,thionville
+4871,2014-10,2014-10,5,Female,14,thionville
+4872,2014-10,2014-10,5,Female,15,thionville
+4873,2014-10,2014-10,5,Female,16,thionville
+4874,2014-10,2014-10,5,Female,17,thionville
+4875,2014-10,2014-10,5,Female,21,thionville
+4876,2014-10,2014-10,5,Male,13,thionville
+4877,2014-10,2014-10,5,Male,14,thionville
+4880,2014-10,2014-10,5,Male,14,thionville
+4881,2014-10,2014-10,5,Male,15,thionville
+4882,2014-10,2014-10,5,Male,16,thionville
+4883,2014-10,2014-10,5,Male,18,thionville
+4884,2014-10,2014-10,5,Male,22,thionville
+4885,2014-11,2014-11,1,Female,13,thionville
+4889,2014-11,2014-11,1,Male,13,thionville
+4890,2014-11,2014-11,1,Male,14,thionville
+4892,2014-11,2014-11,1,Male,17,thionville
+4893,2014-11,2014-11,1,Male,17,thionville
+4894,2014-11,2014-11,1,Male,18,thionville
+4896,2014-12,2014-12,5,Female,13,thionville
+4897,2014-12,2014-12,5,Female,14,thionville
+4898,2014-12,2014-12,5,Female,15,thionville
+4899,2014-12,2014-12,5,Female,17,thionville
+4900,2014-12,2014-12,5,Female,18,thionville
+4902,2014-12,2014-12,5,Male,16,thionville
+4903,2014-12,2014-12,5,Male,18,thionville
+4904,2014-12,2014-12,5,Male,19,thionville
+4997,2014-11,2014-11,1,Female,16,MONTIGNY LE BRETONNEUX
+5133,2014-09,2014-09,4,Female,19,Berlin
+5134,2014-09,2014-09,4,Female,23,Berlin
+5135,2014-09,2014-09,4,Female,16,Berlin
+5136,2014-09,2014-09,4,Female,23,Berlin
+5137,2014-09,2014-09,4,Female,16,Berlin
+5138,2014-09,2014-09,4,Female,20,Berlin
+5139,2014-09,2014-09,4,Male,21,Berlin
+5140,2014-09,2014-09,4,Male,23,Berlin
+5141,2014-09,2014-09,4,Male,21,Berlin
+5142,2014-09,2014-09,4,Female,20,Paris
+5143,2014-09,2014-09,4,Female,21,Paris
+5144,2014-09,2014-09,4,Female,23,Paris
+5145,2014-09,2014-09,4,Female,17,Paris
+5146,2014-09,2014-09,4,Female,18,Paris
+5147,2014-09,2014-09,4,Female,22,Paris
+5148,2014-09,2014-09,4,Female,23,Paris
+5149,2014-09,2014-09,4,Male,16,Paris
+5150,2014-09,2014-09,4,Male,20,Paris
+5151,2014-09,2014-09,4,Male,20,Paris
+5152,2014-09,2014-09,4,Male,21,Paris
+5153,2014-09,2014-09,4,Male,22,Paris
+5154,2014-09,2014-09,4,Male,23,Paris
+5155,2014-09,2014-09,4,Male,22,Paris
+5156,2014-09,2014-09,4,Male,22,Paris
+5157,2014-09,2014-09,4,Male,23,Paris
+5158,2014-09,2014-09,4,Male,16,Paris
+5159,2014-09,2014-09,4,Male,18,Paris
+5160,2014-09,2014-09,4,Male,19,Paris
+5161,2014-09,2014-09,4,Male,20,Paris
+5162,2014-09,2014-09,4,Male,21,Paris
+5163,2014-09,2014-09,4,Male,22,Paris
+5164,2014-09,2014-09,4,Male,23,Paris
+5165,2014-09,2014-09,4,Male,24,Paris
+5166,2014-09,2014-09,4,Female,16,Budapest
+5167,2014-09,2014-09,4,Female,23,Budapest
+5168,2014-09,2014-09,4,Female,17,Budapest
+5169,2014-09,2014-09,4,Female,18,Budapest
+5170,2014-09,2014-09,4,Female,23,Budapest
+5171,2014-09,2014-09,4,Female,19,Budapest
+5172,2014-09,2014-09,4,Female,21,Budapest
+5173,2014-09,2014-09,4,Male,17,Budapest
+5174,2014-09,2014-09,4,Male,17,Budapest
+5175,2014-09,2014-09,4,Female,22,Rome
+5176,2014-09,2014-09,4,Female,18,Rome
+5177,2014-09,2014-09,4,Female,18,Rome
+5178,2014-09,2014-09,4,Female,23,Rome
+5179,2014-09,2014-09,4,Female,17,Rome
+5180,2014-09,2014-09,4,Female,22,Rome
+5181,2014-09,2014-09,4,Female,22,Rome
+5182,2014-09,2014-09,4,Male,19,Rome
+5183,2014-09,2014-09,4,Male,19,Rome
+5184,2014-09,2014-09,4,Male,22,Rome
+5185,2014-09,2014-09,4,Female,16,Amsterdam
+5186,2014-09,2014-09,4,Female,17,Amsterdam
+5187,2014-09,2014-09,4,Female,20,Amsterdam
+5188,2014-09,2014-09,4,Female,22,Amsterdam
+5189,2014-09,2014-09,4,Female,20,Amsterdam
+5190,2014-09,2014-09,4,Female,21,Amsterdam
+5191,2014-09,2014-09,4,Female,22,Amsterdam
+5192,2014-09,2014-09,4,Male,22,Amsterdam
+5193,2014-09,2014-09,4,Male,21,Amsterdam
+5194,2014-09,2014-09,4,Male,23,Amsterdam
+5195,2014-12,2014-12,5,Female,19,Berlin
+5196,2014-12,2014-12,5,Female,24,Berlin
+5197,2014-12,2014-12,5,Female,16,Berlin
+5198,2014-12,2014-12,5,Female,24,Berlin
+5199,2014-12,2014-12,5,Female,16,Berlin
+5200,2014-12,2014-12,5,Female,20,Berlin
+5201,2014-12,2014-12,5,Male,22,Berlin
+5202,2014-12,2014-12,5,Male,23,Berlin
+5203,2014-12,2014-12,5,Male,21,Berlin
+5204,2014-12,2014-12,5,Female,21,Paris
+5205,2014-12,2014-12,5,Female,21,Paris
+5206,2014-12,2014-12,5,Female,24,Paris
+5207,2014-12,2014-12,5,Female,24,Paris
+5208,2014-12,2014-12,5,Female,17,Paris
+5209,2014-12,2014-12,5,Female,18,Paris
+5210,2014-12,2014-12,5,Female,23,Paris
+5211,2014-12,2014-12,5,Female,24,Paris
+5212,2014-12,2014-12,5,Male,17,Paris
+5213,2014-12,2014-12,5,Male,20,Paris
+5214,2014-12,2014-12,5,Male,20,Paris
+5215,2014-12,2014-12,5,Male,20,Paris
+5216,2014-12,2014-12,5,Male,22,Paris
+5217,2014-12,2014-12,5,Male,23,Paris
+5218,2014-12,2014-12,5,Male,25,Paris
+5219,2014-12,2014-12,5,Male,22,Paris
+5220,2014-12,2014-12,5,Male,22,Paris
+5221,2014-12,2014-12,5,Male,23,Paris
+5222,2014-12,2014-12,5,Male,17,Paris
+5223,2014-12,2014-12,5,Male,18,Paris
+5224,2014-12,2014-12,5,Male,18,Paris
+5225,2014-12,2014-12,5,Male,19,Paris
+5226,2014-12,2014-12,5,Male,19,Paris
+5227,2014-12,2014-12,5,Male,20,Paris
+5228,2014-12,2014-12,5,Male,22,Paris
+5229,2014-12,2014-12,5,Male,22,Paris
+5230,2014-12,2014-12,5,Male,23,Paris
+5231,2014-12,2014-12,5,Male,24,Paris
+5232,2014-12,2014-12,5,Female,16,Budapest
+5233,2014-12,2014-12,5,Female,24,Budapest
+5234,2014-12,2014-12,5,Female,17,Budapest
+5235,2014-12,2014-12,5,Female,19,Budapest
+5236,2014-12,2014-12,5,Female,23,Budapest
+5237,2014-12,2014-12,5,Female,19,Budapest
+5238,2014-12,2014-12,5,Female,22,Budapest
+5239,2014-12,2014-12,5,Male,17,Budapest
+5240,2014-12,2014-12,5,Male,17,Budapest
+5241,2014-12,2014-12,5,Female,23,Rome
+5242,2014-12,2014-12,5,Female,18,Rome
+5243,2014-12,2014-12,5,Female,18,Rome
+5244,2014-12,2014-12,5,Female,23,Rome
+5245,2014-12,2014-12,5,Female,17,Rome
+5246,2014-12,2014-12,5,Female,22,Rome
+5247,2014-12,2014-12,5,Female,22,Rome
+5248,2014-12,2014-12,5,Male,19,Rome
+5249,2014-12,2014-12,5,Male,19,Rome
+5250,2014-12,2014-12,5,Male,22,Rome
+5251,2014-12,2014-12,5,Female,16,Amsterdam
+5252,2014-12,2014-12,5,Female,17,Amsterdam
+5253,2014-12,2014-12,5,Female,20,Amsterdam
+5254,2014-12,2014-12,5,Female,22,Amsterdam
+5255,2014-12,2014-12,5,Female,20,Amsterdam
+5256,2014-12,2014-12,5,Female,21,Amsterdam
+5257,2014-12,2014-12,5,Female,22,Amsterdam
+5258,2014-12,2014-12,5,Male,23,Amsterdam
+5259,2014-12,2014-12,5,Male,21,Amsterdam
+5260,2014-12,2014-12,5,Male,24,Amsterdam
+5321,2014-08,2014-08,1,Female,15,39300 - Ney
+5322,2014-08,2014-08,1,Female,15,55150 - Rupt sur Othain
+5323,2014-08,2014-08,1,Female,16,55100 - Verdun
+5324,2014-08,2014-08,1,Female,17,74420 - Burdignin
+5325,2014-08,2014-08,1,Female,18,07270 - St barthelemy Grozon
+5326,2014-08,2014-08,1,Female,18,55210 - St Maurice sous les cotes
+5327,2014-08,2014-08,1,Female,18,57420 - Secourt
+5328,2014-08,2014-08,1,Female,20,44370 - Belligne
+5329,2014-08,2014-08,1,Female,20,49100 - Angers
+5330,2014-08,2014-08,1,Female,20,49460 - Montreuil Juigne
+5331,2014-08,2014-08,1,Female,20,55150 - Rupt sur othain
+5332,2014-08,2014-08,1,Female,20,59160 - Lille
+5333,2014-08,2014-08,1,Female,21,25510 La Sommette
+5334,2014-08,2014-08,1,Female,22,49100 - Angers
+5335,2014-08,2014-08,1,Female,22,49360 - Maulevrier
+5336,2014-08,2014-08,1,Female,22,73000 - Chamb�ry
+5337,2014-08,2014-08,1,Female,23,25000 - Besancon
+5338,2014-08,2014-08,1,Female,23,39000 Lons le Saunier
+5339,2014-08,2014-08,1,Female,23,45230 - Ste Genevi�ve des Bois
+5340,2014-08,2014-08,1,Female,23,Verdun
+5341,2014-08,2014-08,1,Female,25,14100 - Lisieux
+5342,2014-08,2014-08,1,Female,25,36200 - Argenton sur Creuse
+5343,2014-08,2014-08,1,Female,25,52000 - Chaumont
+5344,2014-08,2014-08,1,Female,25,61600 - La Fert� Mace
+5360,2014-08,2014-08,1,Male,14,55100 - Charny sur meuse
+5361,2014-08,2014-08,1,Male,15,74540 - Alby sur Cheran
+5362,2014-08,2014-08,1,Male,16,55140 - Taillancourt
+5363,2014-08,2014-08,1,Male,17,70120 - Gourgeon
+5364,2014-08,2014-08,1,Male,17,88220 - Xertigny
+5365,2014-08,2014-08,1,Male,18,60430 - Abbecourt
+5366,2014-08,2014-08,1,Male,19,39600 - Les Arsures
+5367,2014-08,2014-08,1,Male,19,59000 - Lille
+5368,2014-08,2014-08,1,Male,20,45530 - Sury aux bois
+5369,2014-08,2014-08,1,Male,22,18000 - Bourges
+5370,2014-08,2014-08,1,Male,22,44300 - Nantes
+5371,2014-08,2014-08,1,Male,22,49750 - Rablay sur layon
+5372,2014-08,2014-08,1,Male,22,79160 - Villiers en plaine
+5373,2014-08,2014-08,1,Male,22,79300 - Bressuire
+5374,2014-08,2014-08,1,Male,23,07340 - Talencieux
+5375,2014-08,2014-08,1,Male,23,44300 - Nantes
+5376,2014-08,2014-08,1,Male,24,23400 - Faux Mazuras
+5377,2014-08,2014-08,1,Male,24,61300 - St sulpice sur Risle
+5378,2014-08,2014-08,1,Male,24,69009 - Lyon
+5379,2014-08,2014-08,1,Male,25,59890 - Quesnoy sur Deule
+5393,2014-08,2014-08,2,Female,23,79300 - Bressuire
+5394,2014-08,2014-08,2,Female,14,54870 - Montigny sur Chiers
+5395,2014-08,2014-08,2,Female,15,55150 - Rupt sur Othain
+5396,2014-08,2014-08,2,Female,15,55150 Rupt sur Othain
+5397,2014-08,2014-08,2,Female,15,Bar le Duc
+5398,2014-08,2014-08,2,Female,16,54800 - Tronville
+5399,2014-08,2014-08,2,Female,17,80160 - Flers sur Noye
+5400,2014-08,2014-08,2,Female,20,49100 - Angers
+5401,2014-08,2014-08,2,Female,23,79700 - St Pierre des Echaubrognes
+5402,2014-08,2014-08,2,Female,25,55160 Ville-en-Wo�vre
+5406,2014-08,2014-08,2,Male,14,Verdun
+5407,2014-08,2014-08,2,Male,16,74540 - St Felix
+5408,2014-08,2014-08,2,Male,17,80160 - St Sauflieu
+5409,2014-08,2014-08,2,Male,22,80080 - Amiens
+5410,2014-08,2014-08,2,Male,23,25380 - Vaucluse
+5411,2014-08,2014-08,2,Male,24,Sallanches
+5412,2014-08,2014-08,2,Male,25,01430 - Chevillard
+5413,2014-08,2014-08,2,Male,25,Paris
+5414,2014-08,2014-08,3,Female,16,55140 - Brixeg aux Chancrines
+5415,2014-08,2014-08,3,Female,23,25270 - Arc sous montenot
+5416,2014-08,2014-08,3,Female,25,54240 Joeuf
+5418,2014-08,2014-08,3,Male,25,59800 Lille
+5419,2014-08,2014-08,4,Female,15,39300 - Champagnole
+5420,2014-08,2014-08,4,Female,16,54119 - Domgermain
+5421,2014-08,2014-08,4,Female,17,76270 - Flamets Fretils
+5422,2014-08,2014-08,4,Female,17,88800 - Parey sous montfort
+5423,2014-08,2014-08,4,Female,18,54119 - Domgermain
+5424,2014-08,2014-08,4,Female,19,16170 - Gourville
+5425,2014-08,2014-08,4,Female,19,25380 - Vaucluse
+5426,2014-08,2014-08,4,Female,19,45260 - Noyers
+5427,2014-08,2014-08,4,Female,20,39130 - Hautecour
+5428,2014-08,2014-08,4,Female,22,35120 Dol de Bretagne
+5429,2014-08,2014-08,4,Female,22,59260 - Lille
+5430,2014-08,2014-08,4,Female,22,70120 - Gourgeon
+5431,2014-08,2014-08,4,Female,25,61600 - Beauvain
+5432,2014-08,2014-08,4,Female,25,80000 - Amiens
+5438,2014-08,2014-08,4,Male,16,54260 - St Jean Les Longuyon
+5439,2014-08,2014-08,4,Male,18,54450 - Reillon
+5440,2014-08,2014-08,4,Male,18,70170 - Conflandey
+5441,2014-08,2014-08,4,Male,18,88240 - Harsault
+5442,2014-08,2014-08,4,Male,19,37000 - Tours
+5443,2014-08,2014-08,4,Male,19,39600 - Les Arsures
+5444,2014-08,2014-08,4,Male,19,54260 - St Jean les Longuyon
+5445,2014-08,2014-08,4,Male,19,87000 - Limoges
+5446,2014-08,2014-08,4,Male,21,16170 - Gourville
+5447,2014-08,2014-08,4,Male,21,49700 - Doue la Fontaine
+5455,2014-12,2014-12,5,Female,22,49360 Maulevrier
+5456,2014-12,2014-12,5,Female,25,49350 Gennes
+5458,2014-12,2014-12,5,Male,25,23400 Faux Mazuras
+5461,2014-12,2014-12,5,Female,17,54450 - Reillon
+5462,2014-12,2014-12,5,Female,19,01570 Feillens
+5463,2014-12,2014-12,5,Female,19,16170 Gourville
+5464,2014-12,2014-12,5,Female,20,23250 Soubrebost
+5465,2014-12,2014-12,5,Female,20,44370 - Belligne
+5466,2014-12,2014-12,5,Female,20,49460 Montreuil Juigne
+5467,2014-12,2014-12,5,Female,20,90000 Belfort
+5468,2014-12,2014-12,5,Female,21,18510 Menetou-Salon
+5469,2014-12,2014-12,5,Female,21,38100 Grenoble
+5470,2014-12,2014-12,5,Female,21,50440 Vauville
+5471,2014-12,2014-12,5,Female,22,49600 Andreze
+5472,2014-12,2014-12,5,Female,22,69220 St Jean d'Ardieres
+5473,2014-12,2014-12,5,Female,23,31500 Toulouse
+5474,2014-12,2014-12,5,Female,23,48000 - Chanac
+5475,2014-12,2014-12,5,Female,23,59260 Lille
+5476,2014-12,2014-12,5,Female,23,69210 L'Arbresle
+5477,2014-12,2014-12,5,Female,23,74540 GRUFFY
+5478,2014-12,2014-12,5,Female,23,79300 Bressuire
+5479,2014-12,2014-12,5,Female,24,49320 Brissac Quince
+5480,2014-12,2014-12,5,Female,24,79600 Assais les jumeaux
+5481,2014-12,2014-12,5,Female,25,14000 Caen
+5482,2014-12,2014-12,5,Female,25,25000 Besan�on
+5483,2014-12,2014-12,5,Female,25,Paris
+5501,2014-12,2014-12,5,Male,18,54450 Reillon
+5502,2014-12,2014-12,5,Male,19,60370 Hermes
+5503,2014-12,2014-12,5,Male,20,62180 Verton
+5504,2014-12,2014-12,5,Male,20,62600 Berck sur mer
+5505,2014-12,2014-12,5,Male,21,49000 Angers
+5506,2014-12,2014-12,5,Male,21,Paris
+5507,2014-12,2014-12,5,Male,22,18000 Bourges
+5508,2014-12,2014-12,5,Male,22,44300 Nantes
+5509,2014-12,2014-12,5,Male,22,49750 Rablay sur Layon
+5510,2014-12,2014-12,5,Male,23,44300 Nantes
+5511,2014-12,2014-12,5,Male,23,79300 Bressuire
+5512,2014-12,2014-12,5,Male,23,79700 St Amand sur Sevre
+5513,2014-12,2014-12,5,Male,23,86000 Poitiers
+5514,2014-12,2014-12,5,Male,24,49100 Angers
+5515,2014-12,2014-12,5,Male,24,61600 La Fert� Mac�
+5516,2014-12,2014-12,5,Male,25,48000 Mende
+5517,2014-12,2014-12,5,Male,25,72300 Sable sur Sarthe
+5518,2014-12,2014-12,5,Male,25,Paris
+5530,2014-10,2014-10,4,Female,21,MURCIA
+5531,2014-10,2014-10,4,Female,22,MURCIA
+5533,2014-10,2014-10,4,Male,21,MURCIA
+5534,2014-10,2014-10,4,Male,22,MURCIA
+5535,2014-10,2014-10,4,Female,22,MURCIA
+5536,2014-10,2014-10,4,Female,16,Kassel
+5537,2014-10,2014-10,4,Female,17,Kassel
+5538,2014-10,2014-10,4,Female,18,Kassel
+5539,2014-10,2014-10,4,Female,20,Kassel
+5540,2014-10,2014-10,4,Male,16,Kassel
+5541,2014-10,2014-10,4,Male,17,Kassel
+5542,2014-10,2014-10,4,Male,18,Kassel
+5543,2014-10,2014-10,4,Female,19,BARCELONA
+5544,2014-10,2014-10,4,Female,21,BARCELONA
+5545,2014-10,2014-10,4,Female,23,BARCELONA
+5546,2014-10,2014-10,4,Female,24,BARCELONA
+5547,2014-10,2014-10,4,Male,22,BARCELONA
+5548,2014-10,2014-10,4,Male,23,BARCELONA
+5549,2014-10,2014-10,4,Female,16,MULHOUSE
+5550,2014-10,2014-10,4,Female,20,MULHOUSE
+5555,2014-10,2014-10,4,Male,18,MULHOUSE
+5557,2014-10,2014-10,4,Female,19,Belluno
+5558,2014-10,2014-10,4,Female,21,Belluno
+5559,2014-10,2014-10,4,Female,22,STRASBOURG
+5560,2014-10,2014-10,4,Female,24,Belluno
+5561,2014-10,2014-10,4,Female,25,Belluno
+5562,2014-10,2014-10,4,Male,21,Belluno
+5563,2014-10,2014-10,4,Male,22,Belluno
+5565,2014-10,2014-10,4,Female,18,Kekava
+5566,2014-10,2014-10,4,Female,23,Kekava
+5567,2014-10,2014-10,4,Female,25,Kekava
+5569,2014-10,2014-10,4,Male,19,Kekava
+5570,2014-10,2014-10,4,Male,22,Kekava
+5571,2014-10,2014-10,4,Female,18,Wroc?aw
+5572,2014-10,2014-10,4,Female,24,Wroc?aw
+5574,2014-10,2014-10,4,Male,17,Wroc?aw
+5575,2014-10,2014-10,4,Male,18,Wroc?aw
+5576,2014-10,2014-10,4,Female,19,Str�ngn�s
+5577,2014-10,2014-10,4,Female,18,MULHOUSE
+5578,2014-10,2014-10,4,Female,18,Str�ngn�s
+5581,2014-10,2014-10,4,Male,18,Str�ngn�s
+5582,2014-12,2014-12,5,Male,24,BUDAPEST
+5583,2014-12,2014-12,5,Female,22,Hrazdan
+5584,2014-12,2014-12,5,Female,25,Yerevan
+5585,2014-12,2014-12,5,Female,23,Brussel
+5588,2014-12,2014-12,5,Male,21,Brussel
+5590,2014-12,2014-12,5,Female,19,Stara Zagora
+5591,2014-12,2014-12,5,Male,18,Stara Zagora
+5592,2014-12,2014-12,5,Male,19,Duisburg
+5593,2014-12,2014-12,5,Female,21,Ath�nes
+5594,2014-12,2014-12,5,Female,18,Marseille
+5595,2014-12,2014-12,5,Female,23,STRASBOURG
+5599,2014-12,2014-12,5,Male,18,STRASBOURG
+5600,2014-12,2014-12,5,Male,23,STRASBOURG
+5602,2014-12,2014-12,5,Male,19,BUDAPEST
+5603,2014-12,2014-12,5,Female,18,Valmiera
+5605,2014-12,2014-12,5,Female,19,Chi?in?u
+5606,2014-12,2014-12,5,Female,21,Chi?in?u
+5608,2014-12,2014-12,5,Female,24,Msida
+5609,2014-12,2014-12,5,Female,24,Lublin
+5610,2014-12,2014-12,5,Male,24,Lublin
+5611,2014-12,2014-12,5,Male,19,Kyiv
+5613,2014-12,2014-12,5,Female,21,Muratpa?a
+5614,2014-12,2014-12,5,Female,18,Junik
+5615,2014-12,2014-12,5,Male,20,Junik
+5616,2014-12,2014-12,4,Female,21,Sisak
+5617,2014-12,2014-12,4,Female,22,Sisak
+5618,2014-12,2014-12,4,Female,23,Sisak
+5623,2014-12,2014-12,4,Male,21,Sisak
+5624,2014-12,2014-12,4,Male,24,Sisak
+6250,2014-10,2014-10,1,Female,16,Dublin
+6251,2014-10,2014-10,1,Female,17,Dublin
+6252,2014-10,2014-10,1,Female,18,Dublin
+6253,2014-10,2014-10,1,Female,18,Wicklow
+6254,2014-10,2014-10,1,Female,22,Cavan
+6255,2014-10,2014-10,1,Female,22,Roscommon
+6256,2014-10,2014-10,1,Female,24,Dublin
+6257,2014-10,2014-10,1,Female,25,Dublin
+6285,2014-10,2014-10,1,Female,19,Dublin
+6289,2014-10,2014-10,1,Male,16,Dublin
+6290,2014-10,2014-10,1,Male,17,Dublin
+6291,2014-10,2014-10,1,Male,18,Dublin
+6292,2014-10,2014-10,1,Male,19,Wicklow
+6293,2014-10,2014-10,1,Male,21,Dublin
+6294,2014-10,2014-10,1,Male,24,Galway
+6295,2014-10,2014-10,1,Male,25,Dublin
+6313,2014-10,2014-10,1,Male,23,Dublin
+6409,2014-10,2014-11,5,Male,18,Gent
+6410,2014-10,2014-11,5,Female,17,Gent
+6411,2014-10,2014-11,5,Male,17,Gent
+6412,2014-10,2014-11,5,Male,18,Gent
+6413,2014-10,2014-11,5,Female,17,Praha 4
+6414,2014-10,2014-11,5,Female,18,Praha 4
+6415,2014-10,2014-11,5,Male,17,Praha 4
+6416,2014-10,2014-11,5,Male,19,Praha 4
+6417,2014-10,2014-11,5,Female,17,Berlin
+6418,2014-10,2014-11,5,Female,18,Berlin
+6419,2014-10,2014-11,5,Male,18,Berlin
+6420,2014-10,2014-11,5,Female,18,Helsinki
+6421,2014-10,2014-11,5,Female,19,Helsinki
+6422,2014-10,2014-11,5,Female,19,Rome
+6423,2014-10,2014-11,5,Male,17,Rome
+6424,2014-10,2014-11,5,Male,18,Rome
+6425,2014-10,2014-11,5,Female,17,Mersch
+6426,2014-10,2014-11,5,Male,17,Mersch
+6427,2014-10,2014-11,5,Female,17,Rotterdam
+6428,2014-10,2014-11,5,Male,17,Rotterdam
+6429,2014-10,2014-11,5,Male,18,Rotterdam
+6430,2014-10,2014-11,5,Female,17,Warszawa
+6431,2014-10,2014-11,5,Female,18,Warszawa
+6432,2014-10,2014-11,5,Female,19,Warszawa
+6433,2014-10,2014-11,5,Male,17,Warszawa
+6434,2014-10,2014-11,5,Female,16,?stanbul
+6435,2014-10,2014-11,5,Female,18,?stanbul
+6436,2014-10,2014-11,5,Male,16,?stanbul
+6437,2014-10,2014-11,5,Male,17,?stanbul
+6438,2014-10,2014-11,7,Male,20,Gent
+6439,2014-10,2014-11,7,Male,22,Gent
+6440,2014-10,2014-11,7,Male,23,Gent
+6441,2014-10,2014-11,7,Female,19,Praha 4
+6442,2014-10,2014-11,7,Male,18,Praha 4
+6443,2014-10,2014-11,7,Male,20,Berlin
+6444,2014-10,2014-11,7,Male,18,Thessaloniki
+6445,2014-10,2014-11,7,Male,20,Thessaloniki
+6446,2014-10,2014-11,7,Male,24,Thessaloniki
+6447,2014-10,2014-11,7,Male,22,Helsinki
+6448,2014-10,2014-11,7,Female,18,Paris
+6449,2014-10,2014-11,7,Female,20,Paris
+6450,2014-10,2014-11,7,Female,18,Dublin
+6451,2014-10,2014-11,7,Female,19,Dublin
+6452,2014-10,2014-11,7,Female,20,Dublin
+6453,2014-10,2014-11,7,Female,21,Dublin
+6454,2014-10,2014-11,7,Female,22,Dublin
+6455,2014-10,2014-11,7,Male,18,Dublin
+6456,2014-10,2014-11,7,Male,19,Dublin
+6457,2014-10,2014-11,7,Male,20,Dublin
+6458,2014-10,2014-11,7,Male,21,Dublin
+6459,2014-10,2014-11,7,Male,22,Paris
+6460,2014-10,2014-11,7,Male,22,Rome
+6461,2014-10,2014-11,7,Female,23,Rotterdam
+6462,2014-10,2014-11,7,Male,19,Rotterdam
+6463,2014-10,2014-11,7,Male,22,Rotterdam
+6464,2014-10,2014-11,7,Female,18,Warszawa
+6465,2014-10,2014-11,7,Female,18,Belgrade
+6466,2014-10,2014-11,7,Female,19,Liverpool
+6467,2014-10,2014-11,7,Male,20,Liverpool
+6468,2014-10,2014-11,7,Male,24,Liverpool
+6469,2014-10,2014-10,1,Female,18,Dublin
+6470,2014-10,2014-10,1,Female,19,Carlow
+6471,2014-10,2014-10,1,Female,19,Cork
+6472,2014-10,2014-10,1,Female,19,Dublin
+6478,2014-10,2014-10,1,Female,17,Leitrim
+6479,2014-10,2014-10,1,Female,17,Roscommon
+6480,2014-10,2014-10,1,Female,17,Sligo
+6481,2014-10,2014-10,1,Female,20,Dublin
+6482,2014-10,2014-10,1,Female,22,Dublin
+6483,2014-10,2014-10,1,Male,17,Cork
+6484,2014-10,2014-10,1,Male,18,Dublin
+6488,2014-10,2014-10,1,Male,19,Roscommon
+6490,2014-11,2014-11,1,Female,15,Dublin
+6491,2014-11,2014-11,1,Female,18,Tipperary
+6492,2014-11,2014-11,1,Female,19,Carlow
+6493,2014-11,2014-11,1,Female,19,Cork
+6494,2014-11,2014-11,1,Female,19,Dublin
+6498,2014-11,2014-11,1,Female,17,Cork
+6499,2014-11,2014-11,1,Female,17,Leitrim
+6500,2014-11,2014-11,1,Female,17,Sligo
+6501,2014-11,2014-11,1,Female,20,Dublin
+6503,2014-11,2014-11,1,Male,17,Tipperary
+6504,2014-11,2014-11,1,Male,18,Dublin
+6505,2014-11,2014-11,1,Male,20,Sligo
+6508,2014-12,2014-12,1,Female,19,Carlow
+6509,2014-12,2014-12,1,Female,19,Dublin
+6514,2014-12,2014-12,1,Female,17,Sligo
+6515,2014-12,2014-12,1,Female,18,cork
+6516,2014-12,2014-12,1,Female,20,Dublin
+6518,2014-12,2014-12,1,Male,17,Tipperary
+6519,2014-12,2014-12,1,Male,18,Dublin
+6520,2014-12,2014-12,1,Male,23,Dublin
+6523,2014-12,2014-12,1,Male,19,Roscommon
+6551,2014-10,2014-10,3,Female,14,Roma
+6552,2014-10,2014-10,3,Female,16,Roma
+6553,2014-10,2014-10,3,Female,17,Roma
+6554,2014-10,2014-10,3,Female,18,Roma
+6555,2014-10,2014-10,3,Female,19,Roma
+6556,2014-10,2014-10,3,Female,20,Roma
+6557,2014-10,2014-10,3,Female,21,Roma
+6558,2014-10,2014-10,3,Female,22,Roma
+6559,2014-10,2014-10,3,Female,23,Roma
+6560,2014-10,2014-10,3,Female,24,Roma
+6561,2014-10,2014-10,3,Female,25,Roma
+6567,2014-10,2014-10,3,Male,16,Roma
+6568,2014-10,2014-10,3,Male,17,Roma
+6569,2014-10,2014-10,3,Male,18,Roma
+6570,2014-10,2014-10,3,Male,19,Roma
+6571,2014-10,2014-10,3,Male,20,Roma
+6572,2014-10,2014-10,3,Male,21,Roma
+6573,2014-10,2014-10,3,Male,22,Roma
+6574,2014-10,2014-10,3,Male,23,Roma
+6575,2014-10,2014-10,3,Male,24,Roma
+6576,2014-10,2014-10,3,Male,25,Roma
+6583,2014-10,2014-10,3,Male,24,Roma
+6584,2014-11,2014-11,3,Female,14,Roma
+6585,2014-11,2014-11,3,Female,16,Roma
+6586,2014-11,2014-11,3,Female,17,Roma
+6587,2014-11,2014-11,3,Female,18,Roma
+6588,2014-11,2014-11,3,Female,19,Roma
+6589,2014-11,2014-11,3,Female,20,Roma
+6590,2014-11,2014-11,3,Female,21,Roma
+6591,2014-11,2014-11,3,Female,22,Roma
+6592,2014-11,2014-11,3,Female,23,Roma
+6593,2014-11,2014-11,3,Female,24,Roma
+6594,2014-11,2014-11,3,Female,25,Roma
+6605,2014-11,2014-11,3,Male,17,Roma
+6606,2014-11,2014-11,3,Male,18,Roma
+6607,2014-11,2014-11,3,Male,19,Roma
+6608,2014-11,2014-11,3,Male,20,Roma
+6609,2014-11,2014-11,3,Male,21,Roma
+6610,2014-11,2014-11,3,Male,22,Roma
+6611,2014-11,2014-11,3,Male,23,Roma
+6612,2014-11,2014-11,3,Male,24,Roma
+6613,2014-11,2014-11,3,Male,25,Roma
+6625,2014-11,2014-11,3,Male,24,Roma
+6656,2014-09,2014-09,2,Female,17,Marijampole
+6657,2014-09,2014-09,2,Female,21,Marijampole
+6658,2014-09,2014-09,2,Female,22,Marijampole
+6659,2014-09,2014-09,2,Female,23,Marijampole
+6660,2014-09,2014-09,2,Female,24,Marijampole
+6661,2014-09,2014-09,2,Female,25,Marijampole
+6665,2014-09,2014-09,2,Male,17,Marijampole
+6667,2014-11,2014-11,2,Female,16,Marijampole
+6668,2014-11,2014-11,2,Female,17,Marijampole
+6669,2014-11,2014-11,2,Female,18,Marijampole
+6670,2014-11,2014-11,2,Female,20,Marijampole
+6671,2014-11,2014-11,2,Female,21,Marijampole
+6672,2014-11,2014-11,2,Female,22,Marijampole
+6673,2014-11,2014-11,2,Female,24,Marijampole
+6674,2014-11,2014-11,2,Female,25,Marijampole
+6679,2014-11,2014-11,2,Female,18,Marijampole
+6680,2014-11,2014-11,2,Female,25,Marijampole
+6681,2014-11,2014-11,2,Male,17,Marijampole
+6682,2014-11,2014-11,2,Male,18,Marijampole
+6683,2014-11,2014-11,2,Male,20,Marijampole
+6684,2014-11,2014-11,2,Male,22,Marijampole
+6687,2014-11,2014-11,2,Male,18,Marijampole
+6688,2014-11,2014-11,2,Male,20,Marijampole
+6689,2014-11,2014-11,2,Male,22,Marijampole
+6690,2014-11,2014-11,2,Male,23,Marijampole
+6751,2014-10,2014-10,1,Female,16,Anyksciai
+6759,2014-10,2014-10,1,Female,16,Prienu District Balbieriskio Basic School
+6760,2014-10,2014-10,1,Female,18,Akademija
+6761,2014-10,2014-10,1,Male,14,Moletai
+6762,2014-10,2014-10,1,Male,17,Akademija
+6763,2014-10,2014-10,1,Male,17,Moletai
+6764,2014-10,2014-10,1,Male,16,Prienu District Balbieriskio Basic School
+6765,2014-12,2014-12,2,Female,15,Anyksciai
+6766,2014-12,2014-12,2,Female,15,Moletai
+6767,2014-12,2014-12,2,Female,16,Anyksciai
+6768,2014-12,2014-12,2,Female,16,Debeikiai
+6769,2014-12,2014-12,2,Female,16,Moletai
+6770,2014-12,2014-12,2,Female,16,Vilnius
+6771,2014-12,2014-12,2,Female,17,Debeikiai
+6772,2014-12,2014-12,2,Female,17,Moletai
+6773,2014-12,2014-12,2,Female,17,Vilnius
+6774,2014-12,2014-12,2,Female,18,Moletai
+6775,2014-12,2014-12,2,Female,18,Vilnius
+6786,2014-12,2014-12,2,Female,14,Prienu District Balbieriskio Basic School
+6787,2014-12,2014-12,2,Female,15,Akademija
+6788,2014-12,2014-12,2,Female,15,Prienu District Balbieriskio Basic School
+6789,2014-12,2014-12,2,Female,16,Akademija
+6790,2014-12,2014-12,2,Female,16,Prienu District Balbieriskio Basic School
+6791,2014-12,2014-12,2,Female,17,Akademija
+6792,2014-12,2014-12,2,Female,18,Akademija
+6793,2014-12,2014-12,2,Female,18,Prienu District Balbieriskio Basic School
+6794,2014-12,2014-12,2,Male,14,Moletai
+6795,2014-12,2014-12,2,Male,15,Debeikiai
+6796,2014-12,2014-12,2,Male,15,Moletai
+6797,2014-12,2014-12,2,Male,16,Debeikiai
+6798,2014-12,2014-12,2,Male,16,Moletai
+6799,2014-12,2014-12,2,Male,16,Vilnius
+6800,2014-12,2014-12,2,Male,17,Moletai
+6801,2014-12,2014-12,2,Male,17,Vilnius
+6802,2014-12,2014-12,2,Male,14,Prienu District Balbieriskio Basic School
+6803,2014-12,2014-12,2,Male,15,Akademija
+6804,2014-12,2014-12,2,Male,15,Prienu District Balbieriskio Basic School
+6805,2014-12,2014-12,2,Male,16,Akademija
+6806,2014-12,2014-12,2,Male,16,Prienu District Balbieriskio Basic School
+6807,2014-12,2014-12,2,Male,17,Akademija
+6808,2014-12,2014-12,2,Male,18,Akademija
+6821,2014-08,2014-08,2,Female,19,Druskininkai
+6822,2014-08,2014-08,2,Male,19,Klaipėda
+6823,2014-08,2014-08,3,Female,16,Panevėžys
+6824,2014-08,2014-08,3,Female,16,Vilnius
+6825,2014-08,2014-08,3,Female,17,Panevėžys
+6826,2014-08,2014-08,3,Female,17,Vilnius
+6827,2014-08,2014-08,3,Female,18,Panevėžys
+6828,2014-08,2014-08,3,Female,18,Vilnius
+6829,2014-08,2014-08,3,Female,19,Vilnius
+6830,2014-08,2014-08,3,Female,23,Vilnius
+6832,2014-08,2014-08,3,Male,16,Vilnius
+6833,2014-08,2014-08,3,Male,17,Vilnius
+6834,2014-08,2014-08,3,Male,18,Panevėžys
+6835,2014-08,2014-08,3,Male,18,Vilnius
+6836,2014-08,2014-08,3,Male,19,Vilnius
+6837,2014-08,2014-08,3,Male,20,Vilnius
+6838,2014-08,2014-08,3,Male,18,Vilnius
+6839,2014-11,2014-11,3,Female,14,Vilnius
+6840,2014-11,2014-11,3,Female,15,Vilnius
+6841,2014-11,2014-11,3,Female,16,Vilnius
+6842,2014-11,2014-11,3,Female,17,Vilnius
+6843,2014-11,2014-11,3,Female,18,Vilnius
+6844,2014-11,2014-11,3,Female,19,Vilnius
+6845,2014-11,2014-11,3,Female,20,Vilnius
+6846,2014-11,2014-11,3,Female,21,Vilnius
+6847,2014-11,2014-11,3,Female,23,Vilnius
+6849,2014-11,2014-11,3,Female,17,Vilnius
+6850,2014-11,2014-11,3,Male,15,Vilnius
+6851,2014-11,2014-11,3,Male,16,Vilnius
+6852,2014-11,2014-11,3,Male,17,Vilnius
+6853,2014-11,2014-11,3,Male,18,Vilnius
+6854,2014-11,2014-11,3,Male,19,Vilnius
+6855,2014-12,2014-12,2,Female,16,Druskininkai
+6856,2014-12,2014-12,2,Female,16,Kaunas
+6857,2014-12,2014-12,2,Female,17,Druskininkai
+6858,2014-12,2014-12,2,Female,17,Kaunas
+6859,2014-12,2014-12,2,Female,17,Klaipėda
+6860,2014-12,2014-12,2,Female,17,Vilnius
+6861,2014-12,2014-12,2,Female,18,Telšiai
+6862,2014-12,2014-12,2,Female,18,Vilnius
+6863,2014-12,2014-12,2,Female,20,Kaunas
+6864,2014-12,2014-12,2,Female,20,Vilnius
+6866,2014-12,2014-12,2,Male,16,Vilnius
+6867,2014-12,2014-12,2,Male,17,Vilnius
+6868,2014-12,2014-12,2,Male,14,Kretinga
+6869,2014-12,2014-12,2,Male,17,Kretinga
+7076,2014-11,2014-11,6,Female,16,Blankenberge
+7078,2014-11,2014-11,6,Male,17,Blankenberge
+7079,2014-11,2014-11,6,Female,16,Nicosia
+7080,2014-11,2014-11,6,Female,17,Nicosia
+7082,2014-11,2014-11,6,Male,17,Nicosia
+7083,2014-11,2014-11,6,Female,15,Berlin
+7084,2014-11,2014-11,6,Female,16,Berlin
+7085,2014-11,2014-11,6,Female,17,Berlin
+7087,2014-11,2014-11,6,Male,16,Berlin
+7088,2014-11,2014-11,6,Male,17,Berlin
+7091,2014-11,2014-11,6,Female,17,Copenhagen
+7092,2014-11,2014-11,6,Female,18,Copenhagen
+7093,2014-11,2014-11,6,Male,17,Copenhagen
+7094,2014-11,2014-11,6,Male,19,Copenhagen
+7095,2014-11,2014-11,6,Male,20,Copenhagen
+7097,2014-11,2014-11,6,Female,16,Tartu
+7098,2014-11,2014-11,6,Female,19,Tartu
+7099,2014-11,2014-11,6,Male,18,Tartu
+7101,2014-11,2014-11,6,Female,15,Spata
+7102,2014-11,2014-11,6,Female,16,Spata
+7103,2014-11,2014-11,6,Female,17,Spata
+7105,2014-11,2014-11,6,Male,16,Spata
+7106,2014-11,2014-11,6,Female,17,Madrid
+7108,2014-11,2014-11,6,Male,16,Madrid
+7109,2014-11,2014-11,6,Male,17,Madrid
+7110,2014-11,2014-11,6,Female,17,Esbo stad
+7111,2014-11,2014-11,6,Female,18,Esbo stad
+7112,2014-11,2014-11,6,Female,19,Esbo stad
+7113,2014-11,2014-11,6,Male,18,Esbo stad
+7115,2014-11,2014-11,6,Female,15,NEUILLY
+7116,2014-11,2014-11,6,Female,16,NEUILLY
+7118,2014-11,2014-11,6,Female,17,Luxembourg
+7119,2014-11,2014-11,6,Female,14,Budapest
+7120,2014-11,2014-11,6,Female,16,Budapest
+7121,2014-11,2014-11,6,Female,17,Budapest
+7122,2014-11,2014-11,6,Female,18,Budapest
+7123,2014-11,2014-11,6,Male,14,Budapest
+7124,2014-11,2014-11,6,Male,15,Budapest
+7125,2014-11,2014-11,6,Male,18,Budapest
+7127,2014-11,2014-11,6,Female,17,Vilnius
+7128,2014-11,2014-11,6,Female,18,Vilnius
+7130,2014-11,2014-11,6,Male,17,Vilnius
+7131,2014-11,2014-11,6,Female,16,Luxembourg
+7132,2014-11,2014-11,6,Female,17,Luxembourg
+7133,2014-11,2014-11,6,Female,19,Luxembourg
+7135,2014-11,2014-11,6,Male,16,Luxembourg
+7136,2014-11,2014-11,6,Male,18,Luxembourg
+7137,2014-11,2014-11,6,Male,19,Luxembourg
+7141,2014-11,2014-11,6,Female,16,Den Haag
+7142,2014-11,2014-11,6,Female,18,Den Haag
+7145,2014-11,2014-11,6,Male,16,Den Haag
+7146,2014-11,2014-11,6,Male,17,Den Haag
+7147,2014-11,2014-11,6,Male,16,Istanbul
+7148,2014-11,2014-11,6,Female,17,Warszawa
+7149,2014-11,2014-11,6,Female,18,Warszawa
+7150,2014-11,2014-11,6,Male,17,Warszawa
+7151,2014-11,2014-11,6,Male,18,Warszawa
+7152,2014-11,2014-11,6,Female,17,Stockholm
+7153,2014-11,2014-11,6,Female,18,Stockholm
+7155,2014-11,2014-11,6,Male,17,Stockholm
+7156,2014-11,2014-11,6,Male,18,Stockholm
+7157,2014-11,2014-11,6,Female,17,LJUTOMER
+7159,2014-11,2014-11,6,Male,17,LJUTOMER
+7160,2014-11,2014-11,6,Male,18,LJUTOMER
+7161,2014-11,2014-11,6,Female,17,Bratislava
+7162,2014-11,2014-11,6,Female,19,Bratislava
+7164,2014-11,2014-11,6,Female,16,Istanbul
+7165,2014-11,2014-11,6,Male,16,Istanbul
+7166,2014-11,2014-11,6,Male,17,Istanbul
+7167,2014-11,2014-11,6,Female,16,Wymondham
+7168,2014-11,2014-11,6,Female,18,Wymondham
+7169,2014-11,2014-11,6,Male,16,Wymondham
+7171,2014-11,2014-11,1,Female,14,Luxembourg
+7172,2014-11,2014-11,1,Female,15,Luxembourg
+7173,2014-11,2014-11,1,Female,16,Luxembourg
+7174,2014-11,2014-11,1,Female,17,Luxembourg
+7175,2014-11,2014-11,1,Female,18,Luxembourg
+7176,2014-11,2014-11,1,Female,19,Luxembourg
+7177,2014-11,2014-11,1,Female,20,Luxembourg
+7178,2014-11,2014-11,1,Female,23,Luxembourg
+7179,2014-11,2014-11,1,Male,14,Luxembourg
+7180,2014-11,2014-11,1,Male,15,Luxembourg
+7181,2014-11,2014-11,1,Male,16,Luxembourg
+7182,2014-11,2014-11,1,Male,17,Luxembourg
+7183,2014-11,2014-11,1,Male,18,Luxembourg
+7184,2014-11,2014-11,1,Male,19,Luxembourg
+7185,2014-11,2014-11,1,Male,20,Luxembourg
+7186,2014-11,2014-11,1,Male,21,Luxembourg
+7187,2014-11,2014-11,1,Male,22,Luxembourg
+7188,2014-11,2014-11,1,Male,23,Luxembourg
+7189,2014-11,2014-11,2,Female,15,Luxembourg
+7190,2014-11,2014-11,2,Female,16,Luxembourg
+7191,2014-11,2014-11,2,Female,17,Luxembourg
+7192,2014-11,2014-11,2,Female,18,Luxembourg
+7193,2014-11,2014-11,2,Female,19,Luxembourg
+7194,2014-11,2014-11,2,Female,20,Luxembourg
+7195,2014-11,2014-11,2,Female,22,Luxembourg
+7196,2014-11,2014-11,2,Female,23,Luxembourg
+7197,2014-11,2014-11,2,Male,15,Luxembourg
+7198,2014-11,2014-11,2,Male,16,Luxembourg
+7199,2014-11,2014-11,2,Male,17,Luxembourg
+7200,2014-11,2014-11,2,Male,18,Luxembourg
+7201,2014-11,2014-11,2,Male,19,Luxembourg
+7202,2014-11,2014-11,2,Male,20,Luxembourg
+7203,2014-11,2014-11,3,Female,15,Luxembourg
+7204,2014-11,2014-11,3,Female,16,Luxembourg
+7205,2014-11,2014-11,3,Female,17,Luxembourg
+7206,2014-11,2014-11,3,Female,18,Luxembourg
+7207,2014-11,2014-11,3,Female,19,Luxembourg
+7208,2014-11,2014-11,3,Female,20,Luxembourg
+7209,2014-11,2014-11,3,Male,17,Luxembourg
+7210,2014-11,2014-11,3,Male,18,Luxembourg
+7211,2014-11,2014-11,4,Female,16,Luxembourg
+7212,2014-11,2014-11,4,Female,17,Luxembourg
+7213,2014-11,2014-11,4,Male,16,Luxembourg
+7214,2014-11,2014-11,4,Male,18,Luxembourg
+7215,2014-11,2014-11,4,Male,19,Luxembourg
+7216,2014-11,2014-11,5,Female,15,Luxembourg
+7217,2014-11,2014-11,5,Female,16,Luxembourg
+7218,2014-11,2014-11,5,Male,16,Luxembourg
+7219,2014-11,2014-11,5,Male,23,Luxembourg
+7220,2014-11,2014-11,6,Female,17,Luxembourg
+7221,2014-11,2014-11,6,Female,18,Luxembourg
+7222,2014-11,2014-11,6,Female,19,Luxembourg
+7223,2014-11,2014-11,6,Male,18,Luxembourg
+7224,2014-11,2014-11,6,Male,19,Luxembourg
+7225,2014-11,2014-11,7,Female,17,Luxembourg
+7226,2014-11,2014-12,3,Female,15,Luxembourg
+7227,2014-11,2014-12,3,Female,17,Luxembourg
+7228,2014-11,2014-12,3,Male,16,Luxembourg
+7229,2014-11,2014-12,3,Male,17,Luxembourg
+7230,2014-11,2014-12,3,Male,18,Luxembourg
+7231,2014-11,2014-12,3,Male,19,Luxembourg
+7232,2014-11,2014-12,3,Male,20,Luxembourg
+7233,2014-11,2014-12,4,Female,19,Luxembourg
+7234,2014-11,2014-12,4,Female,20,Luxembourg
+7235,2014-11,2014-12,4,Male,16,Luxembourg
+7236,2014-11,2014-12,4,Male,17,Luxembourg
+7237,2014-11,2014-12,4,Male,18,Luxembourg
+7238,2014-11,2014-12,4,Male,19,Luxembourg
+7239,2014-11,2014-12,5,Female,18,Luxembourg
+7240,2014-11,2014-12,5,Male,16,Luxembourg
+7241,2014-11,2014-12,5,Male,17,Luxembourg
+7242,2014-11,2014-12,5,Male,18,Luxembourg
+7243,2014-11,2014-12,6,Female,17,Luxembourg
+7244,2014-11,2014-12,6,Female,20,Luxembourg
+7245,2014-11,2014-12,6,Male,16,Luxembourg
+7336,2014-10,2014-10,1,Female,14,Riga
+7337,2014-10,2014-10,1,Female,15,Riga
+7338,2014-10,2014-10,1,Female,18,Riga
+7339,2014-10,2014-10,1,Female,20,Riga
+7340,2014-10,2014-10,1,Female,21,Riga
+7341,2014-10,2014-10,1,Female,23,Riga
+7342,2014-10,2014-10,1,Female,24,Riga
+7343,2014-10,2014-10,1,Female,25,Riga
+7359,2014-10,2014-10,1,Male,14,Riga
+7360,2014-10,2014-10,1,Male,15,Riga
+7361,2014-10,2014-10,1,Male,16,Riga
+7362,2014-10,2014-10,1,Male,17,Riga
+7363,2014-10,2014-10,1,Male,19,Riga
+7364,2014-10,2014-10,1,Male,22,Riga
+7365,2014-10,2014-10,1,Male,23,Riga
+7366,2014-10,2014-10,1,Male,25,Riga
+7374,2014-10,2014-11,4,Female,14,Riga
+7375,2014-10,2014-11,4,Female,15,Riga
+7376,2014-10,2014-11,4,Female,16,Riga
+7377,2014-10,2014-11,4,Female,17,Riga
+7378,2014-10,2014-11,4,Female,18,Riga
+7379,2014-10,2014-11,4,Female,19,Riga
+7380,2014-10,2014-11,4,Female,23,Riga
+7381,2014-10,2014-11,4,Female,24,Riga
+7386,2014-10,2014-11,4,Male,15,Riga
+7387,2014-10,2014-11,4,Male,16,Riga
+7388,2014-10,2014-11,4,Male,17,Riga
+7389,2014-10,2014-11,4,Male,19,Riga
+7390,2014-10,2014-11,4,Male,20,Riga
+7391,2014-10,2014-11,4,Male,23,Riga
+7770,2014-09,2014-09,3,Female,19,R�ga
+7771,2014-09,2014-09,3,Female,20,R�ga
+7772,2014-09,2014-09,3,Female,21,R�ga
+7773,2014-09,2014-09,3,Female,22,R�ga
+7774,2014-09,2014-09,3,Female,23,R�ga
+7778,2014-09,2014-09,3,Male,18,R�ga
+7779,2014-09,2014-09,3,Male,19,R�ga
+7780,2014-09,2014-09,3,Male,20,R�ga
+7781,2014-09,2014-09,3,Male,21,R�ga
+7782,2014-09,2014-09,3,Male,22,R�ga
+7783,2014-09,2014-09,3,Male,22,R�ga
+7784,2014-09,2014-09,3,Male,23,R�ga
+7785,2014-09,2014-09,3,Male,24,R�ga
+7786,2014-09,2014-09,3,Male,25,R�ga
+7790,2014-10,2014-10,2,Female,19,R�ga
+7791,2014-10,2014-10,2,Female,20,R�ga
+7792,2014-10,2014-10,2,Female,20,R�ga
+7793,2014-10,2014-10,2,Female,21,R�ga
+7794,2014-10,2014-10,2,Female,21,R�ga
+7795,2014-10,2014-10,2,Female,22,R�ga
+7796,2014-10,2014-10,2,Female,22,R�ga
+7797,2014-10,2014-10,2,Female,23,R�ga
+7798,2014-10,2014-10,2,Female,23,R�ga
+7799,2014-10,2014-10,2,Female,24,R�ga
+7800,2014-10,2014-10,2,Female,25,R�ga
+7801,2014-10,2014-10,2,Female,25,R�ga
+7804,2014-10,2014-10,2,Male,19,R�ga
+7805,2014-10,2014-10,2,Male,19,R�ga
+7806,2014-10,2014-10,2,Male,20,R�ga
+7807,2014-10,2014-10,2,Male,20,R�ga
+7808,2014-10,2014-10,2,Male,21,R�ga
+7809,2014-10,2014-10,2,Male,21,R�ga
+7810,2014-10,2014-10,2,Male,22,R�ga
+7811,2014-10,2014-10,2,Male,23,R�ga
+7812,2014-10,2014-10,2,Male,23,R�ga
+7813,2014-10,2014-10,2,Male,24,R�ga
+7814,2014-10,2014-10,2,Male,24,R�ga
+7817,2014-10,2014-10,3,Female,19,R�ga
+7818,2014-10,2014-10,3,Female,20,R�ga
+7819,2014-10,2014-10,3,Female,21,R�ga
+7820,2014-10,2014-10,3,Female,22,R�ga
+7821,2014-10,2014-10,3,Female,22,R�ga
+7822,2014-10,2014-10,3,Female,23,R�ga
+7823,2014-10,2014-10,3,Female,25,R�ga
+7825,2014-10,2014-10,3,Male,19,R�ga
+7826,2014-10,2014-10,3,Male,20,R�ga
+7827,2014-10,2014-10,3,Male,21,R�ga
+7828,2014-10,2014-10,3,Male,22,R�ga
+7829,2014-10,2014-10,3,Male,23,R�ga
+7830,2014-10,2014-10,3,Male,24,R�ga
+7831,2014-10,2014-10,3,Male,25,R�ga
+7832,2014-10,2014-10,3,Male,25,R�ga
+7835,2014-10,2014-11,3,Female,18,R�ga
+7836,2014-10,2014-11,3,Female,19,R�ga
+7837,2014-10,2014-11,3,Female,20,R�ga
+7838,2014-10,2014-11,3,Female,21,R�ga
+7839,2014-10,2014-11,3,Female,22,R�ga
+7840,2014-10,2014-11,3,Female,23,R�ga
+7841,2014-10,2014-11,3,Female,25,R�ga
+7842,2014-10,2014-11,3,Male,19,R�ga
+7843,2014-10,2014-11,3,Male,20,R�ga
+7844,2014-10,2014-11,3,Male,22,R�ga
+7845,2014-10,2014-11,3,Male,23,R�ga
+7846,2014-10,2014-11,3,Male,23,R�ga
+7847,2014-10,2014-11,3,Male,24,R�ga
+7848,2014-10,2014-11,3,Male,25,R�ga
+7849,2014-11,2014-11,2,Female,19,R�ga
+7850,2014-11,2014-11,2,Female,20,R�ga
+7851,2014-11,2014-11,2,Female,21,R�ga
+7852,2014-11,2014-11,2,Female,22,R�ga
+7853,2014-11,2014-11,2,Female,23,R�ga
+7854,2014-11,2014-11,2,Female,25,R�ga
+7856,2014-11,2014-11,2,Male,19,R�ga
+7857,2014-11,2014-11,2,Male,20,R�ga
+7858,2014-11,2014-11,2,Male,21,R�ga
+7859,2014-11,2014-11,2,Male,22,R�ga
+7860,2014-11,2014-11,2,Male,23,R�ga
+7861,2014-11,2014-11,2,Male,24,R�ga
+7862,2014-11,2014-11,2,Male,25,R�ga
+8153,2014-09,2014-10,5,Female,13,Munich
+8154,2014-09,2014-10,5,Female,14,Munich
+8155,2014-09,2014-10,5,Female,15,Munich
+8156,2014-09,2014-10,5,Male,15,Munich
+8157,2014-09,2014-10,5,Male,16,Munich
+8158,2014-09,2014-10,5,Female,23,Copenhagen
+8161,2014-09,2014-10,5,Male,22,AMSTERDAM
+8170,2014-09,2014-10,5,Female,21,Copenhagen
+8171,2014-09,2014-10,5,Female,19,R?ga
+8173,2014-09,2014-10,5,Male,16,R?ga
+8180,2014-09,2014-10,5,Female,16,Skopje
+8181,2014-09,2014-10,5,Female,17,Skopje
+8182,2014-09,2014-10,5,Female,18,Skopje
+8183,2014-09,2014-10,5,Female,19,Skopje
+8184,2014-09,2014-10,5,Female,24,Skopje
+8193,2014-09,2014-10,5,Male,17,Skopje
+8204,2014-09,2014-10,5,Male,21,AMSTERDAM
+8209,2014-09,2014-10,5,Female,19,AMSTERDAM
+8210,2014-09,2014-10,5,Female,24,Bucuresti
+8215,2014-09,2014-10,5,Male,17,Sucheava
+8216,2014-09,2014-10,5,Male,19,Bucuresti
+8217,2014-09,2014-10,5,Male,20,Bucuresti
+8218,2014-09,2014-10,5,Male,21,Sucheava
+8219,2014-09,2014-10,5,Male,23,Bucuresti
+8224,2014-09,2014-10,5,Male,21,Copenhagen
+8225,2014-09,2014-10,5,Male,24,AMSTERDAM
+8232,2014-09,2014-10,5,Female,20,AMSTERDAM
+8240,2014-09,2014-10,6,Female,18,Tres Cantos
+8241,2014-09,2014-10,6,Female,19,Tres Cantos
+8242,2014-09,2014-10,6,Female,21,Tres Cantos
+8243,2014-09,2014-10,6,Female,23,Tres Cantos
+8244,2014-09,2014-10,6,Male,19,Tres Cantos
+8245,2014-09,2014-10,6,Male,20,Tres Cantos
+8246,2014-09,2014-10,6,Male,22,Tres Cantos
+8247,2014-09,2014-10,6,Female,19,Helsinki
+8248,2014-09,2014-10,6,Female,24,Helsinki
+8249,2014-09,2014-10,6,Male,19,Helsinki
+8250,2014-07,2014-07,4,Female,25,Frederiksberg C
+8251,2014-07,2014-07,4,Male,22,Frederiksberg C
+8252,2014-07,2014-07,4,Male,23,Frederiksberg C
+8253,2014-07,2014-07,4,Male,24,Frederiksberg C
+8254,2014-07,2014-07,4,Female,24,Helsinki
+8259,2014-07,2014-07,4,Female,20,Reykjavik
+8260,2014-07,2014-07,4,Female,25,Brussel
+8261,2014-07,2014-07,4,Female,25,Reykjavik
+8262,2014-07,2014-07,4,Male,25,Reykjavik
+8264,2014-07,2014-07,4,Male,20,St Albans
+8265,2014-07,2014-07,4,Female,24,Oslo
+8266,2014-07,2014-07,4,Female,15,Oslo
+8267,2014-07,2014-07,4,Female,16,Oslo
+8268,2014-07,2014-07,4,Female,21,Oslo
+8269,2014-07,2014-07,4,Female,21,Oslo
+8270,2014-07,2014-07,4,Female,22,Oslo
+8271,2014-07,2014-07,4,Female,24,Oslo
+8272,2014-07,2014-07,4,Female,24,Oslo
+8273,2014-07,2014-07,4,Male,18,Oslo
+8274,2014-07,2014-07,4,Male,19,Oslo
+8275,2014-07,2014-07,4,Male,20,Oslo
+8276,2014-07,2014-07,4,Male,21,Oslo
+8277,2014-07,2014-07,4,Male,22,Oslo
+8278,2014-07,2014-07,4,Male,23,Oslo
+8279,2014-07,2014-07,4,Male,23,Oslo
+8280,2014-07,2014-07,4,Male,24,Oslo
+8281,2014-07,2014-07,4,Male,21,Tumba
+8282,2014-07,2014-07,4,Male,24,Tumba
+8283,2014-07,2014-07,4,Male,25,Tumba
+8284,2014-07,2014-07,4,Male,19,Bonn
+8285,2014-07,2014-07,4,Male,21,St Albans
+8286,2014-12,2014-12,5,Male,19,Oslo
+8287,2014-12,2014-12,5,Male,22,Oslo
+8288,2014-12,2014-12,5,Male,24,Oslo
+8289,2014-12,2014-12,5,Female,14,Oslo
+8290,2014-12,2014-12,5,Female,15,Oslo
+8291,2014-12,2014-12,5,Female,18,Oslo
+8292,2014-12,2014-12,5,Female,20,Oslo
+8293,2014-12,2014-12,5,Female,22,Oslo
+8294,2014-12,2014-12,5,Female,23,Oslo
+8295,2014-12,2014-12,5,Female,25,Oslo
+8296,2014-12,2014-12,5,Male,15,Oslo
+8297,2014-12,2014-12,5,Male,17,Oslo
+8298,2014-12,2014-12,5,Male,18,Oslo
+8299,2014-12,2014-12,5,Male,19,Oslo
+8300,2014-12,2014-12,5,Male,20,Oslo
+8301,2014-12,2014-12,5,Male,21,Oslo
+8302,2014-12,2014-12,5,Male,22,Oslo
+8303,2014-12,2014-12,5,Male,23,Oslo
+8304,2014-12,2014-12,5,Male,25,Oslo
+8306,2014-09,2014-09,3,Female,17,Berlin
+8307,2014-09,2014-09,3,Female,18,Berlin
+8309,2014-09,2014-09,3,Male,16,Berlin
+8310,2014-09,2014-09,3,Male,17,Berlin
+8311,2014-09,2014-09,3,Male,19,Berlin
+8313,2014-09,2014-09,3,Female,16,Bergen
+8314,2014-09,2014-09,3,Female,16,Oslo
+8315,2014-09,2014-09,3,Female,16,Sandane
+8316,2014-09,2014-09,3,Female,17,�rnes
+8317,2014-09,2014-09,3,Female,17,Akershus
+8318,2014-09,2014-09,3,Female,17,Bergen
+8319,2014-09,2014-09,3,Female,17,Kongsberg
+8320,2014-09,2014-09,3,Female,17,Kristiansand
+8321,2014-09,2014-09,3,Female,17,Mandal
+8322,2014-09,2014-09,3,Female,17,Oslo
+8323,2014-09,2014-09,3,Female,17,Stavanger
+8324,2014-09,2014-09,3,Female,17,Steinkjer
+8325,2014-09,2014-09,3,Female,17,Troms�
+8326,2014-09,2014-09,3,Female,17,Trondheim
+8327,2014-09,2014-09,3,Female,18,Akershus
+8328,2014-09,2014-09,3,Female,18,Askim
+8329,2014-09,2014-09,3,Female,18,Drammen
+8330,2014-09,2014-09,3,Female,18,Lier
+8331,2014-09,2014-09,3,Female,18,Mandal
+8332,2014-09,2014-09,3,Female,18,Oslo
+8333,2014-09,2014-09,3,Female,18,Sandane
+8334,2014-09,2014-09,3,Female,18,Stavanger
+8335,2014-09,2014-09,3,Female,18,Steinkjer
+8336,2014-09,2014-09,3,Female,18,Troms�
+8337,2014-09,2014-09,3,Female,18,Trondheim
+8338,2014-09,2014-09,3,Female,19,Mandal
+8347,2014-09,2014-09,3,Male,16,Kristiansand
+8348,2014-09,2014-09,3,Male,16,Mandal
+8349,2014-09,2014-09,3,Male,16,Narvik
+8350,2014-09,2014-09,3,Male,16,Oslo
+8351,2014-09,2014-09,3,Male,17,Bergen
+8352,2014-09,2014-09,3,Male,17,Kongsberg
+8353,2014-09,2014-09,3,Male,17,Kristiansand
+8354,2014-09,2014-09,3,Male,17,Lillehammer
+8355,2014-09,2014-09,3,Male,17,Narvik
+8356,2014-09,2014-09,3,Male,17,Oslo
+8357,2014-09,2014-09,3,Male,17,R�ros
+8358,2014-09,2014-09,3,Male,17,Sandane
+8359,2014-09,2014-09,3,Male,17,Trondheim
+8360,2014-09,2014-09,3,Male,18,�rnes
+8361,2014-09,2014-09,3,Male,18,Akershus
+8362,2014-09,2014-09,3,Male,18,Askim
+8363,2014-09,2014-09,3,Male,18,Drammen
+8364,2014-09,2014-09,3,Male,18,Kongsberg
+8365,2014-09,2014-09,3,Male,18,Lier
+8366,2014-09,2014-09,3,Male,18,Lillehammer
+8367,2014-09,2014-09,3,Male,18,Narvik
+8368,2014-09,2014-09,3,Male,18,Stavanger
+8369,2014-09,2014-09,3,Male,18,Steinkjer
+8370,2014-09,2014-09,3,Male,18,Trondheim
+8371,2014-09,2014-09,3,Male,19,Bergen
+8386,2014-10,2014-10,1,Female,15,Oslo
+8387,2014-10,2014-10,1,Female,17,Oslo
+8388,2014-10,2014-10,1,Female,20,Oslo
+8389,2014-10,2014-10,1,Female,21,Oslo
+8390,2014-10,2014-10,1,Female,22,Oslo
+8391,2014-10,2014-10,1,Female,23,Oslo
+8392,2014-10,2014-10,1,Female,24,Oslo
+8396,2014-10,2014-10,1,Male,19,Oslo
+8397,2014-10,2014-10,1,Male,23,Oslo
+8398,2014-10,2014-10,1,Male,24,Oslo
+8399,2014-10,2014-10,1,Male,25,Oslo
+8403,2014-10,2014-10,2,Female,17,Oslo
+8404,2014-10,2014-11,2,Female,16,Oslo
+8405,2014-10,2014-11,2,Female,22,Oslo
+8406,2014-10,2014-11,2,Female,23,Oslo
+8407,2014-10,2014-11,2,Male,22,Oslo
+8410,2014-10,2014-11,3,Female,15,Oslo
+8411,2014-10,2014-11,3,Female,16,Oslo
+8412,2014-10,2014-11,3,Female,17,Oslo
+8413,2014-10,2014-11,3,Female,18,Oslo
+8414,2014-10,2014-11,3,Female,19,Oslo
+8415,2014-10,2014-11,3,Female,20,Oslo
+8416,2014-10,2014-11,3,Female,21,Oslo
+8417,2014-10,2014-11,3,Female,22,Oslo
+8418,2014-10,2014-11,3,Female,23,Oslo
+8419,2014-10,2014-11,3,Female,24,Oslo
+8420,2014-10,2014-11,3,Female,25,Oslo
+8426,2014-10,2014-11,3,Male,14,Oslo
+8427,2014-10,2014-11,3,Male,15,Oslo
+8428,2014-10,2014-11,3,Male,16,Oslo
+8429,2014-10,2014-11,3,Male,17,Oslo
+8430,2014-10,2014-11,3,Male,18,Oslo
+8431,2014-10,2014-11,3,Male,19,Oslo
+8432,2014-10,2014-11,3,Male,20,Oslo
+8433,2014-10,2014-11,3,Male,21,Oslo
+8434,2014-10,2014-11,3,Male,22,Oslo
+8435,2014-10,2014-11,3,Male,23,Oslo
+8436,2014-10,2014-11,3,Male,24,Oslo
+8437,2014-10,2014-11,3,Male,25,Oslo
+8443,2014-10,2014-11,4,Female,14,Oslo
+8444,2014-10,2014-11,4,Female,16,Oslo
+8445,2014-10,2014-11,4,Female,17,Oslo
+8446,2014-10,2014-11,4,Female,18,Oslo
+8447,2014-10,2014-11,4,Female,19,Oslo
+8448,2014-10,2014-11,4,Female,20,Oslo
+8449,2014-10,2014-11,4,Female,21,Oslo
+8450,2014-10,2014-11,4,Female,22,Oslo
+8451,2014-10,2014-11,4,Female,23,Oslo
+8452,2014-10,2014-11,4,Female,24,Oslo
+8453,2014-10,2014-11,4,Female,25,Oslo
+8459,2014-10,2014-11,4,Male,16,Oslo
+8460,2014-10,2014-11,4,Male,17,Oslo
+8461,2014-10,2014-11,4,Male,18,Oslo
+8462,2014-10,2014-11,4,Male,19,Oslo
+8463,2014-10,2014-11,4,Male,20,Oslo
+8464,2014-10,2014-11,4,Male,21,Oslo
+8465,2014-10,2014-11,4,Male,22,Oslo
+8466,2014-10,2014-11,4,Male,23,Oslo
+8467,2014-10,2014-11,4,Male,24,Oslo
+8468,2014-10,2014-11,4,Male,25,Oslo
+8473,2014-11,2014-11,1,Female,18,Oslo
+8474,2014-11,2014-11,1,Female,19,Oslo
+8475,2014-11,2014-11,1,Female,21,Oslo
+8480,2014-11,2014-11,1,Male,16,Oslo
+8481,2014-11,2014-11,1,Male,18,Oslo
+8482,2014-11,2014-11,1,Male,19,Oslo
+8483,2014-11,2014-11,1,Male,20,Oslo
+8484,2014-11,2014-11,1,Male,21,Oslo
+8485,2014-11,2014-11,1,Male,23,Oslo
+8490,2014-11,2014-11,2,Female,13,Oslo
+8491,2014-11,2014-11,2,Female,15,Oslo
+8492,2014-11,2014-11,2,Female,16,Oslo
+8493,2014-11,2014-11,2,Female,17,Oslo
+8494,2014-11,2014-11,2,Female,18,Oslo
+8495,2014-11,2014-11,2,Female,19,Oslo
+8496,2014-11,2014-11,2,Female,20,Oslo
+8497,2014-11,2014-11,2,Female,23,Oslo
+8498,2014-11,2014-11,2,Female,24,Oslo
+8499,2014-11,2014-11,2,Female,25,Oslo
+8505,2014-11,2014-11,2,Male,14,Oslo
+8506,2014-11,2014-11,2,Male,15,Oslo
+8507,2014-11,2014-11,2,Male,17,Oslo
+8508,2014-11,2014-11,2,Male,18,Oslo
+8509,2014-11,2014-11,2,Male,19,Oslo
+8510,2014-11,2014-11,2,Male,20,Oslo
+8511,2014-11,2014-11,2,Male,21,Oslo
+8512,2014-11,2014-11,2,Male,22,Oslo
+8513,2014-11,2014-11,2,Male,23,Oslo
+8514,2014-11,2014-11,2,Male,24,Oslo
+8515,2014-11,2014-11,2,Male,25,Oslo
+8520,2014-11,2014-11,2,Female,16,Kielce
+8521,2014-11,2014-11,2,Female,20,Zielona Gora
+8522,2014-11,2014-11,2,Female,21,Zielona Gora
+8523,2014-11,2014-11,2,Female,22,Kielce
+8524,2014-11,2014-11,2,Female,23,Zielona Gora
+8525,2014-11,2014-11,2,Female,25,Zielona Gora
+8527,2014-11,2014-11,2,Female,19,Zielona Gora
+8528,2014-11,2014-11,2,Female,21,Zielona Gora
+8529,2014-11,2014-11,2,Female,23,Zielona Gora
+8530,2014-11,2014-11,2,Male,16,Kielce
+8531,2014-11,2014-11,2,Male,16,Zielona Gora
+8532,2014-11,2014-11,2,Male,17,Kielce
+8533,2014-11,2014-11,2,Male,17,Zielona Gora
+8534,2014-11,2014-11,2,Male,19,Zielona Gora
+8535,2014-11,2014-11,2,Male,20,Kielce
+8536,2014-11,2014-11,2,Male,21,Zielona Gora
+8537,2014-11,2014-11,2,Male,24,Kielce
+8538,2014-11,2014-11,2,Male,24,Zielona Gora
+8539,2014-11,2014-11,2,Male,25,Zielona Gora
+8545,2014-11,2014-11,2,Male,17,Kielce
+8546,2014-11,2014-11,2,Male,21,Zielona Gora
+8548,2014-12,2014-12,2,Female,14,Czestochowa
+8549,2014-12,2014-12,2,Female,16,Czestochowa
+8550,2014-12,2014-12,2,Female,17,Czestochowa
+8551,2014-12,2014-12,2,Female,17,Lodz
+8552,2014-12,2014-12,2,Female,17,Warszawa
+8553,2014-12,2014-12,2,Female,18,Lodz
+8554,2014-12,2014-12,2,Female,18,Przeworsk
+8555,2014-12,2014-12,2,Female,18,Warszawa
+8556,2014-12,2014-12,2,Female,19,Krakow
+8557,2014-12,2014-12,2,Female,19,Lodz
+8558,2014-12,2014-12,2,Female,19,Lublin
+8559,2014-12,2014-12,2,Female,20,Lublin
+8560,2014-12,2014-12,2,Female,20,Poznan
+8561,2014-12,2014-12,2,Female,20,Przeworsk
+8562,2014-12,2014-12,2,Female,20,Warszawa
+8563,2014-12,2014-12,2,Female,21,Krakow
+8564,2014-12,2014-12,2,Female,21,Lublin
+8565,2014-12,2014-12,2,Female,21,Poznan
+8566,2014-12,2014-12,2,Female,21,Przeworsk
+8567,2014-12,2014-12,2,Female,21,Warszawa
+8568,2014-12,2014-12,2,Female,22,Czestochowa
+8569,2014-12,2014-12,2,Female,23,Czestochowa
+8570,2014-12,2014-12,2,Female,23,Krakow
+8571,2014-12,2014-12,2,Female,23,Lublin
+8572,2014-12,2014-12,2,Female,23,Poznan
+8573,2014-12,2014-12,2,Female,23,Warszawa
+8574,2014-12,2014-12,2,Female,24,Czestochowa
+8575,2014-12,2014-12,2,Female,24,Krakow
+8576,2014-12,2014-12,2,Female,24,Lublin
+8577,2014-12,2014-12,2,Female,24,Przeworsk
+8578,2014-12,2014-12,2,Female,25,Czestochowa
+8579,2014-12,2014-12,2,Female,25,Krakow
+8587,2014-12,2014-12,2,Female,16,Czestochowa
+8588,2014-12,2014-12,2,Female,17,Czestochowa
+8589,2014-12,2014-12,2,Female,17,Krakow
+8590,2014-12,2014-12,2,Female,18,Czestochowa
+8591,2014-12,2014-12,2,Female,19,Lublin
+8592,2014-12,2014-12,2,Female,19,Przeworsk
+8593,2014-12,2014-12,2,Female,20,Lublin
+8594,2014-12,2014-12,2,Female,20,Poznan
+8595,2014-12,2014-12,2,Female,20,Przeworsk
+8596,2014-12,2014-12,2,Female,21,Lublin
+8597,2014-12,2014-12,2,Female,23,Krakow
+8598,2014-12,2014-12,2,Female,23,Warszawa
+8599,2014-12,2014-12,2,Female,25,Krakow
+8600,2014-12,2014-12,2,Female,25,Lodz
+8601,2014-12,2014-12,2,Male,15,Lodz
+8602,2014-12,2014-12,2,Male,16,Bialystok
+8603,2014-12,2014-12,2,Male,16,Warszawa
+8604,2014-12,2014-12,2,Male,17,Bialystok
+8605,2014-12,2014-12,2,Male,17,Lodz
+8606,2014-12,2014-12,2,Male,17,Warszawa
+8607,2014-12,2014-12,2,Male,18,Bialystok
+8608,2014-12,2014-12,2,Male,18,Czestochowa
+8609,2014-12,2014-12,2,Male,18,Lodz
+8610,2014-12,2014-12,2,Male,18,Lublin
+8611,2014-12,2014-12,2,Male,18,Poznan
+8612,2014-12,2014-12,2,Male,18,Przeworsk
+8613,2014-12,2014-12,2,Male,18,Warszawa
+8614,2014-12,2014-12,2,Male,19,Bialystok
+8615,2014-12,2014-12,2,Male,19,Czestochowa
+8616,2014-12,2014-12,2,Male,19,Krakow
+8617,2014-12,2014-12,2,Male,19,Poznan
+8618,2014-12,2014-12,2,Male,19,Przeworsk
+8619,2014-12,2014-12,2,Male,19,Warszawa
+8620,2014-12,2014-12,2,Male,20,Lodz
+8621,2014-12,2014-12,2,Male,20,Lublin
+8622,2014-12,2014-12,2,Male,20,Poznan
+8623,2014-12,2014-12,2,Male,20,Przeworsk
+8624,2014-12,2014-12,2,Male,21,Bialystok
+8625,2014-12,2014-12,2,Male,21,Czestochowa
+8626,2014-12,2014-12,2,Male,21,Krakow
+8627,2014-12,2014-12,2,Male,21,Lublin
+8628,2014-12,2014-12,2,Male,21,Poznan
+8629,2014-12,2014-12,2,Male,21,Przeworsk
+8630,2014-12,2014-12,2,Male,21,Warszawa
+8631,2014-12,2014-12,2,Male,22,Bialystok
+8632,2014-12,2014-12,2,Male,22,Czestochowa
+8633,2014-12,2014-12,2,Male,22,Krakow
+8634,2014-12,2014-12,2,Male,22,Lublin
+8635,2014-12,2014-12,2,Male,22,Poznan
+8636,2014-12,2014-12,2,Male,22,Przeworsk
+8637,2014-12,2014-12,2,Male,22,Warszawa
+8638,2014-12,2014-12,2,Male,23,Bialystok
+8639,2014-12,2014-12,2,Male,23,Lublin
+8640,2014-12,2014-12,2,Male,23,Poznan
+8641,2014-12,2014-12,2,Male,24,Krakow
+8642,2014-12,2014-12,2,Male,24,Lodz
+8643,2014-12,2014-12,2,Male,24,Poznan
+8644,2014-12,2014-12,2,Male,24,Przeworsk
+8645,2014-12,2014-12,2,Male,24,Warszawa
+8646,2014-12,2014-12,2,Male,25,Czestochowa
+8647,2014-12,2014-12,2,Male,25,Krakow
+8648,2014-12,2014-12,2,Male,25,Lodz
+8649,2014-12,2014-12,2,Male,25,Przeworsk
+8673,2014-12,2014-12,2,Male,17,Lodz
+8674,2014-12,2014-12,2,Male,18,Bialystok
+8675,2014-12,2014-12,2,Male,18,Czestochowa
+8676,2014-12,2014-12,2,Male,18,Poznan
+8677,2014-12,2014-12,2,Male,18,Warszawa
+8678,2014-12,2014-12,2,Male,19,Poznan
+8679,2014-12,2014-12,2,Male,20,Poznan
+8680,2014-12,2014-12,2,Male,20,Przeworsk
+8681,2014-12,2014-12,2,Male,21,Przeworsk
+8682,2014-12,2014-12,2,Male,21,Warszawa
+8683,2014-12,2014-12,2,Male,22,Bialystok
+8684,2014-12,2014-12,2,Male,22,Poznan
+8685,2014-12,2014-12,2,Male,23,Lodz
+8686,2014-12,2014-12,2,Male,23,Warszawa
+8687,2014-12,2014-12,2,Male,24,Bialystok
+8688,2014-12,2014-12,2,Male,24,Krakow
+8689,2014-12,2014-12,2,Male,25,Krakow
+8690,2014-12,2014-12,2,Male,25,Przeworsk
+8694,2014-10,2014-10,1,Female,12,Czestochowa
+8695,2014-10,2014-10,1,Female,13,Czestochowa
+8696,2014-10,2014-10,1,Female,14,Czestochowa
+8697,2014-10,2014-10,1,Female,15,Czestochowa
+8698,2014-10,2014-10,1,Female,16,Czestochowa
+8699,2014-10,2014-10,1,Female,17,Czestochowa
+8700,2014-10,2014-10,1,Female,20,Czestochowa
+8701,2014-10,2014-10,1,Male,14,Czestochowa
+8702,2014-10,2014-10,1,Male,15,Czestochowa
+8703,2014-10,2014-10,1,Male,12,Czestochowa
+8704,2014-10,2014-10,1,Male,13,Czestochowa
+8705,2014-10,2014-10,1,Male,14,Czestochowa
+8706,2014-10,2014-10,1,Male,15,Czestochowa
+8707,2014-10,2014-10,1,Male,16,Czestochowa
+8708,2014-10,2014-10,1,Male,17,Czestochowa
+8709,2014-10,2014-10,1,Male,19,Czestochowa
+8710,2014-10,2014-10,1,Male,15,Czestochowa
+8711,2014-11,2014-11,1,Female,15,Czestochowa
+8713,2014-11,2014-11,1,Female,13,Czestochowa
+8714,2014-11,2014-11,1,Female,14,Czestochowa
+8715,2014-11,2014-11,1,Female,15,Czestochowa
+8716,2014-11,2014-11,1,Female,16,Czestochowa
+8717,2014-11,2014-11,1,Female,17,Czestochowa
+8718,2014-11,2014-11,1,Female,18,Czestochowa
+8719,2014-11,2014-11,1,Male,15,Czestochowa
+8720,2014-11,2014-11,1,Male,16,Czestochowa
+8721,2014-11,2014-11,1,Male,18,Czestochowa
+8723,2014-11,2014-11,1,Male,13,Czestochowa
+8724,2014-11,2014-11,1,Male,14,Czestochowa
+8725,2014-11,2014-11,1,Male,15,Czestochowa
+8726,2014-11,2014-11,1,Male,16,Czestochowa
+8727,2014-11,2014-11,1,Male,17,Czestochowa
+8728,2014-11,2014-11,1,Male,18,Czestochowa
+8729,2014-11,2014-11,2,Female,13,Czestochowa
+8730,2014-11,2014-11,2,Female,14,Czestochowa
+8731,2014-11,2014-11,2,Female,15,Cz�stochowa
+8732,2014-11,2014-11,2,Female,15,Czestochowa
+8733,2014-11,2014-11,2,Female,17,Czestochowa
+8734,2014-11,2014-11,2,Female,18,Cz�stochowa
+8735,2014-11,2014-11,2,Female,18,Czestochowa
+8736,2014-11,2014-11,2,Female,19,Czestochowa
+8737,2014-11,2014-11,2,Female,20,Czestochowa
+8738,2014-11,2014-11,2,Female,23,Czestochowa
+8739,2014-11,2014-11,2,Female,24,Czestochowa
+8740,2014-11,2014-11,2,Male,14,Czestochowa
+8741,2014-11,2014-11,2,Male,15,Czestochowa
+8742,2014-11,2014-11,2,Male,16,Czestochowa
+8743,2014-11,2014-11,2,Male,17,Czestochowa
+8744,2014-11,2014-11,2,Male,18,Czestochowa
+8745,2014-11,2014-11,2,Male,19,Czestochowa
+8746,2014-11,2014-11,2,Male,22,Czestochowa
+8747,2014-11,2014-11,2,Male,23,Cz�stochowa
+8748,2014-11,2014-11,2,Male,23,Czestochowa
+8749,2014-11,2014-11,2,Male,24,Czestochowa
+8753,2014-10,2014-10,3,Female,15,S�awk�w
+8754,2014-10,2014-10,3,Female,16,S�awk�w
+8755,2014-10,2014-10,3,Male,16,S�awk�w
+8756,2014-10,2014-10,3,Male,16,S?awk?w
+8761,2014-10,2014-10,3,Male,15,S�awk�w
+8762,2014-10,2014-10,3,Male,16,S�awk�w
+8871,2014-09,2014-09,1,Female,14,K�dzierzyn-Ko�le
+8872,2014-09,2014-09,1,Female,15,K�dzierzyn-Ko�le
+8873,2014-09,2014-09,1,Female,16,K�dzierzyn-Ko�le
+8874,2014-09,2014-09,1,Female,17,K�dzierzyn-Ko�le
+8875,2014-09,2014-09,1,Female,21,K�dzierzyn-Ko�le
+8876,2014-09,2014-09,1,Female,23,K�dzierzyn-Ko�le
+8878,2014-09,2014-09,1,Male,14,K�dzierzyn-Ko�le
+8879,2014-09,2014-09,1,Male,17,K�dzierzyn-Ko�le
+8880,2014-09,2014-09,1,Male,21,K�dzierzyn-Ko�le
+8881,2014-09,2014-09,1,Male,16,K�dzierzyn-Ko�le
+8883,2014-09,2014-09,2,Female,14,K�dzierzyn-Ko�le
+8884,2014-09,2014-09,2,Female,15,K�dzierzyn-Ko�le
+8885,2014-09,2014-09,2,Female,16,K�dzierzyn-Ko�le
+8886,2014-09,2014-09,2,Female,17,K�dzierzyn-Ko�le
+8887,2014-09,2014-09,2,Female,21,K�dzierzyn-Ko�le
+8888,2014-09,2014-09,2,Female,23,K�dzierzyn-Ko�le
+8890,2014-09,2014-09,2,Male,14,K�dzierzyn-Ko�le
+8891,2014-09,2014-09,2,Male,17,K�dzierzyn-Ko�le
+8892,2014-09,2014-09,2,Male,21,K�dzierzyn-Ko�le
+8893,2014-09,2014-09,2,Male,16,K�dzierzyn-Ko�le
+8895,2014-10,2014-10,1,Female,14,K�dzierzyn-Ko�le
+8896,2014-10,2014-10,1,Female,15,K�dzierzyn-Ko�le
+8897,2014-10,2014-10,1,Female,16,K�dzierzyn-Ko�le
+8898,2014-10,2014-10,1,Female,17,K�dzierzyn-Ko�le
+8899,2014-10,2014-10,1,Female,21,K�dzierzyn-Ko�le
+8900,2014-10,2014-10,1,Female,23,K�dzierzyn-Ko�le
+8902,2014-10,2014-10,1,Male,14,K�dzierzyn-Ko�le
+8903,2014-10,2014-10,1,Male,17,K�dzierzyn-Ko�le
+8904,2014-10,2014-10,1,Male,21,K�dzierzyn-Ko�le
+8905,2014-10,2014-10,1,Male,16,K�dzierzyn-Ko�le
+8907,2014-11,2014-11,1,Female,14,K�dzierzyn-Ko�le
+8908,2014-11,2014-11,1,Female,15,K�dzierzyn-Ko�le
+8909,2014-11,2014-11,1,Female,16,K�dzierzyn-Ko�le
+8910,2014-11,2014-11,1,Female,17,K�dzierzyn-Ko�le
+8911,2014-11,2014-11,1,Female,21,K�dzierzyn-Ko�le
+8912,2014-11,2014-11,1,Female,23,K�dzierzyn-Ko�le
+8914,2014-11,2014-11,1,Male,14,K�dzierzyn-Ko�le
+8915,2014-11,2014-11,1,Male,17,K�dzierzyn-Ko�le
+8916,2014-11,2014-11,1,Male,21,K�dzierzyn-Ko�le
+8917,2014-11,2014-11,1,Male,16,K�dzierzyn-Ko�le
+8932,2014-10,2014-10,1,Female,16,Warsaw
+8933,2014-10,2014-10,1,Male,15,Warsaw
+8934,2014-10,2014-10,1,Male,16,Warsaw
+8936,2014-10,2014-10,4,Female,12,Wieniawa
+8937,2014-10,2014-10,4,Female,13,Wieniawa
+8938,2014-10,2014-10,4,Female,14,Warsaw
+8939,2014-10,2014-10,4,Female,14,Wieniawa
+8940,2014-10,2014-10,4,Female,15,Warsaw
+8941,2014-10,2014-10,4,Female,16,Gostynin
+8942,2014-10,2014-10,4,Female,16,Kluczbork
+8943,2014-10,2014-10,4,Female,16,Łomża
+8944,2014-10,2014-10,4,Female,16,Olkusz
+8945,2014-10,2014-10,4,Female,16,Szczecin
+8946,2014-10,2014-10,4,Female,16,Warsaw
+8947,2014-10,2014-10,4,Female,17,Białystok
+8948,2014-10,2014-10,4,Female,17,Gostynin
+8949,2014-10,2014-10,4,Female,17,Kędzierzyn-Koźle
+8950,2014-10,2014-10,4,Female,17,Kluczbork
+8951,2014-10,2014-10,4,Female,17,Łomża
+8952,2014-10,2014-10,4,Female,17,Olkusz
+8953,2014-10,2014-10,4,Female,17,Przemyśl
+8954,2014-10,2014-10,4,Female,17,Sosnowiec
+8955,2014-10,2014-10,4,Female,17,Szczecin
+8956,2014-10,2014-10,4,Female,18,Gostynin
+8957,2014-10,2014-10,4,Female,18,Radomsko
+8958,2014-10,2014-10,4,Female,18,Sosnowiec
+8959,2014-10,2014-10,4,Female,18,Szczecin
+8960,2014-10,2014-10,4,Female,19,Kędzierzyn-Koźle
+8968,2014-10,2014-10,4,Male,13,Wieniawa
+8969,2014-10,2014-10,4,Male,14,Warsaw
+8970,2014-10,2014-10,4,Male,14,Wieniawa
+8971,2014-10,2014-10,4,Male,15,Warsaw
+8972,2014-10,2014-10,4,Male,15,Wieniawa
+8973,2014-10,2014-10,4,Male,16,Olkusz
+8974,2014-10,2014-10,4,Male,16,Radomsko
+8975,2014-10,2014-10,4,Male,16,Szczecin
+8976,2014-10,2014-10,4,Male,16,Warsaw
+8977,2014-10,2014-10,4,Male,17,Białystok
+8978,2014-10,2014-10,4,Male,17,Gostynin
+8979,2014-10,2014-10,4,Male,17,Kędzierzyn-Koźle
+8980,2014-10,2014-10,4,Male,17,Kluczbork
+8981,2014-10,2014-10,4,Male,17,Łomża
+8982,2014-10,2014-10,4,Male,17,Olkusz
+8983,2014-10,2014-10,4,Male,17,Przemyśl
+8984,2014-10,2014-10,4,Male,17,Radomsko
+8985,2014-10,2014-10,4,Male,18,Gostynin
+8986,2014-10,2014-10,4,Male,18,Kluczbork
+8987,2014-10,2014-10,4,Male,18,Radomsko
+8988,2014-10,2014-10,4,Male,18,Sosnowiec
+8989,2014-10,2014-10,4,Male,18,Szczecin
+8993,2014-10,2014-10,1,Female,15,Lublin
+8994,2014-10,2014-10,1,Female,16,Lublin
+8995,2014-10,2014-10,1,Female,17,Lublin
+8996,2014-10,2014-10,1,Female,18,Lublin
+8997,2014-10,2014-10,1,Female,19,Lublin
+8998,2014-10,2014-10,1,Female,20,Lublin
+8999,2014-10,2014-10,1,Female,21,Lublin
+9000,2014-10,2014-10,1,Female,23,Lublin
+9001,2014-10,2014-10,1,Female,24,Lublin
+9002,2014-10,2014-10,1,Female,25,Lublin
+9005,2014-10,2014-10,1,Female,16,Lublin
+9006,2014-10,2014-10,1,Female,17,Lublin
+9007,2014-10,2014-10,1,Female,18,Lublin
+9008,2014-10,2014-10,1,Male,17,Lublin
+9009,2014-10,2014-10,1,Male,18,Lublin
+9010,2014-10,2014-10,1,Male,22,Lublin
+9011,2014-10,2014-10,1,Male,24,Lublin
+9012,2014-10,2014-10,1,Male,16,Lublin
+9013,2014-10,2014-10,1,Male,17,Lublin
+9014,2014-11,2014-11,1,Female,17,Lublin
+9015,2014-11,2014-11,1,Female,18,Lublin
+9016,2014-11,2014-11,1,Female,19,Lublin
+9017,2014-11,2014-11,1,Female,21,Lublin
+9018,2014-11,2014-11,1,Female,22,Lublin
+9020,2014-11,2014-11,1,Male,18,Lublin
+9021,2014-11,2014-11,1,Male,19,Lublin
+9022,2014-11,2014-11,1,Male,22,Lublin
+9023,2014-11,2014-11,1,Male,24,Lublin
+9025,2014-12,2014-12,1,Female,18,Lublin
+9026,2014-12,2014-12,1,Female,19,Lublin
+9029,2014-12,2014-12,1,Male,18,Lublin
+9030,2014-12,2014-12,1,Male,19,Lublin
+9031,2014-12,2014-12,1,Male,20,Lublin
+9032,2014-12,2014-12,1,Male,23,Lublin
+9177,2014-12,2014-12,5,Female,20,Kr�sno
+9178,2014-12,2014-12,5,Female,22,Kr�sno
+9179,2014-12,2014-12,5,Female,23,Kr�sno
+9180,2014-12,2014-12,5,Male,19,Kr�sno
+9181,2014-12,2014-12,5,Male,22,Kr�sno
+9182,2014-12,2014-12,5,Male,23,Kr�sno
+9183,2014-12,2014-12,5,Male,24,Kr�sno
+9185,2014-12,2014-12,5,Female,21,"Kauno district,Kulautuvos village"
+9186,2014-12,2014-12,5,Female,22,"Kauno district,Kulautuvos village"
+9187,2014-12,2014-12,5,Female,25,"Kauno district,Kulautuvos village"
+9188,2014-12,2014-12,5,Male,19,"Kauno district,Kulautuvos village"
+9189,2014-12,2014-12,5,Male,20,"Kauno district,Kulautuvos village"
+9190,2014-12,2014-12,5,Male,23,"Kauno district,Kulautuvos village"
+9191,2014-12,2014-12,5,Male,24,"Kauno district,Kulautuvos village"
+9192,2014-12,2014-12,5,Male,25,"Kauno district,Kulautuvos village"
+9193,2014-12,2014-12,5,Female,20,Chisinau
+9194,2014-12,2014-12,5,Female,21,Chisinau
+9195,2014-12,2014-12,5,Female,22,Chisinau
+9196,2014-12,2014-12,5,Female,23,Chisinau
+9197,2014-12,2014-12,5,Female,24,Chisinau
+9200,2014-12,2014-12,5,Male,24,Chisinau
+9202,2014-12,2014-12,5,Female,20,Tarn�w
+9203,2014-12,2014-12,5,Female,22,Tarn�w
+9204,2014-12,2014-12,5,Male,23,Tarn�w
+9205,2014-12,2014-12,5,Male,25,Tarn�w
+9208,2014-12,2014-12,5,Female,19,Bratys�awa
+9209,2014-12,2014-12,5,Female,20,Bratys�awa
+9210,2014-12,2014-12,5,Female,21,Bratys�awa
+9212,2014-12,2014-12,5,Male,19,Bratys�awa
+9213,2014-12,2014-12,5,Male,21,Bratys�awa
+9214,2014-12,2014-12,5,Male,22,Bratys�awa
+9215,2014-12,2014-12,5,Male,24,Bratys�awa
+9216,2014-12,2014-12,5,Female,23,Lviv
+9217,2014-12,2014-12,5,Female,25,Lviv
+9222,2014-09,2014-09,4,Female,17,DWIKOZY
+9223,2014-09,2014-09,4,Female,17,WARSZAWA
+9224,2014-09,2014-09,4,Female,18,BARANOWO
+9225,2014-09,2014-09,4,Female,18,Jaworzynka
+9226,2014-09,2014-09,4,Female,19,BARANOWO
+9227,2014-09,2014-09,4,Female,21,BARANOWO
+9228,2014-09,2014-09,4,Female,21,Krak�w
+9229,2014-09,2014-09,4,Female,21,Skawina
+9230,2014-09,2014-09,4,Female,22,BARANOWO
+9231,2014-09,2014-09,4,Female,22,KRAK�W
+9232,2014-09,2014-09,4,Female,22,Krak�w
+9233,2014-09,2014-09,4,Female,22,WARSZAWA
+9234,2014-09,2014-09,4,Female,22,Wielkie Drogi
+9235,2014-09,2014-09,4,Female,24,Kasina Wielka
+9238,2014-09,2014-09,4,Female,21,KRAK�W
+9239,2014-09,2014-09,4,Male,17,S�UPNA
+9240,2014-09,2014-09,4,Male,17,TRZEBINIA
+9241,2014-09,2014-09,4,Male,18,BARANOWO
+9242,2014-09,2014-09,4,Male,18,CHE�MEK
+9243,2014-09,2014-09,4,Male,18,M�CI�W
+9244,2014-09,2014-09,4,Male,18,O�WI�CIM
+9245,2014-09,2014-09,4,Male,18,PRZECISZ�W
+9246,2014-09,2014-09,4,Male,18,Skawina
+9247,2014-09,2014-09,4,Male,18,W�GRCE
+9248,2014-09,2014-09,4,Male,19,BRZESZCZE
+9249,2014-09,2014-09,4,Male,19,JAWISZOWICE
+9250,2014-09,2014-09,4,Male,19,O�WI�CIM
+9251,2014-09,2014-09,4,Male,19,ZAG�RZE
+9252,2014-09,2014-09,4,Male,20,BARANOWO
+9253,2014-09,2014-09,4,Male,20,WARSZAWA
+9254,2014-09,2014-09,4,Male,21,G�AZ�W
+9255,2014-09,2014-09,4,Male,21,OLSZEWKA
+9256,2014-09,2014-09,4,Male,21,TOKARNIA
+9257,2014-09,2014-09,4,Male,24,SOKӣKA
+9259,2014-10,2014-10,4,Female,17,DWIKOZY
+9260,2014-10,2014-10,4,Female,17,TRZEBINIA
+9261,2014-10,2014-10,4,Female,17,WARSZAWA
+9262,2014-10,2014-10,4,Female,18,BARANOWO
+9263,2014-10,2014-10,4,Female,18,Jaworzynka
+9264,2014-10,2014-10,4,Female,19,BARANOWO
+9265,2014-10,2014-10,4,Female,21,BARANOWO
+9266,2014-10,2014-10,4,Female,21,Skawina
+9267,2014-10,2014-10,4,Female,22,BARANOWO
+9268,2014-10,2014-10,4,Female,22,KRAK�W
+9269,2014-10,2014-10,4,Female,22,Krak�w
+9270,2014-10,2014-10,4,Female,22,WARSZAWA
+9271,2014-10,2014-10,4,Female,22,Wielkie Drogi
+9272,2014-10,2014-10,4,Female,24,Kasina Wielkia
+9275,2014-10,2014-10,4,Male,17,S�UPNA
+9276,2014-10,2014-10,4,Male,18,BARANOWO
+9277,2014-10,2014-10,4,Male,18,M�CI�W
+9278,2014-10,2014-10,4,Male,18,O�WI�CIM
+9279,2014-10,2014-10,4,Male,18,PRZECISZ�W
+9280,2014-10,2014-10,4,Male,19,BRZESZCZE
+9281,2014-10,2014-10,4,Male,19,CHE�MEK
+9282,2014-10,2014-10,4,Male,19,JAWISZOWICE
+9283,2014-10,2014-10,4,Male,19,O�WI�CIM
+9284,2014-10,2014-10,4,Male,19,W�GRCE
+9285,2014-10,2014-10,4,Male,19,ZAG�RZE
+9286,2014-10,2014-10,4,Male,20,BARANOWO
+9287,2014-10,2014-10,4,Male,20,WARSZAWA
+9288,2014-10,2014-10,4,Male,21,G�AZ�W
+9289,2014-10,2014-10,4,Male,21,OLSZEWKA
+9290,2014-10,2014-10,4,Male,22,Skawina
+9291,2014-10,2014-10,4,Male,22,TOKARNIA
+9292,2014-10,2014-10,4,Male,24,SOKӣKA
+9294,2014-11,2014-11,4,Female,17,TRZEBINIA
+9295,2014-11,2014-11,4,Female,17,WARSZAWA
+9296,2014-11,2014-11,4,Female,18,BARANOWO
+9297,2014-11,2014-11,4,Female,18,DWIKOZY
+9298,2014-11,2014-11,4,Female,18,Jaworzynka
+9299,2014-11,2014-11,4,Female,19,BARANOWO
+9300,2014-11,2014-11,4,Female,21,BARANOWO
+9301,2014-11,2014-11,4,Female,21,Skawina
+9302,2014-11,2014-11,4,Female,22,BARANOWO
+9303,2014-11,2014-11,4,Female,22,KRAK�W
+9304,2014-11,2014-11,4,Female,22,Krak�w
+9305,2014-11,2014-11,4,Female,22,WARSZAWA
+9306,2014-11,2014-11,4,Female,22,WIELKIE DROGI
+9307,2014-11,2014-11,4,Female,24,Kasina Wielka
+9310,2014-11,2014-11,4,Male,18,BARANOWO
+9311,2014-11,2014-11,4,Male,18,O�WI�CIM
+9312,2014-11,2014-11,4,Male,18,PRZECISZ�W
+9313,2014-11,2014-11,4,Male,18,S�UPNA
+9314,2014-11,2014-11,4,Male,18,Skawina
+9315,2014-11,2014-11,4,Male,19,BRZESZCZE
+9316,2014-11,2014-11,4,Male,19,CHE�MEK
+9317,2014-11,2014-11,4,Male,19,JAWISZOWICE
+9318,2014-11,2014-11,4,Male,19,M�CI�W
+9319,2014-11,2014-11,4,Male,19,O�WI�CIM
+9320,2014-11,2014-11,4,Male,19,W�GRCE
+9321,2014-11,2014-11,4,Male,19,ZAG�RZE
+9322,2014-11,2014-11,4,Male,20,BARANOWO
+9323,2014-11,2014-11,4,Male,20,WARSZAWA
+9324,2014-11,2014-11,4,Male,21,G�AZ�W
+9325,2014-11,2014-11,4,Male,21,OLSZEWKA
+9326,2014-11,2014-11,4,Male,22,TOKARNIA
+9327,2014-11,2014-11,4,Male,24,SOKӣKA
+9329,2014-09,2014-09,1,Female,12,Zielona Góra
+9330,2014-09,2014-09,1,Female,14,Łąg
+9331,2014-09,2014-09,1,Female,15,Gdansk
+9332,2014-09,2014-09,1,Female,15,Gdańsk
+9333,2014-09,2014-09,1,Female,15,Łąg
+9334,2014-09,2014-09,1,Female,15,Lubichowo
+9335,2014-09,2014-09,1,Female,15,Mynki
+9336,2014-09,2014-09,1,Female,15,Osowo Leśne
+9337,2014-09,2014-09,1,Female,15,Zelgoszcz
+9338,2014-09,2014-09,1,Female,15,Złe Mięso
+9339,2014-09,2014-09,1,Female,16,Łąg
+9340,2014-09,2014-09,1,Female,17,Czersk
+9341,2014-09,2014-09,1,Female,17,Gdansk
+9342,2014-09,2014-09,1,Female,17,Gdańsk
+9343,2014-09,2014-09,1,Female,17,Łąg
+9344,2014-09,2014-09,1,Female,17,Łąg Kolonia
+9345,2014-09,2014-09,1,Female,17,Lubiki
+9346,2014-09,2014-09,1,Female,17,Przytornia
+9347,2014-09,2014-09,1,Female,18,Czarna Woda
+9348,2014-09,2014-09,1,Female,18,Czersk
+9349,2014-09,2014-09,1,Female,18,Gdańsk
+9350,2014-09,2014-09,1,Female,18,Karsin
+9351,2014-09,2014-09,1,Female,18,Nowe Prusy
+9352,2014-09,2014-09,1,Female,18,Pustki
+9353,2014-09,2014-09,1,Female,18,Szlachta
+9354,2014-09,2014-09,1,Female,18,Wojtal
+9355,2014-09,2014-09,1,Female,18,Zimne Zdroje
+9356,2014-09,2014-09,1,Female,19,Łąg
+9357,2014-09,2014-09,1,Female,20,Łąg
+9358,2014-09,2014-09,1,Female,24,Łąg
+9360,2014-09,2014-09,1,Male,14,Gdańsk
+9361,2014-09,2014-09,1,Male,14,Lubichowo
+9362,2014-09,2014-09,1,Male,14,Zelgoszcz
+9363,2014-09,2014-09,1,Male,15,Gdańsk
+9364,2014-09,2014-09,1,Male,15,Łąg
+9365,2014-09,2014-09,1,Male,15,Lubichowo
+9366,2014-09,2014-09,1,Male,15,Mościska
+9367,2014-09,2014-09,1,Male,15,Ocypel
+9368,2014-09,2014-09,1,Male,15,Zielona Góra
+9369,2014-09,2014-09,1,Male,16,Gdańsk
+9370,2014-09,2014-09,1,Male,17,Czersk
+9371,2014-09,2014-09,1,Male,17,Gdańsk
+9372,2014-09,2014-09,1,Male,17,Łąg
+9373,2014-09,2014-09,1,Male,18,Czersk
+9374,2014-09,2014-09,1,Male,20,Czersk
+9375,2014-09,2014-09,1,Male,21,Lubichowo
+9380,2014-10,2014-10,1,Female,12,Gdansk
+9381,2014-10,2014-10,1,Female,13,Bąkowo
+9382,2014-10,2014-10,1,Female,13,Gdansk
+9383,2014-10,2014-10,1,Female,13,Kartuzy
+9384,2014-10,2014-10,1,Female,15,Gdansk
+9385,2014-10,2014-10,1,Female,15,Gdańsk
+9386,2014-10,2014-10,1,Female,15,Lisewo Malborskie
+9387,2014-10,2014-10,1,Female,16,Gdansk
+9388,2014-10,2014-10,1,Female,16,Kleszczewo
+9389,2014-10,2014-10,1,Female,16,Lisewo Malborskie
+9390,2014-10,2014-10,1,Female,17,Starogard Gdański
+9391,2014-10,2014-10,1,Female,18,Ostrzyce
+9392,2014-10,2014-10,1,Female,19,Babi Dół
+9393,2014-10,2014-10,1,Female,19,Przyjaźń
+9394,2014-10,2014-10,1,Female,19,Skrzeszewo
+9395,2014-10,2014-10,1,Female,19,Tuchom
+9396,2014-10,2014-10,1,Female,20,Gdynia
+9397,2014-10,2014-10,1,Female,20,Starogard Gdański
+9398,2014-10,2014-10,1,Female,20,Wałdowo
+9399,2014-10,2014-10,1,Female,22,Gdansk
+9400,2014-10,2014-10,1,Male,12,Gdansk
+9401,2014-10,2014-10,1,Male,13,Banino
+9402,2014-10,2014-10,1,Male,13,Borzestowska Huta
+9403,2014-10,2014-10,1,Male,13,Garcz
+9404,2014-10,2014-10,1,Male,13,Gdansk
+9405,2014-10,2014-10,1,Male,14,Gdansk
+9406,2014-10,2014-10,1,Male,14,Gdańsk
+9407,2014-10,2014-10,1,Male,15,Gdańsk
+9408,2014-10,2014-10,1,Male,16,Kolonia
+9409,2014-10,2014-10,1,Male,16,Wolental
+9410,2014-10,2014-10,1,Male,17,Gdansk
+9411,2014-10,2014-10,1,Male,18,Mezowo
+9412,2014-10,2014-10,1,Male,19,Kolonia
+9413,2014-10,2014-10,1,Male,19,Żukowo
+9414,2014-10,2014-10,1,Male,20,Gdansk
+9415,2014-10,2014-10,1,Male,21,Ciechocin
+9416,2014-10,2014-10,1,Male,22,Starogard Gdański
+9417,2014-10,2014-10,1,Male,24,Ocypel
+9989,2014-11,2014-11,1,Female,14,Kielce
+9990,2014-11,2014-11,1,Female,15,Kielce
+9991,2014-11,2014-11,1,Female,16,Kielce
+9992,2014-11,2014-11,1,Female,17,Kielce
+9993,2014-11,2014-11,1,Female,18,Kielce
+9994,2014-11,2014-11,1,Female,24,Kielce
+9995,2014-11,2014-11,1,Female,25,Kielce
+10009,2014-11,2014-11,1,Female,17,Kielce
+10010,2014-11,2014-11,1,Female,18,Kielce
+10011,2014-11,2014-11,1,Female,19,Kielce
+10012,2014-11,2014-11,1,Female,22,Kielce
+10013,2014-11,2014-11,1,Male,14,Kielce
+10014,2014-11,2014-11,1,Male,15,Kielce
+10015,2014-11,2014-11,1,Male,16,Kielce
+10016,2014-11,2014-11,1,Male,17,Kielce
+10017,2014-11,2014-11,1,Male,18,Kielce
+10018,2014-11,2014-11,1,Male,19,Kielce
+10019,2014-11,2014-11,1,Male,25,Kielce
+10027,2014-11,2014-11,1,Male,16,Kielce
+10028,2014-11,2014-11,1,Male,17,Kielce
+10029,2014-11,2014-11,1,Male,18,Kielce
+10030,2014-11,2014-11,1,Male,19,Kielce
+10031,2014-11,2014-11,1,Male,23,Kielce
+10032,2014-12,2014-12,1,Female,13,Kielce
+10033,2014-12,2014-12,1,Female,15,Kielce
+10034,2014-12,2014-12,1,Female,16,Kielce
+10035,2014-12,2014-12,1,Female,17,Kielce
+10036,2014-12,2014-12,1,Female,18,Kielce
+10037,2014-12,2014-12,1,Female,19,Kielce
+10038,2014-12,2014-12,1,Female,23,Kielce
+10044,2014-12,2014-12,1,Female,13,Kielce
+10045,2014-12,2014-12,1,Female,14,Kielce
+10046,2014-12,2014-12,1,Female,15,Kielce
+10047,2014-12,2014-12,1,Male,13,Kielce
+10048,2014-12,2014-12,1,Male,14,Kielce
+10049,2014-12,2014-12,1,Male,15,Kielce
+10050,2014-12,2014-12,1,Male,16,Kielce
+10051,2014-12,2014-12,1,Male,17,Kielce
+10052,2014-12,2014-12,1,Male,18,Kielce
+10053,2014-12,2014-12,1,Male,20,Kielce
+10060,2014-12,2014-12,1,Male,13,Kielce
+10061,2014-12,2014-12,1,Male,14,Kielce
+10062,2014-12,2014-12,1,Male,15,Kielce
+10076,2014-11,2014-12,5,Female,17,Myszkowice
+10077,2014-11,2014-12,5,Female,17,Sosnowiec
+10078,2014-11,2014-12,5,Female,18,Cz?stochowa
+10079,2014-11,2014-12,5,Female,18,Gliwice
+10080,2014-11,2014-12,5,Female,18,Korwin?w
+10081,2014-11,2014-12,5,Female,19,?wi?toch?owice
+10082,2014-11,2014-12,5,Female,19,Miko??w
+10083,2014-11,2014-12,5,Female,19,Opole
+10084,2014-11,2014-12,5,Female,20,D?browa G?rnicza
+10085,2014-11,2014-12,5,Female,20,Krak?w
+10086,2014-11,2014-12,5,Female,21,Racib?rz
+10087,2014-11,2014-12,5,Female,21,Wroc?aw
+10088,2014-11,2014-12,5,Female,22,Gliwice
+10089,2014-11,2014-12,5,Female,22,Katowice
+10090,2014-11,2014-12,5,Female,23,Gliwice
+10091,2014-11,2014-12,5,Female,24,Gliwice
+10092,2014-11,2014-12,5,Female,24,Krak?w
+10093,2014-11,2014-12,5,Female,24,Olesno
+10094,2014-11,2014-12,5,Female,25,Gliwice
+10096,2014-11,2014-12,5,Female,24,L?dziny
+10097,2014-11,2014-12,5,Male,17,Katowice
+10098,2014-11,2014-12,5,Male,18,?ory
+10099,2014-11,2014-12,5,Male,19,Chorz?w
+10100,2014-11,2014-12,5,Male,19,Gliwice
+10101,2014-11,2014-12,5,Male,20,Wojkowice
+10102,2014-11,2014-12,5,Male,21,Nowy S?cz
+10103,2014-11,2014-12,5,Male,21,Siemianowice ?l?skie
+10104,2014-11,2014-12,5,Male,21,So?nicowice
+10105,2014-11,2014-12,5,Male,22,Chorz?w
+10106,2014-11,2014-12,5,Male,22,Cieszyn
+10107,2014-11,2014-12,5,Male,22,Gliwice
+10108,2014-11,2014-12,5,Male,23,Gliwice
+10109,2014-11,2014-12,5,Male,23,Krak?w
+10110,2014-11,2014-12,5,Male,23,Opole
+10111,2014-11,2014-12,5,Male,23,Wodzis?aw ?l?ski
+10112,2014-11,2014-12,5,Male,23,Zawiercie
+10113,2014-11,2014-12,5,Male,24,Gliwice
+10114,2014-11,2014-12,5,Male,24,Katowice
+10115,2014-11,2014-12,5,Male,24,Wroc?aw
+10116,2014-11,2014-12,5,Male,24,Zabrze
+10117,2014-11,2014-12,5,Male,25,Czelad?
+10118,2014-11,2014-12,5,Male,25,Gliwice
+10123,2014-11,2014-12,5,Male,23,Katowice
+10124,2014-11,2014-12,5,Male,24,Gliwice
+10126,2014-09,2014-09,2,Female,17,BIA�YSTOK
+10127,2014-09,2014-09,2,Female,17,WA�BRZYCH
+10128,2014-09,2014-09,2,Female,18,MALBORK
+10129,2014-09,2014-09,2,Female,18,STAROGARD GDA�SKI
+10130,2014-09,2014-09,2,Female,18,ZDROCHEC
+10131,2014-09,2014-09,2,Female,20,SKAR�YSKO KAMIENNA
+10132,2014-09,2014-09,2,Female,22,WARSZAWA
+10133,2014-09,2014-09,2,Male,16,WA�BRZYCH
+10134,2014-09,2014-09,2,Male,17,CZ�STOCHOWA
+10135,2014-09,2014-09,2,Male,17,STAROGARD GDA�SKI
+10136,2014-09,2014-09,2,Male,17,WIELKA WIE�
+10137,2014-09,2014-09,2,Male,18,MYS�OWICE
+10138,2014-09,2014-09,2,Male,18,SZTUM
+10139,2014-09,2014-09,2,Male,18,WA�BRZYCH
+10140,2014-09,2014-09,2,Male,19,WARSZAWA
+10141,2014-09,2014-09,2,Male,21,KRAK�W
+10142,2014-09,2014-09,2,Male,21,WARSZAWA
+10143,2014-09,2014-09,2,Male,23,POZNA�
+10144,2014-10,2014-10,4,Female,15,MIEROSZ�W
+10145,2014-10,2014-10,4,Female,17,BIA�YSTOK
+10146,2014-10,2014-10,4,Female,17,R�DZINY
+10147,2014-10,2014-10,4,Female,17,W�CHOCK
+10148,2014-10,2014-10,4,Female,17,WA�BRZYCH
+10149,2014-10,2014-10,4,Female,18,BIA�YSTOK
+10150,2014-10,2014-10,4,Female,18,MALBORK
+10151,2014-10,2014-10,4,Female,18,MYS�OWICE
+10152,2014-10,2014-10,4,Female,18,NYSA
+10153,2014-10,2014-10,4,Female,18,STAROGARD GDA�SKI
+10154,2014-10,2014-10,4,Female,18,TARN�W
+10155,2014-10,2014-10,4,Female,20,SKAR�YSKO KAMIENNA
+10156,2014-10,2014-10,4,Female,20,STAROGARD GDA�SKI
+10157,2014-10,2014-10,4,Female,21,KRAK�W
+10158,2014-10,2014-10,4,Female,22,KATOWICE
+10159,2014-10,2014-10,4,Female,24,WARSZAWA
+10161,2014-10,2014-10,4,Male,15,PIASECZNO
+10162,2014-10,2014-10,4,Male,15,TCZEW
+10163,2014-10,2014-10,4,Male,16,WA�BRZYCH
+10164,2014-10,2014-10,4,Male,17,OLSZTYN
+10165,2014-10,2014-10,4,Male,17,STAROGARD GDA�SKI
+10166,2014-10,2014-10,4,Male,18,BOGUSZ�W-GORCE
+10167,2014-10,2014-10,4,Male,18,CZ�STOCHOWA
+10168,2014-10,2014-10,4,Male,18,SZTUM
+10169,2014-10,2014-10,4,Male,18,TARN�W
+10170,2014-10,2014-10,4,Male,18,WA�BRZYCH
+10171,2014-10,2014-10,4,Male,19,GDYNIA
+10172,2014-10,2014-10,4,Male,21,LEGNICA
+10173,2014-10,2014-10,4,Male,21,STAROGARD GDA�SKI
+10174,2014-10,2014-10,4,Male,22,ALWERNIA
+10318,2014-10,2014-10,1,Female,22,Vila Real de Sto Ant?nio
+10339,2014-12,2014-12,1,Male,24,Vila Real de Sto Ant?nio
+10652,2014-10,2014-10,3,Female,22,Porto
+10653,2014-10,2014-10,3,Female,14,Porto
+10654,2014-10,2014-10,3,Female,15,Porto
+10655,2014-10,2014-10,3,Female,16,Porto
+10656,2014-10,2014-10,3,Female,17,Porto
+10657,2014-10,2014-10,3,Female,18,Porto
+10658,2014-10,2014-10,3,Female,19,Porto
+10659,2014-10,2014-10,3,Female,20,Porto
+10660,2014-10,2014-10,3,Female,21,Porto
+10661,2014-10,2014-10,3,Female,22,Porto
+10662,2014-10,2014-10,3,Female,23,Porto
+10663,2014-10,2014-10,3,Female,24,Porto
+10664,2014-10,2014-10,3,Female,25,Porto
+10670,2014-10,2014-10,3,Female,17,Porto
+10671,2014-10,2014-10,3,Female,20,Porto
+10672,2014-10,2014-10,3,Female,21,Porto
+10673,2014-10,2014-10,3,Female,22,Porto
+10674,2014-10,2014-10,3,Female,23,Porto
+10675,2014-10,2014-10,3,Female,25,Porto
+10680,2014-10,2014-10,3,Female,17,Porto
+10681,2014-10,2014-10,3,Female,14,Porto
+10682,2014-10,2014-10,3,Female,15,Porto
+10683,2014-10,2014-10,3,Female,16,Porto
+10684,2014-10,2014-10,3,Female,17,Porto
+10685,2014-10,2014-10,3,Female,18,Porto
+10686,2014-10,2014-10,3,Female,19,Porto
+10687,2014-10,2014-10,3,Female,20,Porto
+10688,2014-10,2014-10,3,Female,21,Porto
+10689,2014-10,2014-10,3,Female,22,Porto
+10690,2014-10,2014-10,3,Female,23,Porto
+10691,2014-10,2014-10,3,Female,24,Porto
+10693,2014-10,2014-10,3,Male,13,Porto
+10694,2014-10,2014-10,3,Male,14,Porto
+10695,2014-10,2014-10,3,Male,15,Porto
+10696,2014-10,2014-10,3,Male,16,Porto
+10697,2014-10,2014-10,3,Male,17,Porto
+10698,2014-10,2014-10,3,Male,18,Porto
+10699,2014-10,2014-10,3,Male,19,Porto
+10700,2014-10,2014-10,3,Male,20,Porto
+10701,2014-10,2014-10,3,Male,21,Porto
+10702,2014-10,2014-10,3,Male,22,Porto
+10703,2014-10,2014-10,3,Male,23,Porto
+10704,2014-10,2014-10,3,Male,24,Porto
+10705,2014-10,2014-10,3,Male,25,Porto
+10710,2014-10,2014-10,3,Male,15,Porto
+10711,2014-10,2014-10,3,Male,16,Porto
+10712,2014-10,2014-10,3,Male,17,Porto
+10713,2014-10,2014-10,3,Male,18,Porto
+10714,2014-10,2014-10,3,Male,19,Porto
+10715,2014-10,2014-10,3,Male,20,Porto
+10716,2014-10,2014-10,3,Male,21,Porto
+10717,2014-10,2014-10,3,Male,22,Porto
+10718,2014-10,2014-10,3,Male,23,Porto
+10719,2014-10,2014-10,3,Male,24,Porto
+10720,2014-10,2014-10,3,Male,25,Porto
+10726,2014-10,2014-10,3,Male,20,Porto
+10727,2014-10,2014-10,3,Male,18,Porto
+10728,2014-10,2014-10,3,Male,19,Porto
+10729,2014-10,2014-10,3,Male,21,Porto
+10730,2014-10,2014-10,3,Male,24,Porto
+10733,2014-10,2014-10,3,Female,18,Porto
+10735,2014-09,2014-09,4,Female,21,BRUXELLES
+10736,2014-09,2014-09,4,Female,25,BRUXELLES
+10738,2014-09,2014-09,4,Female,21,SOFIA
+10740,2014-09,2014-09,4,Female,23,Nicosia
+10744,2014-09,2014-09,4,Female,24,KOBENHAVN O
+10745,2014-09,2014-09,4,Female,24,TALLINN
+10746,2014-09,2014-09,4,Male,20,TALLINN
+10747,2014-09,2014-09,4,Male,24,Athens
+10752,2014-09,2014-09,4,Female,22,Budapest
+10753,2014-09,2014-09,4,Male,21,Budapest
+10757,2014-09,2014-09,4,Male,21,Vilnius
+10758,2014-09,2014-09,4,Male,23,Vilnius
+10759,2014-09,2014-09,4,Female,21,RIGA
+10760,2014-09,2014-09,4,Female,25,RIGA
+10761,2014-09,2014-09,4,Male,23,RIGA
+10766,2014-09,2014-09,4,Female,20,Stockholm
+10768,2014-09,2014-09,6,Female,24,LISBOA
+10775,2014-10,2014-10,1,Female,24,LISBOA
+10784,2014-11,2014-11,1,Female,17,LISBOA
+10785,2014-11,2014-11,1,Female,18,LISBOA
+10786,2014-11,2014-11,1,Female,19,LISBOA
+10787,2014-11,2014-11,1,Female,20,LISBOA
+10788,2014-11,2014-11,1,Female,21,LISBOA
+10789,2014-11,2014-11,1,Female,23,LISBOA
+10790,2014-11,2014-11,1,Female,24,LISBOA
+10791,2014-11,2014-11,1,Male,15,LISBOA
+10792,2014-11,2014-11,1,Male,18,LISBOA
+10793,2014-11,2014-11,1,Male,19,LISBOA
+10794,2014-11,2014-11,1,Male,20,LISBOA
+10795,2014-11,2014-11,1,Male,21,LISBOA
+10796,2014-11,2014-11,1,Male,22,LISBOA
+10797,2014-11,2014-11,1,Male,23,LISBOA
+10798,2014-11,2014-11,1,Male,24,LISBOA
+10799,2014-11,2014-11,1,Male,25,LISBOA
+11050,2014-09,2014-09,5,Female,19,Cluj Napoca
+11051,2014-09,2014-09,5,Female,20,Bucharest
+11052,2014-09,2014-09,5,Female,20,Cluj  Napoca
+11053,2014-09,2014-09,5,Female,20,Cluj Napoca
+11054,2014-09,2014-09,5,Female,20,Iasi
+11055,2014-09,2014-09,5,Female,21,Bucharest
+11056,2014-09,2014-09,5,Female,21,Cluj Napoca
+11057,2014-09,2014-09,5,Female,21,Iasi
+11058,2014-09,2014-09,5,Female,21,Iaşi
+11059,2014-09,2014-09,5,Female,21,Targu Mures
+11060,2014-09,2014-09,5,Female,21,Tragu Mures
+11061,2014-09,2014-09,5,Female,22,Cluj Napoca
+11062,2014-09,2014-09,5,Female,22,Iasi
+11063,2014-09,2014-09,5,Female,22,Sibiu
+11064,2014-09,2014-09,5,Female,22,Targu Mures
+11065,2014-09,2014-09,5,Female,23,Bucharest
+11066,2014-09,2014-09,5,Female,23,Iasi
+11067,2014-09,2014-09,5,Female,23,Sibiu
+11068,2014-09,2014-09,5,Female,24,Cluj Napoca
+11069,2014-09,2014-09,5,Female,24,Sibiu
+11070,2014-09,2014-09,5,Female,25,Targu Mures
+11081,2014-09,2014-09,5,Male,20,Bucharest
+11082,2014-09,2014-09,5,Male,21,Bucharest
+11083,2014-09,2014-09,5,Male,22,Bucharest
+11084,2014-09,2014-09,5,Male,22,Cluj Napoca
+11085,2014-09,2014-09,5,Male,22,Iasi
+11086,2014-09,2014-09,5,Male,22,Targu Mures
+11087,2014-09,2014-09,5,Male,23,Iasi
+11088,2014-09,2014-09,5,Male,24,Iasi
+11089,2014-09,2014-09,5,Male,24,Sibiu
+11195,2014-11,2014-11,1,Female,15,Ilva Mica
+11196,2014-11,2014-11,1,Female,15,Prundu Bargaului
+11197,2014-11,2014-11,1,Female,16,Anies
+11198,2014-11,2014-11,1,Female,16,Beclean
+11199,2014-11,2014-11,1,Female,16,Bistrita
+11200,2014-11,2014-11,1,Female,16,Budacu de jos
+11201,2014-11,2014-11,1,Female,16,Lunca Ilvei
+11202,2014-11,2014-11,1,Female,16,Maieru
+11203,2014-11,2014-11,1,Female,16,Tarlisua
+11204,2014-11,2014-11,1,Female,17,Beclean
+11205,2014-11,2014-11,1,Female,17,Bistrita
+11206,2014-11,2014-11,1,Female,17,Caian
+11207,2014-11,2014-11,1,Female,17,Nasaud
+11208,2014-11,2014-11,1,Female,17,Sieu
+11209,2014-11,2014-11,1,Female,18,Bistrita
+11210,2014-11,2014-11,1,Female,18,Dumitra
+11211,2014-11,2014-11,1,Female,18,Monariu
+11212,2014-11,2014-11,1,Female,19,Coasta
+11213,2014-11,2014-11,1,Female,20,Bistrita
+11214,2014-11,2014-11,1,Female,24,Nasaud
+11215,2014-11,2014-11,1,Female,25,Bistrita
+11218,2014-11,2014-11,1,Male,15,Lechinta
+11219,2014-11,2014-11,1,Male,15,Sieu
+11220,2014-11,2014-11,1,Male,16,Beclean
+11221,2014-11,2014-11,1,Male,16,Bistrita
+11222,2014-11,2014-11,1,Male,16,Teaca
+11223,2014-11,2014-11,1,Male,17,Beclean
+11224,2014-11,2014-11,1,Male,17,Bistrita
+11225,2014-11,2014-11,1,Male,17,Nasaud
+11226,2014-11,2014-11,1,Male,17,Sieu Magherus
+11227,2014-11,2014-11,1,Male,17,Telciu
+11228,2014-11,2014-11,1,Male,17,Unirea
+11229,2014-11,2014-11,1,Male,18,Bistrita
+11230,2014-11,2014-11,1,Male,19,Bistrita
+11231,2014-11,2014-11,1,Male,22,Bistrita
+11232,2014-11,2014-11,1,Male,23,Bistrita
+11235,2014-11,2014-11,2,Female,15,Budacu de jos
+11236,2014-11,2014-11,2,Female,15,Prundu Bargaului
+11237,2014-11,2014-11,2,Female,16,Beclean
+11238,2014-11,2014-11,2,Female,16,Bistrita
+11239,2014-11,2014-11,2,Female,16,Bistrita
+11240,2014-11,2014-11,2,Female,16,Budacu de jos
+11241,2014-11,2014-11,2,Female,16,Maieru
+11242,2014-11,2014-11,2,Female,16,Nimigea de Jos
+11243,2014-11,2014-11,2,Female,17,Beclean
+11244,2014-11,2014-11,2,Female,17,Bistrita
+11245,2014-11,2014-11,2,Female,17,Bistrita
+11246,2014-11,2014-11,2,Female,17,Nasaud
+11247,2014-11,2014-11,2,Female,18,Bistrita
+11248,2014-11,2014-11,2,Female,18,Bistrita
+11249,2014-11,2014-11,2,Female,18,Dumitra
+11250,2014-11,2014-11,2,Female,18,Monariu
+11251,2014-11,2014-11,2,Female,19,Coasta
+11252,2014-11,2014-11,2,Female,20,Bistrita
+11253,2014-11,2014-11,2,Female,24,Nasaud
+11254,2014-11,2014-11,2,Female,25,Bistrita
+11256,2014-11,2014-11,2,Female,15,Ilva Mica
+11257,2014-11,2014-11,2,Female,17,Sieu
+11258,2014-11,2014-11,2,Male,15,Lechinta
+11259,2014-11,2014-11,2,Male,16,Anies
+11260,2014-11,2014-11,2,Male,16,Beclean
+11261,2014-11,2014-11,2,Male,16,Bistrita
+11262,2014-11,2014-11,2,Male,16,Lunca Ilvei
+11263,2014-11,2014-11,2,Male,16,Tarlisua
+11264,2014-11,2014-11,2,Male,16,Teaca
+11265,2014-11,2014-11,2,Male,17,Beclean
+11266,2014-11,2014-11,2,Male,17,Bistrita
+11267,2014-11,2014-11,2,Male,17,Bistrita
+11268,2014-11,2014-11,2,Male,17,Bistrita
+11269,2014-11,2014-11,2,Male,17,Caian
+11270,2014-11,2014-11,2,Male,17,Sieu Magherus
+11271,2014-11,2014-11,2,Male,17,Telciu
+11272,2014-11,2014-11,2,Male,17,Unirea
+11273,2014-11,2014-11,2,Male,18,Bistrita
+11274,2014-11,2014-11,2,Male,18,Nasaud
+11275,2014-11,2014-11,2,Male,20,Bistrita
+11276,2014-11,2014-11,2,Male,22,Bistrita
+11277,2014-11,2014-11,2,Male,23,Bistrita
+11278,2014-11,2014-11,2,Male,14,Sieu
+11280,2014-12,2014-12,2,Female,15,Budacu de jos
+11281,2014-12,2014-12,2,Female,15,Prundu Bargaului
+11282,2014-12,2014-12,2,Female,16,Anies
+11283,2014-12,2014-12,2,Female,16,Beclean
+11284,2014-12,2014-12,2,Female,16,Bistrita
+11285,2014-12,2014-12,2,Female,16,Bistrita
+11286,2014-12,2014-12,2,Female,16,Budacu de jos
+11287,2014-12,2014-12,2,Female,16,Maieru
+11288,2014-12,2014-12,2,Female,16,Tarlisua
+11289,2014-12,2014-12,2,Female,17,Beclean
+11290,2014-12,2014-12,2,Female,17,Bistrita
+11291,2014-12,2014-12,2,Female,17,Bistrita
+11292,2014-12,2014-12,2,Female,17,Maieru
+11293,2014-12,2014-12,2,Female,17,Nasaud
+11294,2014-12,2014-12,2,Female,17,Nimigea de Jos
+11295,2014-12,2014-12,2,Female,18,Bistrita
+11296,2014-12,2014-12,2,Female,18,Bistrita
+11297,2014-12,2014-12,2,Female,18,Dumitra
+11298,2014-12,2014-12,2,Female,18,Monariu
+11299,2014-12,2014-12,2,Female,19,Coasta
+11300,2014-12,2014-12,2,Female,20,Bistrita
+11301,2014-12,2014-12,2,Female,24,Nasaud
+11302,2014-12,2014-12,2,Female,25,Bistrita
+11304,2014-12,2014-12,2,Female,15,Ilva Mica
+11305,2014-12,2014-12,2,Female,17,Sieu
+11306,2014-12,2014-12,2,Male,15,Lechinta
+11307,2014-12,2014-12,2,Male,16,Beclean
+11308,2014-12,2014-12,2,Male,16,Bistrita
+11309,2014-12,2014-12,2,Male,16,Lunca Ilvei
+11310,2014-12,2014-12,2,Male,16,Teaca
+11311,2014-12,2014-12,2,Male,17,Beclean
+11312,2014-12,2014-12,2,Male,17,Bistrita
+11313,2014-12,2014-12,2,Male,17,Bistrita
+11314,2014-12,2014-12,2,Male,17,Bistrita
+11315,2014-12,2014-12,2,Male,17,Caian
+11316,2014-12,2014-12,2,Male,17,Sieu Magherus
+11317,2014-12,2014-12,2,Male,17,Telciu
+11318,2014-12,2014-12,2,Male,17,Unirea
+11319,2014-12,2014-12,2,Male,18,Bistrita
+11320,2014-12,2014-12,2,Male,18,Nasaud
+11321,2014-12,2014-12,2,Male,20,Bistrita
+11322,2014-12,2014-12,2,Male,22,Bistrita
+11323,2014-12,2014-12,2,Male,23,Bistrita
+11324,2014-12,2014-12,2,Male,23,Bistrita
+11325,2014-12,2014-12,2,Male,15,Sieu
+11548,2014-08,2014-08,3,Female,23,Uppsala
+11549,2014-08,2014-08,3,Female,25,V�ster�s
+11550,2014-08,2014-08,3,Female,15,Sandviken
+11551,2014-08,2014-08,3,Female,17,�stersund
+11552,2014-08,2014-08,3,Female,17,Kramfors
+11553,2014-08,2014-08,3,Female,17,Nacka
+11554,2014-08,2014-08,3,Female,17,Norrk�ping
+11555,2014-08,2014-08,3,Female,17,Ume�
+11556,2014-08,2014-08,3,Female,18,Borl�nge
+11557,2014-08,2014-08,3,Female,19,Borl�nge
+11558,2014-08,2014-08,3,Female,19,G�vle
+11559,2014-08,2014-08,3,Female,19,Uppsala
+11560,2014-08,2014-08,3,Female,20,Danderyd
+11561,2014-08,2014-08,3,Female,20,G�teborg
+11562,2014-08,2014-08,3,Female,21,Lund
+11563,2014-08,2014-08,3,Female,22,�re
+11564,2014-08,2014-08,3,Female,22,Falun
+11565,2014-08,2014-08,3,Female,22,G�teborg
+11566,2014-08,2014-08,3,Female,22,Uppsala
+11567,2014-08,2014-08,3,Female,23,Lund
+11568,2014-08,2014-08,3,Female,23,Stockholm
+11569,2014-08,2014-08,3,Female,23,Uppsala
+11570,2014-08,2014-08,3,Female,24,Finsp�ng
+11571,2014-08,2014-08,3,Female,24,Lund
+11572,2014-08,2014-08,3,Female,24,Malm�
+11573,2014-08,2014-08,3,Female,24,Stockholm
+11574,2014-08,2014-08,3,Female,24,Uppsala
+11575,2014-08,2014-08,3,Female,25,Bromma
+11576,2014-08,2014-08,3,Female,25,Stockholm
+11587,2014-08,2014-08,3,Male,17,Borl�nge
+11588,2014-08,2014-08,3,Male,17,Solna
+11589,2014-08,2014-08,3,Male,18,Katrineholm
+11590,2014-08,2014-08,3,Male,20,Onsala
+11591,2014-08,2014-08,3,Male,20,Ume�
+11592,2014-08,2014-08,3,Male,22,Johanneshov
+11593,2014-08,2014-08,3,Male,22,Stockholm
+11594,2014-08,2014-08,3,Male,23,J�nk�ping
+11595,2014-08,2014-08,3,Male,23,Jokkmokk
+11596,2014-08,2014-08,3,Male,23,Ume�
+11597,2014-08,2014-08,3,Male,24,Bromma
+11598,2014-08,2014-08,3,Male,24,Stockholm
+11599,2014-08,2014-08,3,Male,25,Stockholm
+11614,2014-10,2014-10,5,Female,21,Maribor
+11615,2014-10,2014-10,5,Female,22,Maribor
+11616,2014-10,2014-10,5,Female,22,Spodnje Dobrenje
+11617,2014-10,2014-10,5,Female,23,Maribor
+11618,2014-10,2014-10,5,Female,24,Maribor
+11619,2014-10,2014-10,5,Female,24,Zgornja Korena
+11620,2014-10,2014-10,5,Female,25,Maribor
+11625,2014-10,2014-10,5,Male,21,Maribor
+11626,2014-10,2014-10,5,Male,22,Maribor
+11627,2014-10,2014-10,5,Male,23,Maribor
+11628,2014-10,2014-10,5,Male,25,Maribor
+11633,2014-10,2014-10,3,Female,24,Brno
+11637,2014-10,2014-10,3,Female,20,Bratislava
+11638,2014-10,2014-10,3,Female,20,Handlov�
+11639,2014-10,2014-10,3,Female,22,Trnava
+11640,2014-10,2014-10,3,Female,23,Trnava
+11641,2014-10,2014-10,3,Male,24,Bratislava
+11642,2014-10,2014-10,3,Male,25,Martin
+11645,2014-12,2014-12,1,Female,16,Bratislava
+11646,2014-12,2014-12,1,Female,16,Brodsk�
+11647,2014-12,2014-12,1,Female,16,Hol��
+11648,2014-12,2014-12,1,Female,16,Kop�any
+11649,2014-12,2014-12,1,Female,16,Moravsk� sv. J�n
+11650,2014-12,2014-12,1,Female,16,Skalica
+11651,2014-12,2014-12,1,Female,17,Bratislava
+11652,2014-12,2014-12,1,Female,17,Skalica
+11653,2014-12,2014-12,1,Female,17,Vrbovce
+11657,2014-12,2014-12,1,Male,15,Bratislava
+11658,2014-12,2014-12,1,Male,15,Skalica
+11659,2014-12,2014-12,1,Male,16,Bratislava
+11660,2014-12,2014-12,1,Male,16,Radimov
+11661,2014-12,2014-12,1,Male,16,Skalica
+11662,2014-12,2014-12,1,Male,16,Un�n
+12334,2014-12,2014-12,3,Female,18,U?ak
+12335,2014-12,2014-12,3,Female,19,?zmir
+12336,2014-12,2014-12,3,Female,19,Bursa
+12337,2014-12,2014-12,3,Female,19,U?ak
+12338,2014-12,2014-12,3,Female,19,Yalova
+12339,2014-12,2014-12,3,Female,20,?zmir
+12340,2014-12,2014-12,3,Female,20,Bursa
+12341,2014-12,2014-12,3,Female,20,U?ak
+12342,2014-12,2014-12,3,Female,20,Yalova
+12343,2014-12,2014-12,3,Female,21,Adana
+12344,2014-12,2014-12,3,Female,22,Adana
+12345,2014-12,2014-12,3,Female,22,Bursa
+12346,2014-12,2014-12,3,Female,23,?zmir
+12347,2014-12,2014-12,3,Female,23,Adana
+12348,2014-12,2014-12,3,Female,23,Bursa
+12349,2014-12,2014-12,3,Female,24,Bal?kesir
+12350,2014-12,2014-12,3,Female,25,Manisa
+12352,2014-12,2014-12,3,Male,21,Afyonkarahisar
+12353,2014-12,2014-12,3,Male,21,Bursa
+12354,2014-12,2014-12,3,Male,21,Yalova
+12355,2014-12,2014-12,3,Male,22,?zmir
+12356,2014-12,2014-12,3,Male,22,Bursa
+12357,2014-12,2014-12,3,Male,22,Kayseri
+12358,2014-12,2014-12,3,Male,22,Kayseri
+12359,2014-12,2014-12,3,Male,23,?zmir
+12360,2014-12,2014-12,3,Male,24,?zmir
+12361,2014-12,2014-12,3,Male,24,Bursa
+12362,2014-12,2014-12,3,Male,25,Bursa
+12444,2014-09,2014-09,1,Female,14,Erzurum
+12445,2014-09,2014-09,1,Female,15,Erzurum
+12446,2014-09,2014-09,1,Female,15,erzurum
+12447,2014-09,2014-09,1,Female,16,Erzurum
+12448,2014-09,2014-09,1,Female,17,Erzurum
+12449,2014-09,2014-09,1,Female,17,Erzurum
+12450,2014-09,2014-09,1,Female,18,Erzurum
+12451,2014-09,2014-09,1,Female,15,Erzurum
+12453,2014-10,2014-10,1,Female,16,Erzurum
+12454,2014-10,2014-10,1,Female,17,Erzurum
+12455,2014-10,2014-10,1,Female,18,Erzurum
+12456,2014-11,2014-11,1,Female,15,Erzurum
+12457,2014-11,2014-11,1,Female,16,Erzurum
+12458,2014-11,2014-11,1,Female,17,Erzurum
+12459,2014-11,2014-11,1,Female,18,Erzurum
+12804,2014-09,2014-09,1,Male,16,Belfast
+12805,2014-09,2014-09,1,Female,15,Belfast
+12806,2014-09,2014-09,1,Female,16,Belfast
+12807,2014-09,2014-09,1,Female,17,Belfast
+12808,2014-09,2014-09,1,Female,18,Belfast
+12809,2014-09,2014-09,1,Female,19,Belfast
+12810,2014-09,2014-09,1,Female,20,Belfast
+12811,2014-09,2014-09,1,Female,21,Belfast
+12812,2014-09,2014-09,1,Female,22,Belfast
+12813,2014-09,2014-09,1,Male,17,Belfast
+12814,2014-09,2014-09,1,Male,18,Belfast
+12815,2014-09,2014-09,1,Male,21,Belfast
+12816,2014-09,2014-09,1,Male,23,Belfast
+12818,2014-09,2014-09,1,Female,15,Belfast
+12819,2014-09,2014-09,1,Female,16,Belfast
+12820,2014-09,2014-09,1,Female,17,Belfast
+12821,2014-09,2014-09,1,Female,18,Belfast
+12822,2014-09,2014-09,1,Female,19,Belfast
+12823,2014-09,2014-09,1,Female,23,Belfast
+12824,2014-09,2014-09,1,Female,24,Belfast
+12826,2014-09,2014-09,1,Male,14,Belfast
+12827,2014-09,2014-09,1,Male,15,Belfast
+12828,2014-09,2014-09,1,Male,16,Belfast
+12829,2014-09,2014-09,1,Male,17,Belfast
+12830,2014-09,2014-09,1,Male,18,Belfast
+12831,2014-09,2014-09,1,Male,20,Belfast
+12832,2014-09,2014-09,1,Male,21,Belfast
+12833,2014-09,2014-09,1,Male,22,Belfast
+12835,2014-10,2014-10,1,Female,15,Belfast
+12836,2014-10,2014-10,1,Female,16,Belfast
+12837,2014-10,2014-10,1,Female,17,Belfast
+12838,2014-10,2014-10,1,Female,19,Belfast
+12839,2014-10,2014-10,1,Female,23,Belfast
+12840,2014-10,2014-10,1,Male,15,Belfast
+12841,2014-10,2014-10,1,Male,16,Belfast
+12842,2014-10,2014-10,1,Male,18,Belfast
+12843,2014-10,2014-10,1,Male,21,Belfast
+12844,2014-10,2014-10,1,Male,22,Belfast
+12847,2014-10,2014-10,1,Male,15,Belfast
+12848,2014-10,2014-10,1,Female,15,Belfast
+12849,2014-10,2014-10,1,Female,16,Belfast
+12850,2014-10,2014-10,1,Female,17,Belfast
+12851,2014-10,2014-10,1,Female,18,Belfast
+12852,2014-10,2014-10,1,Female,21,Belfast
+12854,2014-10,2014-10,1,Male,14,Belfast
+12855,2014-10,2014-10,1,Male,17,Belfast
+12856,2014-10,2014-10,1,Male,20,Belfast
+12857,2014-10,2014-10,1,Male,21,Belfast
+12941,2014-12,2014-12,1,Male,13,London
+12942,2014-12,2014-12,4,Female,25,London
+13126,2014-11,2014-11,7,Female,18,Burgas
+13127,2014-11,2014-11,7,Female,20,Burgas
+13128,2014-11,2014-11,7,Female,21,Burgas
+13129,2014-11,2014-11,7,Female,18,Burgas
+13130,2014-11,2014-11,7,Female,20,Burgas
+13131,2014-11,2014-11,7,Female,21,Burgas
+13132,2014-11,2014-11,7,Female,23,Burgas
+13133,2014-11,2014-11,7,Male,19,Burgas
+13134,2014-11,2014-11,7,Male,22,Burgas
+13135,2014-11,2014-11,7,Male,17,Burgas
+13136,2014-11,2014-11,7,Male,19,Burgas
+13137,2014-11,2014-11,7,Male,21,Burgas
+13138,2014-11,2014-11,7,Male,23,Burgas
+13139,2014-11,2014-11,7,Female,19,Riga
+13140,2014-11,2014-11,7,Female,20,Riga
+13141,2014-11,2014-11,7,Female,22,Riga
+13142,2014-11,2014-11,7,Female,18,Riga
+13143,2014-11,2014-11,7,Female,19,Riga
+13144,2014-11,2014-11,7,Female,20,Riga
+13145,2014-11,2014-11,7,Female,21,Riga
+13146,2014-11,2014-11,7,Male,21,Riga
+13147,2014-11,2014-11,7,Male,22,Riga
+13148,2014-11,2014-11,7,Male,19,Riga
+13149,2014-11,2014-11,7,Male,20,Riga
+13150,2014-11,2014-11,7,Male,22,Riga
+13151,2014-11,2014-11,7,Female,18,Lisboa
+13152,2014-11,2014-11,7,Female,19,Lisboa
+13153,2014-11,2014-11,7,Female,18,Lisboa
+13154,2014-11,2014-11,7,Female,19,Lisboa
+13155,2014-11,2014-11,7,Female,20,Lisboa
+13156,2014-11,2014-11,7,Female,23,Lisboa
+13157,2014-11,2014-11,7,Male,21,Lisboa
+13158,2014-11,2014-11,7,Male,22,Lisboa
+13159,2014-11,2014-11,7,Male,17,Lisboa
+13160,2014-11,2014-11,7,Male,19,Lisboa
+13161,2014-11,2014-11,7,Male,20,Lisboa
+13162,2014-11,2014-11,7,Male,21,Lisboa
+13163,2014-11,2014-11,7,Male,22,Lisboa
+13164,2014-11,2014-11,7,Male,24,Lisboa
+13165,2014-11,2014-11,7,Female,19,LEAMINGTON SPA WARWICKSHIRE
+13166,2014-11,2014-11,7,Female,22,LEAMINGTON SPA WARWICKSHIRE
+13167,2014-11,2014-11,7,Female,18,LEAMINGTON SPA WARWICKSHIRE
+13168,2014-11,2014-11,7,Female,19,LEAMINGTON SPA WARWICKSHIRE
+13169,2014-11,2014-11,7,Female,20,LEAMINGTON SPA WARWICKSHIRE
+13170,2014-11,2014-11,7,Female,22,LEAMINGTON SPA WARWICKSHIRE
+13171,2014-11,2014-11,7,Female,23,LEAMINGTON SPA WARWICKSHIRE
+13172,2014-11,2014-11,7,Male,21,LEAMINGTON SPA WARWICKSHIRE
+13173,2014-11,2014-11,7,Male,23,LEAMINGTON SPA WARWICKSHIRE
+13174,2014-11,2014-11,7,Male,18,LEAMINGTON SPA WARWICKSHIRE
+13175,2014-11,2014-11,7,Male,19,LEAMINGTON SPA WARWICKSHIRE
+13176,2014-11,2014-11,7,Male,20,LEAMINGTON SPA WARWICKSHIRE
+13177,2014-11,2014-11,7,Male,21,LEAMINGTON SPA WARWICKSHIRE
+13178,2014-11,2014-11,7,Male,22,LEAMINGTON SPA WARWICKSHIRE
